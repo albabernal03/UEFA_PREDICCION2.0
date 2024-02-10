@@ -1,18 +1,15 @@
-import requests
+
 from bs4 import BeautifulSoup
-import pandas as pd
+import requests
+years=[2013,2014,2015,2016,2017,2018,2019,2020,2021,2022]
+web='https://espndeportes.espn.com/futbol/posiciones/_/liga/UEFA.CHAMPIONS/ordenar/pointdifferential/dir/desc/temporada/2022'
+response=requests.get(web)
+content=response.text
+soup=BeautifulSoup(content, 'lxml')
 
-# Obtener el contenido HTML de la página de Wikipedia
-url = 'https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2023-24'
-response = requests.get(url)
-soup = BeautifulSoup(response.content, 'html.parser')
+matches=soup.find_all('div', class_='excerpt')
 
-# Buscar la tabla que contiene la información de los grupos de la A a la H
-tables = soup.find('div', class_='excerpt')
+for match in matches:
+    print(match.find('tr').get_text())
 
-#vemos la información de la tabla
-print(tables)
 
-#la visualizamos en un dataframe
-df = pd.read_html(str(tables))
-print(df)
