@@ -9,7 +9,7 @@ def get_data(year, stage):
     try:
         url = f'https://es.wikipedia.org/wiki/Anexo:{stage}_de_la_Liga_de_Campeones_de_la_UEFA_{year}'
         response = requests.get(url)
-        response.raise_for_status()  # Raise an exception for HTTP errors
+        response.raise_for_status()  # lanza una excepción
 
         soup = BeautifulSoup(response.text, 'html.parser')
         table = soup.find('table', {'class': 'wikitable'})
@@ -17,7 +17,7 @@ def get_data(year, stage):
         if table:
             data = []
             rows = table.find_all('tr')
-            for row in rows[1:]:  # Skip the header row
+            for row in rows[1:]:  # Se salta la primera fila que contiene los encabezados
                 cols = row.find_all(['th', 'td'])
                 row_data = [year, stage] + [cell.get_text(strip=True) for cell in cols]
                 data.append(row_data)
