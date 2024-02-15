@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
+
 # URL de la página web
 url = 'https://es.wikipedia.org/wiki/Anexo:Octavos_de_final_de_la_Liga_de_Campeones_de_la_UEFA_2022-23'
 
