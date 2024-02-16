@@ -20,7 +20,7 @@ def get_data(year, stage):
         if stage != 'Final':
             table = soup.find('table', {'class': 'wikitable'})
         else:
-            # Encuentra la tabla que contiene los datos de la final
+            # Encuentra la tabla que contiene la información de la final
             table = soup.find('table', {'class': 'collapsible collapsed'})
 
         if table:
@@ -32,15 +32,8 @@ def get_data(year, stage):
                 for cell in cols:
                     row_data.append(cell.get_text(strip=True))
                 if stage == 'Final':
-                    # Si es la fase final, agregamos una columna adicional para el resultado
-                    final_result_th = soup.find('th', style="font-size:200%; white-space:nowrap")
-                    if final_result_th:
-                        final_result = final_result_th.get_text(strip=True)
-                        row_data.append(final_result)
-                    else:
-                        # Si no se encuentra el resultado, añadimos un valor vacío
-                        row_data.append('')
-                # Asegurémonos de que todas las filas tengan la misma longitud
+                    # Si es la fase final, agregar columnas adicionales con valores vacíos
+                    row_data.extend(['', '', ''])
                 data.append(row_data)
             return data
         else:
@@ -57,10 +50,10 @@ for stage in stages:
         if data is not None:
             all_data.extend(data)
 
-# Definimos las columnas incluyendo la columna adicional para el resultado
+# Definir las columnas
 column_names = ['Temporada', 'Fase', 'Equipo 1', 'Agr.', 'Equipo 2', 'Ida', 'Vuelta', 'Resultado']
 
 all_data_df = pd.DataFrame(all_data, columns=column_names)
 
-# Guardamos los datos en un archivo CSV
-all_data_df.to_csv('prueba.csv', index=False)
+# Guardar los datos en un archivo CSV
+all_data_df.to_csv('combined_data.csv', index=False)

@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
+import csv
+import pandas as pd
 
 years = ['2018-19', '2019-20', '2020-21', '2021-22', '2022-23']
 
@@ -33,13 +35,17 @@ final_data = []
 
 for year in years:
     team_1, result, team_2 = get_final_data(year)
-    final_data.append([year, team_1, result, team_2])  
+    final_data.append([year, 'Final', team_1, result, team_2])  
 
-#pasar csv
-import csv
+# Escribir en el archivo CSV
 with open('final.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
-    writer.writerow(['Temporada', 'Equipo 1', 'Resultado', 'Equipo 2'])
+    writer.writerow(['Temporada', 'Fase', 'Equipo 1', 'Resultado', 'Equipo 2'])
     writer.writerows(final_data)
 
+# Leer el archivo CSV
+final_df = pd.read_csv('final.csv')
+
+# Mostrar el DataFrame
+print(final_df)
 
