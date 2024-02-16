@@ -37,9 +37,9 @@ for stage in stages:
             all_data.extend(data)
 
 
-# Convert the list to a DataFrame
+# Convierte la lista de listas en un DataFrame de pandas
 column_names = ['Temporada', 'Fase', 'Equipo 1', 'Agr.', 'Equipo 2', 'Ida', 'Vuelta']
 all_data_df = pd.DataFrame(all_data, columns=column_names)
 
-# Save the concatenated data to a single CSV file
+# Guarda el DataFrame en un archivo CSV
 all_data_df.to_csv('champions_results.csv', index=False)
