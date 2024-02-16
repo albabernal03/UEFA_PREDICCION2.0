@@ -45,10 +45,9 @@ for year in years:
     get_data(year)
 
 # Cambiamos el encabezado de la primera columna
-datos_totales[0][0] = 'Temporada'
-
+datos_totales[0][0] = 'Season'
 # Escribimos los datos en un archivo CSV
-csv_file = 'datos_champion.csv'
+csv_file = 'datos_champions.csv'
 with open(csv_file, 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     for row in datos_totales:
