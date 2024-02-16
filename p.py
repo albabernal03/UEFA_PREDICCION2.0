@@ -30,13 +30,17 @@ def get_data(year, stage):
                 cols = row.find_all(['th', 'td'])
                 row_data = [year, stage]
                 for cell in cols:
-                    if stage == 'Final':
-                        bold_text = cell.find('b')
-                        if bold_text:
-                            # Aquí obtenemos el texto dentro de la etiqueta <b>
-                            row_data.append(bold_text.get_text(strip=True))
+                    row_data.append(cell.get_text(strip=True))
+                if stage == 'Final':
+                    # Si es la fase final, agregamos una columna adicional para el resultado
+                    final_result_th = soup.find('th', style="font-size:200%; white-space:nowrap")
+                    if final_result_th:
+                        final_result = final_result_th.get_text(strip=True)
+                        row_data.append(final_result)
                     else:
-                        row_data.append(cell.get_text(strip=True))
+                        # Si no se encuentra el resultado, añadimos un valor vacío
+                        row_data.append('')
+                # Asegurémonos de que todas las filas tengan la misma longitud
                 data.append(row_data)
             return data
         else:
@@ -53,9 +57,10 @@ for stage in stages:
         if data is not None:
             all_data.extend(data)
 
-column_names = ['Temporada', 'Fase', 'Equipo 1', 'Agr.', 'Equipo 2', 'Ida', 'Vuelta']
+# Definimos las columnas incluyendo la columna adicional para el resultado
+column_names = ['Temporada', 'Fase', 'Equipo 1', 'Agr.', 'Equipo 2', 'Ida', 'Vuelta', 'Resultado']
+
 all_data_df = pd.DataFrame(all_data, columns=column_names)
 
-# Guardar los datos en CSV
+# Guardamos los datos en un archivo CSV
 all_data_df.to_csv('prueba.csv', index=False)
-
