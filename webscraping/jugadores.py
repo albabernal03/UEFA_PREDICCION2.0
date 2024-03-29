@@ -1,4 +1,4 @@
-from selenium import webdriver
+from selenium import webdriver #esto lo usamos para cuando es dinámico
 from bs4 import BeautifulSoup
 import pandas as pd
 
