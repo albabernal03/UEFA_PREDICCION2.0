@@ -67,7 +67,7 @@ driver.quit()
 df = pd.DataFrame(datos_grandes, columns=encabezado)
 
 # Guardar el DataFrame en un archivo CSV
-archivo_csv = 'jugadores.csv'
+archivo_csv = 'data/jugadores.csv'
 df.to_csv(archivo_csv, index=False, encoding='utf-8')
 
 print(f"Datos grandes guardados en {archivo_csv}")
