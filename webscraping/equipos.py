@@ -54,4 +54,4 @@ with open(csv_file, 'w', newline='', encoding='utf-8') as file:
         writer.writerow(row)
 
 # Imprimimos un mensaje de éxito
-print(f"El archivo CSV '{csv_file}' ha sido creado exitosamente.")
+print(f"El archivo CSV '{csv_file}' ha sido creado exitosamente.") #Esto lo puse para saber si se ejecutó correctamente
