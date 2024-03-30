@@ -1,0 +1,35 @@
+Season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Last 5,Attendance,Top Team Scorer,Goalkeeper,Top Team Scorer Goals,Country
+2023-2024,QF,Manchester City,8.0,8.0,0.0,0.0,24.0,9.0,15.0,24.0,WWWDW,"51,047",Erling Haaland,Ederson,6,England
+2023-2024,QF,Real Madrid,8.0,7.0,1.0,0.0,18.0,8.0,10.0,22.0,WDDWW,"70,851",Jude Bellingham,"Kepa Arrizabalaga,Andriy Lunin",4,Spain
+2023-2024,QF,Bayern Munich,8.0,6.0,1.0,1.0,15.0,7.0,8.0,19.0,WDWWW,"75,000",Harry Kane,Manuel Neuer,6,Germany
+2023-2024,QF,Atlético Madrid,8.0,5.0,2.0,1.0,19.0,8.0,11.0,17.0,LWLWL,"63,844",Antoine Griezmann,Jan Oblak,6,Spain
+2023-2024,QF,Arsenal,8.0,5.0,1.0,2.0,17.0,5.0,12.0,16.0,LWWWW,"59,782",Gabriel Jesus,David Raya,4,England
+2023-2024,QF,Barcelona,8.0,5.0,1.0,2.0,16.0,8.0,8.0,16.0,WDWWW,"44,058","Robert Lewandowski,Ferrán Torres... ",Marc-André ter Stegen,3,Spain
+2023-2024,QF,Dortmund,8.0,4.0,3.0,1.0,10.0,5.0,5.0,15.0,LWWWW,"81,365","Marco Reus,Karim Adeyemi",Gregor Kobel,2,Germany
+2023-2024,QF,Paris S-G,8.0,4.0,2.0,2.0,13.0,9.0,4.0,14.0,DWDWW,"46,553",Kylian Mbappé,Gianluigi Donnarumma,6,France
+2023-2024,,,,,,,,,,,,,,,,Unknown
+2023-2024,R16,Porto,8.0,5.0,0.0,3.0,16.0,9.0,7.0,15.0,DWWLW,"47,944",Galeno,Diogo Costa,5,Portugal
+2023-2024,R16,Inter,8.0,4.0,3.0,1.0,10.0,7.0,3.0,15.0,WWWLD,"70,279","Alexis Sánchez,Marko Arnautović... ",Yann Sommer,2,Italy
+2023-2024,R16,RB Leipzig,8.0,4.0,1.0,3.0,14.0,12.0,2.0,13.0,LWDWW,"43,949",Loïs Openda,Janis Blaswich,4,Germany
+2023-2024,R16,Lazio,8.0,4.0,1.0,3.0,8.0,10.0,-2.0,13.0,LLLLW,"47,701",Ciro Immobile,Ivan Provedel,4,Italy
+2023-2024,R16,Real Sociedad,8.0,3.0,3.0,2.0,8.0,6.0,2.0,12.0,DLLWW,"36,790",Brais Méndez,Álex Remiro,3,Spain
+2023-2024,R16,Napoli,8.0,3.0,2.0,3.0,12.0,13.0,-1.0,11.0,WWDLD,"45,367",Victor Osimhen,Alex Meret,2,Italy
+2023-2024,R16,PSV Eindhoven,8.0,2.0,4.0,2.0,9.0,13.0,-4.0,10.0,WDWLW,"34,589",Luuk de Jong,Walter Benítez,3,Netherlands
+2023-2024,R16,FC Copenhagen,8.0,2.0,2.0,4.0,10.0,14.0,-4.0,8.0,WLLWW,"35,592","Mohamed Elyounoussi,Lukas Lerager",Kamil Grabara,3,Denmark
+2023-2024,,,,,,,,,,,,,,,,Unknown
+2023-2024,GR,Shakhtar,6.0,3.0,0.0,3.0,10.0,12.0,-2.0,9.0,LDWWW,"47,695",Danylo Sikan,Dmytro Riznyk,4,Ukraine
+2023-2024,GR,Milan,6.0,2.0,2.0,2.0,5.0,8.0,-3.0,8.0,WWWWW,"72,212",Samuel Chukwueze,Mike Maignan,2,Italy
+2023-2024,GR,Lens,6.0,2.0,2.0,2.0,6.0,11.0,-5.0,8.0,LWWLL,"37,543","Angelo Fulgini,Elye Wahi",Brice Samba,2,France
+2023-2024,GR,Feyenoord,6.0,2.0,0.0,4.0,9.0,10.0,-1.0,6.0,DWDWW,"44,010",Santiago Giménez,Justin Bijlow,2,Netherlands
+2023-2024,GR,Newcastle Utd,6.0,1.0,2.0,3.0,6.0,7.0,-1.0,5.0,LDWLL,"52,023","Dan Burn,Fabian Schär... ",Nick Pope,1,England
+2023-2024,GR,Galatasaray,6.0,1.0,2.0,3.0,10.0,13.0,-3.0,5.0,LWWWW,"50,140","Mauro Icardi,Hakim Ziyech... ",Fernando Muslera,2,Turkey
+2023-2024,GR,Manchester Utd,6.0,1.0,1.0,4.0,12.0,15.0,-3.0,4.0,LWLWW,"73,175",Rasmus Højlund,André Onana,5,England
+2023-2024,GR,Benfica,6.0,1.0,1.0,4.0,7.0,11.0,-4.0,4.0,DWWWW,"56,621",João Mário,Anatolii Trubin,3,Portugal
+2023-2024,GR,RB Salzburg,6.0,1.0,1.0,4.0,4.0,8.0,-4.0,4.0,DWWWW,"28,477",Oscar Gloukh,Alexander Schlager,2,Austria
+2023-2024,GR,Young Boys,6.0,1.0,1.0,4.0,7.0,13.0,-6.0,4.0,DLLWL,"31,500",Meschak Elia,Anthony Racioppi,2,Switzerland
+2023-2024,GR,Braga,6.0,1.0,1.0,4.0,6.0,12.0,-6.0,4.0,WWWDW,"21,366","Bruma,Álvaro djaló",Matheus,2,Portugal
+2023-2024,GR,Celtic,6.0,1.0,1.0,4.0,5.0,15.0,-10.0,4.0,DWWLW,"56,099","Kyogo Furuhashi,Luis Enrique Palma",Joe Hart,2,Scotland
+2023-2024,GR,Antwerp,6.0,1.0,0.0,5.0,6.0,17.0,-11.0,3.0,LDWWD,"13,570","Vincent Janssen,Arbnor Muja... ",Jean Butez,1,Belgium
+2023-2024,GR,Union Berlin,6.0,0.0,2.0,4.0,6.0,10.0,-4.0,2.0,WDLLW,"72,976",Sheraldo Becker,Frederik Rønnow,2,Germany
+2023-2024,GR,Sevilla,6.0,0.0,2.0,4.0,7.0,12.0,-5.0,2.0,DLWDL,"34,181","Sergio Ramos,Nemanja Gudelj... ",Marko Dmitrović,2,Spain
+2023-2024,GR,Red Star,6.0,0.0,1.0,5.0,7.0,15.0,-8.0,1.0,WWDWW,"46,202",Osman Bukari,Omri Glazer,2,Serbia
