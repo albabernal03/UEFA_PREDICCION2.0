@@ -49,7 +49,7 @@ for year in years:
         print(f"Error al procesar la temporada {year}: {e}")
 
 # Escribimos los datos en un archivo CSV
-csv_file_path = '../data/overall.csv'
+csv_file_path = 'data/overall.csv'
 with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
     csv_writer = csv.writer(csv_file)
     for row in datos_totales:

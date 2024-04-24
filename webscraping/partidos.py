@@ -74,7 +74,7 @@ print(datos_totales)
 # Escribimos los datos en un archivo CSV
 datos_totales.insert(0, encabezados)
 # Escribimos los datos en un archivo CSV
-csv_file_path = '../data/partidos.csv'
+csv_file_path = 'data/partidos.csv'
 with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
     csv_writer = csv.writer(csv_file)
     for row in datos_totales:
