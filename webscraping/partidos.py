@@ -73,11 +73,12 @@ print(datos_totales)
 
 # Escribimos los datos en un archivo CSV
 datos_totales.insert(0, encabezados)
-ruta_csv = '../data/partido.csv'
-with open(ruta_csv, 'w', newline='', encoding='utf-8') as archivo_csv:
-    escritor_csv = csv.writer(archivo_csv)
-    for fila in datos_totales:
-        escritor_csv.writerow(fila)
+# Escribimos los datos en un archivo CSV
+csv_file_path = '../data/partidos.csv'
+with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
+    csv_writer = csv.writer(csv_file)
+    for row in datos_totales:
+        csv_writer.writerow(row)
 
 # Imprimimos un mensaje de éxito
-print(f"El archivo CSV '{ruta_csv.split('/')[-1]}' ha sido creado exitosamente.")
+print(f"El archivo CSV '{csv_file_path}' ha sido creado exitosamente.")
