@@ -1,0 +1,575 @@
+Season,Round,Day,Date,Home,Score,Away,Venue,Referee
+2022-2023,Round of 16,Tue,2023-02-14,Milan,1-0,Tottenham,Stadio Giuseppe Meazza,Sandro Schärer
+2022-2023,Round of 16,Tue,2023-02-14,Paris S-G,0-1,Bayern Munich,Parc des Princes,Michael Oliver
+2022-2023,Round of 16,Wed,2023-02-15,Club Brugge,0-2,Benfica,Jan Breydelstadion,Davide Massa
+2022-2023,Round of 16,Wed,2023-02-15,Dortmund,1-0,Chelsea,Signal Iduna Park,Jesús Gil
+2022-2023,Round of 16,Tue,2023-02-21,Liverpool,2-5,Real Madrid,Anfield,István Kovács
+2022-2023,Round of 16,Tue,2023-02-21,Eint Frankfurt,0-2,Napoli,Deutsche Bank Park,Artur Dias
+2022-2023,Round of 16,Wed,2023-02-22,Inter,1-0,Porto,Stadio Giuseppe Meazza,Srđan Jovanović
+2022-2023,Round of 16,Wed,2023-02-22,RB Leipzig,1-1,Manchester City,Red Bull Arena,Serdar Gözübüyük
+2022-2023,Round of 16,Tue,2023-03-07,Benfica,5-1,Club Brugge,Estádio do Sport Lisboa e Benfica,Halil Umut Meler
+2022-2023,Round of 16,Tue,2023-03-07,Chelsea,2-0,Dortmund,Stamford Bridge,Danny Makkelie
+2022-2023,Round of 16,Wed,2023-03-08,Tottenham,0-0,Milan,Tottenham Hotspur Stadium,Clément Turpin
+2022-2023,Round of 16,Wed,2023-03-08,Bayern Munich,2-0,Paris S-G,Allianz Arena,Daniele Orsato
+2022-2023,Round of 16,Tue,2023-03-14,Porto,0-0,Inter,Estádio Do Dragão,Szymon Marciniak
+2022-2023,Round of 16,Tue,2023-03-14,Manchester City,7-0,RB Leipzig,Etihad Stadium,Slavko Vinčič
+2022-2023,Round of 16,Wed,2023-03-15,Real Madrid,1-0,Liverpool,Estadio Santiago Bernabéu,Felix Zwayer
+2022-2023,Round of 16,Wed,2023-03-15,Napoli,3-0,Eint Frankfurt,Stadio Diego Armando Maradona,Anthony Taylor
+2022-2023,Quarter-finals,Tue,2023-04-11,Benfica,0-2,Inter,Estádio da Luz (1954),Michael Oliver
+2022-2023,Quarter-finals,Tue,2023-04-11,Manchester City,3-0,Bayern Munich,Etihad Stadium,Jesús Gil
+2022-2023,Quarter-finals,Wed,2023-04-12,Milan,1-0,Napoli,Stadio Giuseppe Meazza,István Kovács
+2022-2023,Quarter-finals,Wed,2023-04-12,Real Madrid,2-0,Chelsea,Estadio Santiago Bernabéu,François Letexier
+2022-2023,Quarter-finals,Tue,2023-04-18,Chelsea,0-2,Real Madrid,Stamford Bridge,Daniele Orsato
+2022-2023,Quarter-finals,Tue,2023-04-18,Napoli,1-1,Milan,Stadio Diego Armando Maradona,Szymon Marciniak
+2022-2023,Quarter-finals,Wed,2023-04-19,Inter,3-3,Benfica,Stadio Giuseppe Meazza,Carlos del Cerro
+2022-2023,Quarter-finals,Wed,2023-04-19,Bayern Munich,1-1,Manchester City,Allianz Arena,Clément Turpin
+2022-2023,Semi-finals,Tue,2023-05-09,Real Madrid,1-1,Manchester City,Estadio Santiago Bernabéu,Artur Dias
+2022-2023,Semi-finals,Wed,2023-05-10,Milan,0-2,Inter,Stadio Giuseppe Meazza,Jesús Gil
+2022-2023,Semi-finals,Tue,2023-05-16,Inter,1-0,Milan,Stadio Giuseppe Meazza,Clément Turpin
+2022-2023,Semi-finals,Wed,2023-05-17,Manchester City,4-0,Real Madrid,Etihad Stadium,Szymon Marciniak
+2022-2023,Final,Sat,2023-06-10,Manchester City,1-0,Inter,Atatürk Olimpiyat Stadı (Neutral Site),Szymon Marciniak
+2021-2022,Round of 16,Tue,2022-02-15,Sporting CP,0-5,Manchester City,Estádio José Alvalade,Srdjan Stojanovic
+2021-2022,Round of 16,Tue,2022-02-15,Paris S-G,1-0,Real Madrid,Parc des Princes,Daniele Orsato
+2021-2022,Round of 16,Wed,2022-02-16,Inter,0-2,Liverpool,Stadio Giuseppe Meazza,Szymon Marciniak
+2021-2022,Round of 16,Wed,2022-02-16,RB Salzburg,1-1,Bayern Munich,Red Bull Arena,Michael Oliver
+2021-2022,Round of 16,Tue,2022-02-22,Chelsea,2-0,Lille,Stamford Bridge,Jesús Gil
+2021-2022,Round of 16,Tue,2022-02-22,Villarreal,1-1,Juventus,Estadio de la Cerámica,Daniel Siebert
+2021-2022,Round of 16,Wed,2022-02-23,Benfica,2-2,Ajax,Estádio do Sport Lisboa e Benfica,Slavko Vinčič
+2021-2022,Round of 16,Wed,2022-02-23,Atlético Madrid,1-1,Manchester Utd,Estadio Wanda Metropolitano,Ovidiu Hațegan
+2021-2022,Round of 16,Tue,2022-03-08,Liverpool,0-1,Inter,Anfield,Antonio Matéu Lahoz
+2021-2022,Round of 16,Tue,2022-03-08,Bayern Munich,7-1,RB Salzburg,Allianz Arena,Clément Turpin
+2021-2022,Round of 16,Wed,2022-03-09,Manchester City,0-0,Sporting CP,Etihad Stadium,Halil Umut Meler
+2021-2022,Round of 16,Wed,2022-03-09,Real Madrid,3-1,Paris S-G,Estadio Santiago Bernabéu,Danny Makkelie
+2021-2022,Round of 16,Tue,2022-03-15,Manchester Utd,0-1,Atlético Madrid,Old Trafford,Slavko Vinčič
+2021-2022,Round of 16,Tue,2022-03-15,Ajax,0-1,Benfica,Johan Cruyff ArenA,Carlos del Cerro
+2021-2022,Round of 16,Wed,2022-03-16,Juventus,0-3,Villarreal,Allianz Stadium,Szymon Marciniak
+2021-2022,Round of 16,Wed,2022-03-16,Lille,1-2,Chelsea,Stade Pierre-Mauroy,Davide Massa
+2021-2022,Quarter-finals,Tue,2022-04-05,Manchester City,1-0,Atlético Madrid,Etihad Stadium,István Kovács
+2021-2022,Quarter-finals,Tue,2022-04-05,Benfica,1-3,Liverpool,Estádio do Sport Lisboa e Benfica,Jesús Gil
+2021-2022,Quarter-finals,Wed,2022-04-06,Chelsea,1-3,Real Madrid,Stamford Bridge,Clément Turpin
+2021-2022,Quarter-finals,Wed,2022-04-06,Villarreal,1-0,Bayern Munich,Estadio de la Cerámica,Anthony Taylor
+2021-2022,Quarter-finals,Tue,2022-04-12,Real Madrid,2-3,Chelsea,Estadio Santiago Bernabéu,Szymon Marciniak
+2021-2022,Quarter-finals,Tue,2022-04-12,Bayern Munich,1-1,Villarreal,Allianz Arena,Slavko Vinčič
+2021-2022,Quarter-finals,Wed,2022-04-13,Liverpool,3-3,Benfica,Anfield,Serdar Gözübüyük
+2021-2022,Quarter-finals,Wed,2022-04-13,Atlético Madrid,0-0,Manchester City,Estadio Wanda Metropolitano,Daniel Siebert
+2021-2022,Semi-finals,Tue,2022-04-26,Manchester City,4-3,Real Madrid,Etihad Stadium,István Kovács
+2021-2022,Semi-finals,Wed,2022-04-27,Liverpool,2-0,Villarreal,Anfield,Szymon Marciniak
+2021-2022,Semi-finals,Tue,2022-05-03,Villarreal,2-3,Liverpool,Estadio de la Cerámica,Danny Makkelie
+2021-2022,Semi-finals,Wed,2022-05-04,Real Madrid,3-1,Manchester City,Estadio Santiago Bernabéu,Daniele Orsato
+2021-2022,Final,Sat,2022-05-28,Liverpool,0-1,Real Madrid,Stade de France (Neutral Site),Clément Turpin
+2020-2021,Round of 16,Tue,2021-02-16,RB Leipzig,0-2,Liverpool,Puskás Aréna (Neutral Site),Slavko Vinčič
+2020-2021,Round of 16,Tue,2021-02-16,Barcelona,1-4,Paris S-G,Camp Nou,Björn Kuipers
+2020-2021,Round of 16,Wed,2021-02-17,Porto,2-1,Juventus,Estádio Do Dragão,Carlos del Cerro
+2020-2021,Round of 16,Wed,2021-02-17,Sevilla,2-3,Dortmund,Estadio Ramón Sánchez Pizjuán,Danny Makkelie
+2020-2021,Round of 16,Tue,2021-02-23,Lazio,1-4,Bayern Munich,Stadio Olimpico,Orel Grinfeeld
+2020-2021,Round of 16,Tue,2021-02-23,Atlético Madrid,0-1,Chelsea,Arena Naţională (Neutral Site),Felix Brych
+2020-2021,Round of 16,Wed,2021-02-24,M'Gladbach,0-2,Manchester City,Puskás Aréna (Neutral Site),Artur Soares Dias
+2020-2021,Round of 16,Wed,2021-02-24,Atalanta,0-1,Real Madrid,Stadio Atleti Azzurri d'Italia,Tobias Stieler
+2020-2021,Round of 16,Tue,2021-03-09,Dortmund,2-2,Sevilla,Fußballpark BVB Hohenbuschei,Cüneyt Çakιr
+2020-2021,Round of 16,Tue,2021-03-09,Juventus,3-2,Porto,Allianz Stadium,Björn Kuipers
+2020-2021,Round of 16,Wed,2021-03-10,Liverpool,2-0,RB Leipzig,Puskás Aréna (Neutral Site),Clément Turpin
+2020-2021,Round of 16,Wed,2021-03-10,Paris S-G,1-1,Barcelona,Parc des Princes,Anthony Taylor
+2020-2021,Round of 16,Tue,2021-03-16,Manchester City,2-0,M'Gladbach,Puskás Aréna (Neutral Site),Sergey Karasev
+2020-2021,Round of 16,Tue,2021-03-16,Real Madrid,3-1,Atalanta,Estadio Alfredo Di Stéfano,Danny Makkelie
+2020-2021,Round of 16,Wed,2021-03-17,Chelsea,2-0,Atlético Madrid,Stamford Bridge,Daniele Orsato
+2020-2021,Round of 16,Wed,2021-03-17,Bayern Munich,2-1,Lazio,Allianz Arena,István Kovács
+2020-2021,Quarter-finals,Tue,2021-04-06,Manchester City,2-1,Dortmund,Etihad Stadium,Ovidiu Hațegan
+2020-2021,Quarter-finals,Tue,2021-04-06,Real Madrid,3-1,Liverpool,Estadio Alfredo Di Stéfano,Felix Brych
+2020-2021,Quarter-finals,Wed,2021-04-07,Porto,0-2,Chelsea,Estadio Ramón Sánchez Pizjuán (Neutral Site),Slavko Vinčič
+2020-2021,Quarter-finals,Wed,2021-04-07,Bayern Munich,2-3,Paris S-G,Allianz Arena,Antonio Matéu Lahoz
+2020-2021,Quarter-finals,Tue,2021-04-13,Chelsea,0-1,Porto,Estadio Ramón Sánchez Pizjuán (Neutral Site),Clément Turpin
+2020-2021,Quarter-finals,Tue,2021-04-13,Paris S-G,0-1,Bayern Munich,Parc des Princes,Daniele Orsato
+2020-2021,Quarter-finals,Wed,2021-04-14,Liverpool,0-0,Real Madrid,Anfield,Björn Kuipers
+2020-2021,Quarter-finals,Wed,2021-04-14,Dortmund,1-2,Manchester City,Signal Iduna Park,Carlos del Cerro
+2020-2021,Semi-finals,Tue,2021-04-27,Real Madrid,1-1,Chelsea,Estadio Alfredo Di Stéfano,Danny Makkelie
+2020-2021,Semi-finals,Wed,2021-04-28,Paris S-G,1-2,Manchester City,Parc des Princes,Felix Brych
+2020-2021,Semi-finals,Tue,2021-05-04,Manchester City,2-0,Paris S-G,Etihad Stadium,Björn Kuipers
+2020-2021,Semi-finals,Wed,2021-05-05,Chelsea,2-0,Real Madrid,Stamford Bridge,Daniele Orsato
+2020-2021,Final,Sat,2021-05-29,Manchester City,0-1,Chelsea,Estádio Do Dragão (Neutral Site),Antonio Matéu Lahoz
+2019-2020,Round of 16,Tue,2020-02-18,Atlético Madrid,1-0,Liverpool,Estadio Wanda Metropolitano,Szymon Marciniak
+2019-2020,Round of 16,Tue,2020-02-18,Dortmund,2-1,Paris S-G,Signal Iduna Park,Antonio Matéu Lahoz
+2019-2020,Round of 16,Wed,2020-02-19,Tottenham,0-1,RB Leipzig,Tottenham Hotspur Stadium,Cüneyt Çakιr
+2019-2020,Round of 16,Wed,2020-02-19,Atalanta,4-1,Valencia,Stadio Giuseppe Meazza,Michael Oliver
+2019-2020,Round of 16,Tue,2020-02-25,Chelsea,0-3,Bayern Munich,Stamford Bridge,Clément Turpin
+2019-2020,Round of 16,Tue,2020-02-25,Napoli,1-1,Barcelona,Stadio San Paolo,Felix Brych
+2019-2020,Round of 16,Wed,2020-02-26,Real Madrid,1-2,Manchester City,Estadio Santiago Bernabéu,Daniele Orsato
+2019-2020,Round of 16,Wed,2020-02-26,Lyon,1-0,Juventus,Groupama Stadium,Jesús Gil
+2019-2020,Round of 16,Tue,2020-03-10,Valencia,3-4,Atalanta,Estadio de Mestalla,Ovidiu Hațegan
+2019-2020,Round of 16,Tue,2020-03-10,RB Leipzig,3-0,Tottenham,Red Bull Arena,Carlos del Cerro
+2019-2020,Round of 16,Wed,2020-03-11,Liverpool,2-3,Atlético Madrid,Anfield,Danny Makkelie
+2019-2020,Round of 16,Wed,2020-03-11,Paris S-G,2-0,Dortmund,Parc des Princes,Anthony Taylor
+2019-2020,Round of 16,Fri,2020-08-07,Manchester City,2-1,Real Madrid,Etihad Stadium,Felix Brych
+2019-2020,Round of 16,Fri,2020-08-07,Juventus,2-1,Lyon,Allianz Stadium,Felix Zwayer
+2019-2020,Round of 16,Sat,2020-08-08,Barcelona,3-1,Napoli,Camp Nou,Cüneyt Çakιr
+2019-2020,Round of 16,Sat,2020-08-08,Bayern Munich,4-1,Chelsea,Allianz Arena,Ovidiu Hațegan
+2019-2020,Quarter-finals,Wed,2020-08-12,Atalanta,1-2,Paris S-G,Estádio do Sport Lisboa e Benfica (Neutral Site),Anthony Taylor
+2019-2020,Quarter-finals,Thu,2020-08-13,RB Leipzig,2-1,Atlético Madrid,Estádio José Alvalade (Neutral Site),Szymon Marciniak
+2019-2020,Quarter-finals,Fri,2020-08-14,Barcelona,2-8,Bayern Munich,Estádio do Sport Lisboa e Benfica (Neutral Site),Damir Skomina
+2019-2020,Quarter-finals,Sat,2020-08-15,Manchester City,1-3,Lyon,Estádio José Alvalade (Neutral Site),Danny Makkelie
+2019-2020,Semi-finals,Tue,2020-08-18,RB Leipzig,0-3,Paris S-G,Estádio do Sport Lisboa e Benfica (Neutral Site),Björn Kuipers
+2019-2020,Semi-finals,Wed,2020-08-19,Lyon,0-3,Bayern Munich,Estádio José Alvalade (Neutral Site),Antonio Matéu Lahoz
+2019-2020,Final,Sun,2020-08-23,Paris S-G,0-1,Bayern Munich,Estádio do Sport Lisboa e Benfica (Neutral Site),Daniele Orsato
+2018-2019,Round of 16,Tue,2019-02-12,Manchester Utd,0-2,Paris S-G,Old Trafford,Daniele Orsato
+2018-2019,Round of 16,Tue,2019-02-12,Roma,2-1,Porto,Stadio Olimpico,Jochem Kamphuis
+2018-2019,Round of 16,Wed,2019-02-13,Tottenham,3-0,Dortmund,Wembley Stadium,Antonio Matéu Lahoz
+2018-2019,Round of 16,Wed,2019-02-13,Ajax,1-2,Real Madrid,Johan Cruyff ArenA,Szymon Marciniak
+2018-2019,Round of 16,Tue,2019-02-19,Liverpool,0-0,Bayern Munich,Anfield,Gianluca Rocchi
+2018-2019,Round of 16,Tue,2019-02-19,Lyon,0-0,Barcelona,Groupama Stadium,Cüneyt Çakιr
+2018-2019,Round of 16,Wed,2019-02-20,Schalke 04,2-3,Manchester City,Veltins-Arena,Alejandro Hernández
+2018-2019,Round of 16,Wed,2019-02-20,Atlético Madrid,2-0,Juventus,Estadio Wanda Metropolitano,Felix Zwayer
+2018-2019,Round of 16,Tue,2019-03-05,Real Madrid,1-4,Ajax,Estadio Santiago Bernabéu,Felix Brych
+2018-2019,Round of 16,Tue,2019-03-05,Dortmund,0-1,Tottenham,Signal Iduna Park,Danny Makkelie
+2018-2019,Round of 16,Wed,2019-03-06,Porto,3-1,Roma,Estádio Do Dragão,Paweł Gil
+2018-2019,Round of 16,Wed,2019-03-06,Paris S-G,1-3,Manchester Utd,Parc des Princes,Damir Skomina
+2018-2019,Round of 16,Tue,2019-03-12,Manchester City,7-0,Schalke 04,Etihad Stadium,Clément Turpin
+2018-2019,Round of 16,Tue,2019-03-12,Juventus,3-0,Atlético Madrid,Allianz Stadium,Björn Kuipers
+2018-2019,Round of 16,Wed,2019-03-13,Bayern Munich,1-3,Liverpool,Allianz Arena,Daniele Orsato
+2018-2019,Round of 16,Wed,2019-03-13,Barcelona,5-1,Lyon,Camp Nou,Szymon Marciniak
+2018-2019,Quarter-finals,Tue,2019-04-09,Tottenham,1-0,Manchester City,Tottenham Hotspur Stadium,Björn Kuipers
+2018-2019,Quarter-finals,Tue,2019-04-09,Liverpool,2-0,Porto,Anfield,Antonio Matéu Lahoz
+2018-2019,Quarter-finals,Wed,2019-04-10,Manchester Utd,0-1,Barcelona,Old Trafford,Gianluca Rocchi
+2018-2019,Quarter-finals,Wed,2019-04-10,Ajax,1-1,Juventus,Johan Cruyff ArenA,Carlos del Cerro
+2018-2019,Quarter-finals,Tue,2019-04-16,Juventus,1-2,Ajax,Allianz Stadium,Clément Turpin
+2018-2019,Quarter-finals,Tue,2019-04-16,Barcelona,3-0,Manchester Utd,Camp Nou,Felix Brych
+2018-2019,Quarter-finals,Wed,2019-04-17,Manchester City,4-3,Tottenham,Etihad Stadium,Cüneyt Çakιr
+2018-2019,Quarter-finals,Wed,2019-04-17,Porto,1-4,Liverpool,Estádio Do Dragão,Danny Makkelie
+2018-2019,Semi-finals,Tue,2019-04-30,Tottenham,0-1,Ajax,Tottenham Hotspur Stadium,Antonio Matéu Lahoz
+2018-2019,Semi-finals,Wed,2019-05-01,Barcelona,3-0,Liverpool,Camp Nou,Björn Kuipers
+2018-2019,Semi-finals,Tue,2019-05-07,Liverpool,4-0,Barcelona,Anfield,Cüneyt Çakιr
+2018-2019,Semi-finals,Wed,2019-05-08,Ajax,2-3,Tottenham,Johan Cruyff ArenA,Felix Brych
+2018-2019,Final,Sat,2019-06-01,Tottenham,0-2,Liverpool,Estadio Wanda Metropolitano (Neutral Site),Damir Skomina
+2017-2018,Round of 16,Tue,2018-02-13,Juventus,2-2,Tottenham,Allianz Stadium,Felix Brych
+2017-2018,Round of 16,Tue,2018-02-13,Basel,0-4,Manchester City,St. Jakob-Park,Jonas Eriksson
+2017-2018,Round of 16,Wed,2018-02-14,Porto,0-5,Liverpool,Estádio Do Dragão,Daniele Orsato
+2017-2018,Round of 16,Wed,2018-02-14,Real Madrid,3-1,Paris S-G,Estadio Ramón Sánchez Pizjuán,Gianluca Rocchi
+2017-2018,Round of 16,Tue,2018-02-20,Chelsea,1-1,Barcelona,Stamford Bridge,Cüneyt Çakιr
+2017-2018,Round of 16,Tue,2018-02-20,Bayern Munich,5-0,Beşiktaş,Allianz Arena,Ovidiu Hațegan
+2017-2018,Round of 16,Wed,2018-02-21,Sevilla,0-0,Manchester Utd,Estadio Ramón Sánchez Pizjuán,Clément Turpin
+2017-2018,Round of 16,Wed,2018-02-21,Shakhtar,2-1,Roma,Oblasny SportKomplex Metalist,William Collum
+2017-2018,Round of 16,Tue,2018-03-06,Liverpool,0-0,Porto,Anfield,Felix Zwayer
+2017-2018,Round of 16,Tue,2018-03-06,Paris S-G,1-2,Real Madrid,Parc des Princes,Felix Brych
+2017-2018,Round of 16,Wed,2018-03-07,Manchester City,1-2,Basel,Etihad Stadium,Pavel Královec
+2017-2018,Round of 16,Wed,2018-03-07,Tottenham,1-2,Juventus,Wembley Stadium,Szymon Marciniak
+2017-2018,Round of 16,Tue,2018-03-13,Manchester Utd,1-2,Sevilla,Old Trafford,Danny Makkelie
+2017-2018,Round of 16,Tue,2018-03-13,Roma,1-0,Shakhtar,Stadio Olimpico,Alberto Undiano
+2017-2018,Round of 16,Wed,2018-03-14,Beşiktaş,1-3,Bayern Munich,Vodafone Arena,Michael Oliver
+2017-2018,Round of 16,Wed,2018-03-14,Barcelona,3-0,Chelsea,Camp Nou,Damir Skomina
+2017-2018,Quarter-finals,Tue,2018-04-03,Sevilla,1-2,Bayern Munich,Estadio Ramón Sánchez Pizjuán,Daniele Orsato
+2017-2018,Quarter-finals,Tue,2018-04-03,Juventus,0-3,Real Madrid,Allianz Stadium,Cüneyt Çakιr
+2017-2018,Quarter-finals,Wed,2018-04-04,Liverpool,3-0,Manchester City,Anfield,Felix Brych
+2017-2018,Quarter-finals,Wed,2018-04-04,Barcelona,4-1,Roma,Camp Nou,Danny Makkelie
+2017-2018,Quarter-finals,Tue,2018-04-10,Manchester City,1-2,Liverpool,Etihad Stadium,Antonio Matéu Lahoz
+2017-2018,Quarter-finals,Tue,2018-04-10,Roma,3-0,Barcelona,Stadio Olimpico,Clément Turpin
+2017-2018,Quarter-finals,Wed,2018-04-11,Bayern Munich,0-0,Sevilla,Allianz Arena,William Collum
+2017-2018,Quarter-finals,Wed,2018-04-11,Real Madrid,1-3,Juventus,Estadio Santiago Bernabéu,Michael Oliver
+2017-2018,Semi-finals,Tue,2018-04-24,Liverpool,5-2,Roma,Anfield,Felix Brych
+2017-2018,Semi-finals,Wed,2018-04-25,Bayern Munich,1-2,Real Madrid,Allianz Arena,Björn Kuipers
+2017-2018,Semi-finals,Tue,2018-05-01,Real Madrid,2-2,Bayern Munich,Estadio Santiago Bernabéu,Cüneyt Çakιr
+2017-2018,Semi-finals,Wed,2018-05-02,Roma,4-2,Liverpool,Stadio Olimpico,Damir Skomina
+2017-2018,Final,Sat,2018-05-26,Real Madrid,3-1,Liverpool,NSK Olimpijs'kyj (Neutral Site),Milorad Mažić
+2016-2017,Round of 16,Tue,2017-02-14,Benfica,1-0,Dortmund,Estádio do Sport Lisboa e Benfica,Nicola Rizzoli
+2016-2017,Round of 16,Tue,2017-02-14,Paris S-G,4-0,Barcelona,Parc des Princes,Szymon Marciniak
+2016-2017,Round of 16,Wed,2017-02-15,Bayern Munich,5-1,Arsenal,Allianz Arena,Milorad Mažić
+2016-2017,Round of 16,Wed,2017-02-15,Real Madrid,3-1,Napoli,Estadio Santiago Bernabéu,Damir Skomina
+2016-2017,Round of 16,Tue,2017-02-21,Manchester City,5-3,Monaco,Etihad Stadium,Antonio Matéu Lahoz
+2016-2017,Round of 16,Tue,2017-02-21,Leverkusen,2-4,Atlético Madrid,BayArena,William Collum
+2016-2017,Round of 16,Wed,2017-02-22,Porto,0-2,Juventus,Estádio Do Dragão,Felix Brych
+2016-2017,Round of 16,Wed,2017-02-22,Sevilla,2-1,Leicester City,Estadio Ramón Sánchez Pizjuán,Clément Turpin
+2016-2017,Round of 16,Tue,2017-03-07,Arsenal,1-5,Bayern Munich,Emirates Stadium,Tasos Sidiropoulos
+2016-2017,Round of 16,Tue,2017-03-07,Napoli,1-3,Real Madrid,Stadio San Paolo,Cüneyt Çakιr
+2016-2017,Round of 16,Wed,2017-03-08,Dortmund,4-0,Benfica,Signal Iduna Park,Martin Atkinson
+2016-2017,Round of 16,Wed,2017-03-08,Barcelona,6-1,Paris S-G,Camp Nou,Deniz Aytekin
+2016-2017,Round of 16,Tue,2017-03-14,Leicester City,2-0,Sevilla,King Power Stadium,Daniele Orsato
+2016-2017,Round of 16,Tue,2017-03-14,Juventus,1-0,Porto,Allianz Stadium,Ovidiu Hațegan
+2016-2017,Round of 16,Wed,2017-03-15,Atlético Madrid,0-0,Leverkusen,Estadio Vicente Calderón,Sergey Karasev
+2016-2017,Round of 16,Wed,2017-03-15,Monaco,3-1,Manchester City,Stade Louis II.,Gianluca Rocchi
+2016-2017,Quarter-finals,Tue,2017-04-11,Juventus,3-0,Barcelona,Allianz Stadium,Szymon Marciniak
+2016-2017,Quarter-finals,Wed,2017-04-12,Dortmund,2-3,Monaco,Signal Iduna Park,Daniele Orsato
+2016-2017,Quarter-finals,Wed,2017-04-12,Atlético Madrid,1-0,Leicester City,Estadio Vicente Calderón,Jonas Eriksson
+2016-2017,Quarter-finals,Wed,2017-04-12,Bayern Munich,1-2,Real Madrid,Allianz Arena,Nicola Rizzoli
+2016-2017,Quarter-finals,Tue,2017-04-18,Leicester City,1-1,Atlético Madrid,King Power Stadium,Gianluca Rocchi
+2016-2017,Quarter-finals,Tue,2017-04-18,Real Madrid,4-2,Bayern Munich,Estadio Santiago Bernabéu,Viktor Kassai
+2016-2017,Quarter-finals,Wed,2017-04-19,Monaco,3-1,Dortmund,Stade Louis II.,Damir Skomina
+2016-2017,Quarter-finals,Wed,2017-04-19,Barcelona,0-0,Juventus,Camp Nou,Björn Kuipers
+2016-2017,Semi-finals,Tue,2017-05-02,Real Madrid,3-0,Atlético Madrid,Estadio Santiago Bernabéu,Martin Atkinson
+2016-2017,Semi-finals,Wed,2017-05-03,Monaco,0-2,Juventus,Stade Louis II.,Antonio Matéu Lahoz
+2016-2017,Semi-finals,Tue,2017-05-09,Juventus,2-1,Monaco,Allianz Stadium,Björn Kuipers
+2016-2017,Semi-finals,Wed,2017-05-10,Atlético Madrid,2-1,Real Madrid,Estadio Vicente Calderón,Cüneyt Çakιr
+2016-2017,Final,Sat,2017-06-03,Juventus,1-4,Real Madrid,National Stadium (Neutral Site),Felix Brych
+2015-2016,Round of 16,Tue,2016-02-16,Benfica,1-0,Zenit,Estádio do Sport Lisboa e Benfica,Gianluca Rocchi
+2015-2016,Round of 16,Tue,2016-02-16,Paris S-G,2-1,Chelsea,Parc des Princes,Carlos Velasco
+2015-2016,Round of 16,Wed,2016-02-17,Roma,0-2,Real Madrid,Stadio Olimpico,Pavel Královec
+2015-2016,Round of 16,Wed,2016-02-17,Gent,2-3,Wolfsburg,GHELAMCO-arena,Svein Oddvar Moen
+2015-2016,Round of 16,Tue,2016-02-23,Arsenal,0-2,Barcelona,Emirates Stadium,Cüneyt Çakιr
+2015-2016,Round of 16,Tue,2016-02-23,Juventus,2-2,Bayern Munich,Allianz Stadium,Martin Atkinson
+2015-2016,Round of 16,Wed,2016-02-24,PSV Eindhoven,0-0,Atlético Madrid,Philips Stadion,Daniele Orsato
+2015-2016,Round of 16,Wed,2016-02-24,Dynamo Kyiv,1-3,Manchester City,NSK Olimpijs'kyj,Antonio Matéu Lahoz
+2015-2016,Round of 16,Tue,2016-03-08,Wolfsburg,1-0,Gent,Volkswagen Arena,Damir Skomina
+2015-2016,Round of 16,Tue,2016-03-08,Real Madrid,2-0,Roma,Estadio Santiago Bernabéu,Szymon Marciniak
+2015-2016,Round of 16,Wed,2016-03-09,Chelsea,1-2,Paris S-G,Stamford Bridge,Felix Brych
+2015-2016,Round of 16,Wed,2016-03-09,Zenit,1-2,Benfica,Stadion Petrovskij,Viktor Kassai
+2015-2016,Round of 16,Tue,2016-03-15,Manchester City,0-0,Dynamo Kyiv,Etihad Stadium,Ovidiu Hațegan
+2015-2016,Round of 16,Tue,2016-03-15,Atlético Madrid,0-0,PSV Eindhoven,Estadio Vicente Calderón,Mark Clattenburg
+2015-2016,Round of 16,Wed,2016-03-16,Barcelona,3-1,Arsenal,Camp Nou,Sergey Karasev
+2015-2016,Round of 16,Wed,2016-03-16,Bayern Munich,4-2,Juventus,Allianz Arena,Jonas Eriksson
+2015-2016,Quarter-finals,Tue,2016-04-05,Bayern Munich,1-0,Benfica,Allianz Arena,Szymon Marciniak
+2015-2016,Quarter-finals,Tue,2016-04-05,Barcelona,2-1,Atlético Madrid,Camp Nou,Felix Brych
+2015-2016,Quarter-finals,Wed,2016-04-06,Paris S-G,2-2,Manchester City,Parc des Princes,Milorad Mažić
+2015-2016,Quarter-finals,Wed,2016-04-06,Wolfsburg,2-0,Real Madrid,Volkswagen Arena,Gianluca Rocchi
+2015-2016,Quarter-finals,Tue,2016-04-12,Manchester City,1-0,Paris S-G,Etihad Stadium,Carlos Velasco
+2015-2016,Quarter-finals,Tue,2016-04-12,Real Madrid,3-0,Wolfsburg,Estadio Santiago Bernabéu,Viktor Kassai
+2015-2016,Quarter-finals,Wed,2016-04-13,Benfica,2-2,Bayern Munich,Estádio do Sport Lisboa e Benfica,Björn Kuipers
+2015-2016,Quarter-finals,Wed,2016-04-13,Atlético Madrid,2-0,Barcelona,Estadio Vicente Calderón,Nicola Rizzoli
+2015-2016,Semi-finals,Tue,2016-04-26,Manchester City,0-0,Real Madrid,Etihad Stadium,Cüneyt Çakιr
+2015-2016,Semi-finals,Wed,2016-04-27,Atlético Madrid,1-0,Bayern Munich,Estadio Vicente Calderón,Mark Clattenburg
+2015-2016,Semi-finals,Tue,2016-05-03,Bayern Munich,2-1,Atlético Madrid,Allianz Arena,Cüneyt Çakιr
+2015-2016,Semi-finals,Wed,2016-05-04,Real Madrid,1-0,Manchester City,Estadio Santiago Bernabéu,Damir Skomina
+2015-2016,Final,Sat,2016-05-28,Real Madrid,1-1,Atlético Madrid,Stadio Giuseppe Meazza (Neutral Site),Mark Clattenburg
+2014-2015,Round of 16,Tue,2015-02-17,Paris S-G,1-1,Chelsea,Parc des Princes,Cüneyt Çakιr
+2014-2015,Round of 16,Tue,2015-02-17,Shakhtar,0-0,Bayern Munich,L'viv Arena,Alberto Undiano
+2014-2015,Round of 16,Wed,2015-02-18,Basel,1-1,Porto,St. Jakob-Park,Mark Clattenburg
+2014-2015,Round of 16,Wed,2015-02-18,Schalke 04,0-2,Real Madrid,Veltins-Arena,Martin Atkinson
+2014-2015,Round of 16,Tue,2015-02-24,Manchester City,1-2,Barcelona,Etihad Stadium,Felix Brych
+2014-2015,Round of 16,Tue,2015-02-24,Juventus,2-1,Dortmund,Allianz Stadium,Antonio Matéu Lahoz
+2014-2015,Round of 16,Wed,2015-02-25,Arsenal,1-3,Monaco,Emirates Stadium,Deniz Aytekin
+2014-2015,Round of 16,Wed,2015-02-25,Leverkusen,1-0,Atlético Madrid,BayArena,Pavel Královec
+2014-2015,Round of 16,Tue,2015-03-10,Porto,4-0,Basel,Estádio Do Dragão,Jonas Eriksson
+2014-2015,Round of 16,Tue,2015-03-10,Real Madrid,3-4,Schalke 04,Estadio Santiago Bernabéu,Damir Skomina
+2014-2015,Round of 16,Wed,2015-03-11,Chelsea,2-2,Paris S-G,Stamford Bridge,Björn Kuipers
+2014-2015,Round of 16,Wed,2015-03-11,Bayern Munich,7-0,Shakhtar,Allianz Arena,William Collum
+2014-2015,Round of 16,Tue,2015-03-17,Monaco,0-2,Arsenal,Stade Louis II.,Svein Oddvar Moen
+2014-2015,Round of 16,Tue,2015-03-17,Atlético Madrid,1-0,Leverkusen,Estadio Vicente Calderón,Nicola Rizzoli
+2014-2015,Round of 16,Wed,2015-03-18,Dortmund,0-3,Juventus,Signal Iduna Park,Milorad Mažić
+2014-2015,Round of 16,Wed,2015-03-18,Barcelona,1-0,Manchester City,Camp Nou,Gianluca Rocchi
+2014-2015,Quarter-finals,Tue,2015-04-14,Juventus,1-0,Monaco,Allianz Stadium,Pavel Královec
+2014-2015,Quarter-finals,Tue,2015-04-14,Atlético Madrid,0-0,Real Madrid,Estadio Vicente Calderón,Milorad Mažić
+2014-2015,Quarter-finals,Wed,2015-04-15,Porto,3-1,Bayern Munich,Estádio Do Dragão,Carlos Velasco
+2014-2015,Quarter-finals,Wed,2015-04-15,Paris S-G,1-3,Barcelona,Parc des Princes,Mark Clattenburg
+2014-2015,Quarter-finals,Tue,2015-04-21,Barcelona,2-0,Paris S-G,Camp Nou,Svein Oddvar Moen
+2014-2015,Quarter-finals,Tue,2015-04-21,Bayern Munich,6-1,Porto,Allianz Arena,Martin Atkinson
+2014-2015,Quarter-finals,Wed,2015-04-22,Monaco,0-0,Juventus,Stade Louis II.,William Collum
+2014-2015,Quarter-finals,Wed,2015-04-22,Real Madrid,1-0,Atlético Madrid,Estadio Santiago Bernabéu,Felix Brych
+2014-2015,Semi-finals,Tue,2015-05-05,Juventus,2-1,Real Madrid,Allianz Stadium,Martin Atkinson
+2014-2015,Semi-finals,Wed,2015-05-06,Barcelona,3-0,Bayern Munich,Camp Nou,Nicola Rizzoli
+2014-2015,Semi-finals,Tue,2015-05-12,Bayern Munich,3-2,Barcelona,Allianz Arena,Mark Clattenburg
+2014-2015,Semi-finals,Wed,2015-05-13,Real Madrid,1-1,Juventus,Estadio Santiago Bernabéu,Jonas Eriksson
+2014-2015,Final,Sat,2015-06-06,Juventus,1-3,Barcelona,Olympiastadion Berlin (Neutral Site),Cüneyt Çakιr
+2013-2014,Round of 16,Tue,2014-02-18,Manchester City,0-2,Barcelona,City of Manchester Stadium,Jonas Eriksson
+2013-2014,Round of 16,Tue,2014-02-18,Leverkusen,0-4,Paris S-G,BayArena,Viktor Kassai
+2013-2014,Round of 16,Wed,2014-02-19,Milan,0-1,Atlético Madrid,Stadio Giuseppe Meazza,Pedro Proença
+2013-2014,Round of 16,Wed,2014-02-19,Arsenal,0-2,Bayern Munich,Arsenal Stadium,Nicola Rizzoli
+2013-2014,Round of 16,Tue,2014-02-25,Zenit,2-4,Dortmund,Stadion Petrovski,William Collum
+2013-2014,Round of 16,Tue,2014-02-25,Olympiacos,2-0,Manchester Utd,Stadio Georgios Karaiskakis,Gianluca Rocchi
+2013-2014,Round of 16,Wed,2014-02-26,Schalke 04,1-6,Real Madrid,Arena AufSchalke,Howard Webb
+2013-2014,Round of 16,Wed,2014-02-26,Galatasaray,1-1,Chelsea,Ali Sami Yen Spor Kompleksi,Velasco Carballo
+2013-2014,Round of 16,Tue,2014-03-11,Atlético Madrid,4-1,Milan,Estadio Vicente Calderón,Mark Clattenburg
+2013-2014,Round of 16,Tue,2014-03-11,Bayern Munich,1-1,Arsenal,Fußball Arena München,Svein Oddvar Moen
+2013-2014,Round of 16,Wed,2014-03-12,Barcelona,2-1,Manchester City,Camp Nou,Stéphane Lannoy
+2013-2014,Round of 16,Wed,2014-03-12,Paris S-G,2-1,Leverkusen,Parc des Princes,Ivan Bebek
+2013-2014,Round of 16,Tue,2014-03-18,Real Madrid,3-1,Schalke 04,Estadio Santiago Bernabéu,Sergei Karasev
+2013-2014,Round of 16,Tue,2014-03-18,Chelsea,2-0,Galatasaray,Stamford Bridge,Felix Brych
+2013-2014,Round of 16,Wed,2014-03-19,Manchester Utd,3-0,Olympiacos,Old Trafford,Björn Kuipers
+2013-2014,Round of 16,Wed,2014-03-19,Dortmund,1-2,Zenit,BVB Stadion Dortmund,Undiano Mallenco
+2013-2014,Quarter-finals,Tue,2014-04-01,Manchester Utd,1-1,Bayern Munich,Old Trafford,Velasco Carballo
+2013-2014,Quarter-finals,Tue,2014-04-01,Barcelona,1-1,Atlético Madrid,Camp Nou,Felix Brych
+2013-2014,Quarter-finals,Wed,2014-04-02,Paris S-G,3-1,Chelsea,Parc des Princes,Milorad Mažić
+2013-2014,Quarter-finals,Wed,2014-04-02,Real Madrid,3-0,Dortmund,Estadio Santiago Bernabéu,Mark Clattenburg
+2013-2014,Quarter-finals,Tue,2014-04-08,Dortmund,2-0,Real Madrid,BVB Stadion Dortmund,Damir Skomina
+2013-2014,Quarter-finals,Tue,2014-04-08,Chelsea,2-0,Paris S-G,Stamford Bridge,Pedro Proença
+2013-2014,Quarter-finals,Wed,2014-04-09,Bayern Munich,3-1,Manchester Utd,Fußball Arena München,Jonas Eriksson
+2013-2014,Quarter-finals,Wed,2014-04-09,Atlético Madrid,1-0,Barcelona,Estadio Vicente Calderón,Howard Webb
+2013-2014,Semi-finals,Tue,2014-04-22,Atlético Madrid,0-0,Chelsea,Estadio Vicente Calderón,Jonas Eriksson
+2013-2014,Semi-finals,Wed,2014-04-23,Real Madrid,1-0,Bayern Munich,Estadio Santiago Bernabéu,Howard Webb
+2013-2014,Semi-finals,Tue,2014-04-29,Bayern Munich,0-4,Real Madrid,Fußball Arena München,Pedro Proença
+2013-2014,Semi-finals,Wed,2014-04-30,Chelsea,1-3,Atlético Madrid,Stamford Bridge,Nicola Rizzoli
+2013-2014,Final,Sat,2014-05-24,Real Madrid,4-1,Atlético Madrid,Estádio do Sport Lisboa e Benfica (Neutral Site),Björn Kuipers
+2012-2013,Round of 16,Tue,2013-02-12,Valencia,1-2,Paris S-G,Estadi de Mestalla,Paolo Tagliavento
+2012-2013,Round of 16,Tue,2013-02-12,Celtic,0-3,Juventus,Celtic Park,Undiano Mallenco
+2012-2013,Round of 16,Wed,2013-02-13,Shakhtar,2-2,Dortmund,Donbass Arena,Howard Webb
+2012-2013,Round of 16,Wed,2013-02-13,Real Madrid,1-1,Manchester Utd,Estadio Santiago Bernabéu,Felix Brych
+2012-2013,Round of 16,Tue,2013-02-19,Porto,1-0,Málaga,Estádio do Dragão,Mark Clattenburg
+2012-2013,Round of 16,Tue,2013-02-19,Arsenal,1-3,Bayern Munich,Arsenal Stadium,Svein Oddvar Moen
+2012-2013,Round of 16,Wed,2013-02-20,Galatasaray,1-1,Schalke 04,Ali Sami Yen Spor Kompleksi,William Collum
+2012-2013,Round of 16,Wed,2013-02-20,Milan,2-0,Barcelona,Stadio Giuseppe Meazza,Craig Thomson
+2012-2013,Round of 16,Tue,2013-03-05,Manchester Utd,1-2,Real Madrid,Old Trafford,Cüneyt Çakır
+2012-2013,Round of 16,Tue,2013-03-05,Dortmund,3-0,Shakhtar,BVB Stadion Dortmund,Damir Skomina
+2012-2013,Round of 16,Wed,2013-03-06,Juventus,2-0,Celtic,Juventus Stadium,Fırat Aydınus
+2012-2013,Round of 16,Wed,2013-03-06,Paris S-G,1-1,Valencia,Parc des Princes,Milorad Mažić
+2012-2013,Round of 16,Tue,2013-03-12,Schalke 04,2-3,Galatasaray,Arena AufSchalke,Jonas Eriksson
+2012-2013,Round of 16,Tue,2013-03-12,Barcelona,4-0,Milan,Camp Nou,Viktor Kassai
+2012-2013,Round of 16,Wed,2013-03-13,Málaga,2-0,Porto,La Rosaleda,Nicola Rizzoli
+2012-2013,Round of 16,Wed,2013-03-13,Bayern Munich,0-2,Arsenal,Fußball Arena München,Pavel Královec
+2012-2013,Quarter-finals,Tue,2013-04-02,Bayern Munich,2-0,Juventus,Fußball Arena München,Mark Clattenburg
+2012-2013,Quarter-finals,Tue,2013-04-02,Paris S-G,2-2,Barcelona,Parc des Princes,Wolfgang Stark
+2012-2013,Quarter-finals,Wed,2013-04-03,Real Madrid,3-0,Galatasaray,Estadio Santiago Bernabéu,Svein Oddvar Moen
+2012-2013,Quarter-finals,Wed,2013-04-03,Málaga,0-0,Dortmund,La Rosaleda,Jonas Eriksson
+2012-2013,Quarter-finals,Tue,2013-04-09,Galatasaray,3-2,Real Madrid,Ali Sami Yen Spor Kompleksi,Stéphane Lannoy
+2012-2013,Quarter-finals,Tue,2013-04-09,Dortmund,3-2,Málaga,BVB Stadion Dortmund,Craig Thomson
+2012-2013,Quarter-finals,Wed,2013-04-10,Juventus,0-2,Bayern Munich,Juventus Stadium,Velasco Carballo
+2012-2013,Quarter-finals,Wed,2013-04-10,Barcelona,1-1,Paris S-G,Camp Nou,Björn Kuipers
+2012-2013,Semi-finals,Tue,2013-04-23,Bayern Munich,4-0,Barcelona,Fußball Arena München,Viktor Kassai
+2012-2013,Semi-finals,Wed,2013-04-24,Dortmund,4-1,Real Madrid,BVB Stadion Dortmund,Björn Kuipers
+2012-2013,Semi-finals,Tue,2013-04-30,Real Madrid,2-0,Dortmund,Estadio Santiago Bernabéu,Howard Webb
+2012-2013,Semi-finals,Wed,2013-05-01,Barcelona,0-3,Bayern Munich,Camp Nou,Damir Skomina
+2012-2013,Final,Sat,2013-05-25,Dortmund,1-2,Bayern Munich,Wembley Stadium (Neutral Site),Nicola Rizzoli
+2011-2012,Round of 16,Tue,2012-02-14,Leverkusen,1-3,Barcelona,BayArena,Craig Thomson
+2011-2012,Round of 16,Tue,2012-02-14,Lyon,1-0,APOEL FC,Stade de Gerland,Paolo Tagliavento
+2011-2012,Round of 16,Wed,2012-02-15,Zenit,3-2,Benfica,Stadion Petrovski,Jonas Eriksson
+2011-2012,Round of 16,Wed,2012-02-15,Milan,4-0,Arsenal,Stadio Giuseppe Meazza,Viktor Kassai
+2011-2012,Round of 16,Tue,2012-02-21,Napoli,3-1,Chelsea,Stadio San Paolo,Velasco Carballo
+2011-2012,Round of 16,Tue,2012-02-21,CSKA Moscow,1-1,Real Madrid,Stadion Luzhniki,Björn Kuipers
+2011-2012,Round of 16,Wed,2012-02-22,Marseille,1-0,Inter,Stade Vélodrome,Cüneyt Çakır
+2011-2012,Round of 16,Wed,2012-02-22,Basel,1-0,Bayern Munich,St. Jakob,Nicola Rizzoli
+2011-2012,Round of 16,Tue,2012-03-06,Benfica,2-0,Zenit,Estádio do Sport Lisboa e Benfica,Howard Webb
+2011-2012,Round of 16,Tue,2012-03-06,Arsenal,3-0,Milan,Arsenal Stadium,Damir Skomina
+2011-2012,Round of 16,Wed,2012-03-07,APOEL FC,1-0,Lyon,GSP Stadium,Undiano Mallenco
+2011-2012,Round of 16,Wed,2012-03-07,Barcelona,7-1,Leverkusen,Camp Nou,Svein Oddvar Moen
+2011-2012,Round of 16,Tue,2012-03-13,Bayern Munich,7-0,Basel,Fußball Arena München,Mark Clattenburg
+2011-2012,Round of 16,Tue,2012-03-13,Inter,2-1,Marseille,Stadio Giuseppe Meazza,Pedro Proença
+2011-2012,Round of 16,Wed,2012-03-14,Real Madrid,4-1,CSKA Moscow,Estadio Santiago Bernabéu,Stéphane Lannoy
+2011-2012,Round of 16,Wed,2012-03-14,Chelsea,4-1,Napoli,Stamford Bridge,Felix Brych
+2011-2012,Quarter-finals,Tue,2012-03-27,Benfica,0-1,Chelsea,Estádio do Sport Lisboa e Benfica,Paolo Tagliavento
+2011-2012,Quarter-finals,Tue,2012-03-27,APOEL FC,0-3,Real Madrid,GSP Stadium,Felix Brych
+2011-2012,Quarter-finals,Wed,2012-03-28,Milan,0-0,Barcelona,Stadio Giuseppe Meazza,Jonas Eriksson
+2011-2012,Quarter-finals,Wed,2012-03-28,Marseille,0-2,Bayern Munich,Stade Vélodrome,Velasco Carballo
+2011-2012,Quarter-finals,Tue,2012-04-03,Bayern Munich,2-0,Marseille,Fußball Arena München,Svein Oddvar Moen
+2011-2012,Quarter-finals,Tue,2012-04-03,Barcelona,3-1,Milan,Camp Nou,Björn Kuipers
+2011-2012,Quarter-finals,Wed,2012-04-04,Chelsea,2-1,Benfica,Stamford Bridge,Damir Skomina
+2011-2012,Quarter-finals,Wed,2012-04-04,Real Madrid,5-2,APOEL FC,Estadio Santiago Bernabéu,Gianluca Rocchi
+2011-2012,Semi-finals,Tue,2012-04-17,Bayern Munich,2-1,Real Madrid,Fußball Arena München,Howard Webb
+2011-2012,Semi-finals,Wed,2012-04-18,Chelsea,1-0,Barcelona,Stamford Bridge,Felix Brych
+2011-2012,Semi-finals,Tue,2012-04-24,Barcelona,2-2,Chelsea,Camp Nou,Cüneyt Çakır
+2011-2012,Semi-finals,Wed,2012-04-25,Real Madrid,2-1,Bayern Munich,Estadio Santiago Bernabéu,Viktor Kassai
+2011-2012,Final,Sat,2012-05-19,Bayern Munich,1-1,Chelsea,Fußball Arena München (Neutral Site),Pedro Proença
+2010-2011,Round of 16,Tue,2011-02-15,Valencia,1-1,Schalke 04,Estadi de Mestalla,Aleksei Nikolaev
+2010-2011,Round of 16,Tue,2011-02-15,Milan,0-1,Tottenham,Stadio Giuseppe Meazza,Stéphane Lannoy
+2010-2011,Round of 16,Wed,2011-02-16,Arsenal,2-1,Barcelona,Arsenal Stadium,Nicola Rizzoli
+2010-2011,Round of 16,Wed,2011-02-16,Roma,2-3,Shakhtar,Stadio Olimpico,Olegário Benquerença
+2010-2011,Round of 16,Tue,2011-02-22,Lyon,1-1,Real Madrid,Stade de Gerland,Wolfgang Stark
+2010-2011,Round of 16,Tue,2011-02-22,FC Copenhagen,0-2,Chelsea,Telia Parken,Björn Kuipers
+2010-2011,Round of 16,Wed,2011-02-23,Inter,0-1,Bayern Munich,Stadio Giuseppe Meazza,Viktor Kassai
+2010-2011,Round of 16,Wed,2011-02-23,Marseille,0-0,Manchester Utd,Stade Vélodrome,Felix Brych
+2010-2011,Round of 16,Tue,2011-03-08,Barcelona,3-1,Arsenal,Camp Nou,Massimo Busacca
+2010-2011,Round of 16,Tue,2011-03-08,Shakhtar,3-0,Roma,Donbass Arena,Howard Webb
+2010-2011,Round of 16,Wed,2011-03-09,Tottenham,0-0,Milan,White Hart Lane,Frank de Bleeckere
+2010-2011,Round of 16,Wed,2011-03-09,Schalke 04,3-1,Valencia,Arena AufSchalke,Jonas Eriksson
+2010-2011,Round of 16,Tue,2011-03-15,Manchester Utd,2-1,Marseille,Old Trafford,Velasco Carballo
+2010-2011,Round of 16,Tue,2011-03-15,Bayern Munich,2-3,Inter,Fußball Arena München,Pedro Proença
+2010-2011,Round of 16,Wed,2011-03-16,Real Madrid,3-0,Lyon,Estadio Santiago Bernabéu,Damir Skomina
+2010-2011,Round of 16,Wed,2011-03-16,Chelsea,0-0,FC Copenhagen,Stamford Bridge,Svein Oddvar Moen
+2010-2011,Quarter-finals,Tue,2011-04-05,Real Madrid,4-0,Tottenham,Estadio Santiago Bernabéu,Felix Brych
+2010-2011,Quarter-finals,Tue,2011-04-05,Inter,2-5,Schalke 04,Stadio Giuseppe Meazza,Martin Atkinson
+2010-2011,Quarter-finals,Wed,2011-04-06,Barcelona,5-1,Shakhtar,Camp Nou,Craig Thomson
+2010-2011,Quarter-finals,Wed,2011-04-06,Chelsea,0-1,Manchester Utd,Stamford Bridge,Undiano Mallenco
+2010-2011,Quarter-finals,Tue,2011-04-12,Shakhtar,0-1,Barcelona,Donbass Arena,Florian Meyer
+2010-2011,Quarter-finals,Tue,2011-04-12,Manchester Utd,2-1,Chelsea,Old Trafford,Olegário Benquerença
+2010-2011,Quarter-finals,Wed,2011-04-13,Tottenham,0-1,Real Madrid,White Hart Lane,Nicola Rizzoli
+2010-2011,Quarter-finals,Wed,2011-04-13,Schalke 04,2-1,Inter,Arena AufSchalke,Damir Skomina
+2010-2011,Semi-finals,Tue,2011-04-26,Schalke 04,0-2,Manchester Utd,Arena AufSchalke,Velasco Carballo
+2010-2011,Semi-finals,Wed,2011-04-27,Real Madrid,0-2,Barcelona,Estadio Santiago Bernabéu,Wolfgang Stark
+2010-2011,Semi-finals,Tue,2011-05-03,Barcelona,1-1,Real Madrid,Camp Nou,Frank de Bleeckere
+2010-2011,Semi-finals,Wed,2011-05-04,Manchester Utd,4-1,Schalke 04,Old Trafford,Pedro Proença
+2010-2011,Final,Sat,2011-05-28,Barcelona,3-1,Manchester Utd,Wembley Stadium (Neutral Site),Viktor Kassai
+2009-2010,Round of 16,Tue,2010-02-16,Lyon,1-0,Real Madrid,Stade de Gerland,Martin Atkinson
+2009-2010,Round of 16,Tue,2010-02-16,Milan,2-3,Manchester Utd,Stadio Giuseppe Meazza,Olegário Benquerença
+2009-2010,Round of 16,Wed,2010-02-17,Porto,2-1,Arsenal,Estádio do Dragão,Martin Hansson
+2009-2010,Round of 16,Wed,2010-02-17,Bayern Munich,2-1,Fiorentina,Fußball Arena München,Tom Henning Øvrebø
+2009-2010,Round of 16,Tue,2010-02-23,Olympiacos,0-1,Bordeaux,Stadio Georgios Karaiskakis,Howard Webb
+2009-2010,Round of 16,Tue,2010-02-23,Stuttgart,1-1,Barcelona,VfB Arena,Björn Kuipers
+2009-2010,Round of 16,Wed,2010-02-24,CSKA Moscow,1-1,Sevilla,Stadion Luzhniki,Felix Brych
+2009-2010,Round of 16,Wed,2010-02-24,Inter,2-1,Chelsea,Stadio Giuseppe Meazza,Mejuto González
+2009-2010,Round of 16,Tue,2010-03-09,Fiorentina,3-2,Bayern Munich,Stadio Artemio Franchi,Undiano Mallenco
+2009-2010,Round of 16,Tue,2010-03-09,Arsenal,5-0,Porto,Arsenal Stadium,Frank de Bleeckere
+2009-2010,Round of 16,Wed,2010-03-10,Real Madrid,1-1,Lyon,Estadio Santiago Bernabéu,Nicola Rizzoli
+2009-2010,Round of 16,Wed,2010-03-10,Manchester Utd,4-0,Milan,Old Trafford,Massimo Busacca
+2009-2010,Round of 16,Tue,2010-03-16,Chelsea,0-1,Inter,Stamford Bridge,Wolfgang Stark
+2009-2010,Round of 16,Tue,2010-03-16,Sevilla,1-2,CSKA Moscow,Estadio Ramón Sánchez Pizjuán,Viktor Kassai
+2009-2010,Round of 16,Wed,2010-03-17,Bordeaux,2-1,Olympiacos,Stade Chaban,Olegário Benquerença
+2009-2010,Round of 16,Wed,2010-03-17,Barcelona,4-0,Stuttgart,Camp Nou,Alain Hamer
+2009-2010,Quarter-finals,Tue,2010-03-30,Bayern Munich,2-1,Manchester Utd,Fußball Arena München,Frank de Bleeckere
+2009-2010,Quarter-finals,Tue,2010-03-30,Lyon,3-1,Bordeaux,Stade de Gerland,Felix Brych
+2009-2010,Quarter-finals,Wed,2010-03-31,Inter,1-0,CSKA Moscow,Stadio Giuseppe Meazza,Howard Webb
+2009-2010,Quarter-finals,Wed,2010-03-31,Arsenal,2-2,Barcelona,Arsenal Stadium,Massimo Busacca
+2009-2010,Quarter-finals,Tue,2010-04-06,CSKA Moscow,0-1,Inter,Stadion Luzhniki,Stéphane Lannoy
+2009-2010,Quarter-finals,Tue,2010-04-06,Barcelona,4-1,Arsenal,Camp Nou,Wolfgang Stark
+2009-2010,Quarter-finals,Wed,2010-04-07,Bordeaux,1-0,Lyon,Stade Chaban,Undiano Mallenco
+2009-2010,Quarter-finals,Wed,2010-04-07,Manchester Utd,3-2,Bayern Munich,Old Trafford,Nicola Rizzoli
+2009-2010,Semi-finals,Tue,2010-04-20,Inter,3-1,Barcelona,Stadio Giuseppe Meazza,Olegário Benquerença
+2009-2010,Semi-finals,Wed,2010-04-21,Bayern Munich,1-0,Lyon,Fußball Arena München,Roberto Rosetti
+2009-2010,Semi-finals,Tue,2010-04-27,Lyon,0-3,Bayern Munich,Stade de Gerland,Massimo Busacca
+2009-2010,Semi-finals,Wed,2010-04-28,Barcelona,1-0,Inter,Camp Nou,Frank de Bleeckere
+2009-2010,Final,Sat,2010-05-22,Bayern Munich,0-2,Inter,Estadio Santiago Bernabéu (Neutral Site),Howard Webb
+2008-2009,Round of 16,Tue,2009-02-24,Inter,0-0,Manchester Utd,Stadio Giuseppe Meazza,Medina Cantalejo
+2008-2009,Round of 16,Tue,2009-02-24,Arsenal,1-0,Roma,Arsenal Stadium,Claus Bo Larsen
+2008-2009,Round of 16,Tue,2009-02-24,Lyon,1-1,Barcelona,Stade de Gerland,Wolfgang Stark
+2008-2009,Round of 16,Tue,2009-02-24,Atlético Madrid,2-2,Porto,Estadio Vicente Calderón,Howard Webb
+2008-2009,Round of 16,Wed,2009-02-25,Sporting CP,0-5,Bayern Munich,José Alvalade,Bertrand Layec
+2008-2009,Round of 16,Wed,2009-02-25,Chelsea,1-0,Juventus,Stamford Bridge,Olegário Benquerença
+2008-2009,Round of 16,Wed,2009-02-25,Real Madrid,0-1,Liverpool,Estadio Santiago Bernabéu,Roberto Rosetti
+2008-2009,Round of 16,Wed,2009-02-25,Villarreal,1-1,Panathinaikos,Estadio El Madrigal,Konrad Plautz
+2008-2009,Round of 16,Tue,2009-03-10,Panathinaikos,1-2,Villarreal,OAKA Spiros Louis,Massimo Busacca
+2008-2009,Round of 16,Tue,2009-03-10,Bayern Munich,7-1,Sporting CP,Fußball Arena München,Martin Hansson
+2008-2009,Round of 16,Tue,2009-03-10,Juventus,2-2,Chelsea,Stadio Olimpico,Undiano Mallenco
+2008-2009,Round of 16,Tue,2009-03-10,Liverpool,4-0,Real Madrid,Anfield,Frank de Bleeckere
+2008-2009,Round of 16,Wed,2009-03-11,Roma,1-0,Arsenal,Stadio Olimpico,Mejuto González
+2008-2009,Round of 16,Wed,2009-03-11,Manchester Utd,2-0,Inter,Old Trafford,Wolfgang Stark
+2008-2009,Round of 16,Wed,2009-03-11,Porto,0-0,Atlético Madrid,Estádio do Dragão,Pieter Vink
+2008-2009,Round of 16,Wed,2009-03-11,Barcelona,5-2,Lyon,Camp Nou,Tom Henning Øvrebø
+2008-2009,Quarter-finals,Tue,2009-04-07,Villarreal,1-1,Arsenal,Estadio El Madrigal,Tom Henning Øvrebø
+2008-2009,Quarter-finals,Tue,2009-04-07,Manchester Utd,2-2,Porto,Old Trafford,Konrad Plautz
+2008-2009,Quarter-finals,Wed,2009-04-08,Barcelona,4-0,Bayern Munich,Camp Nou,Howard Webb
+2008-2009,Quarter-finals,Wed,2009-04-08,Liverpool,1-3,Chelsea,Anfield,Claus Bo Larsen
+2008-2009,Quarter-finals,Tue,2009-04-14,Chelsea,4-4,Liverpool,Stamford Bridge,Medina Cantalejo
+2008-2009,Quarter-finals,Tue,2009-04-14,Bayern Munich,1-1,Barcelona,Fußball Arena München,Roberto Rosetti
+2008-2009,Quarter-finals,Wed,2009-04-15,Porto,0-1,Manchester Utd,Estádio do Dragão,Massimo Busacca
+2008-2009,Quarter-finals,Wed,2009-04-15,Arsenal,3-0,Villarreal,Arsenal Stadium,Wolfgang Stark
+2008-2009,Semi-finals,Tue,2009-04-28,Barcelona,0-0,Chelsea,Camp Nou,Wolfgang Stark
+2008-2009,Semi-finals,Wed,2009-04-29,Manchester Utd,1-0,Arsenal,Old Trafford,Claus Bo Larsen
+2008-2009,Semi-finals,Tue,2009-05-05,Arsenal,1-3,Manchester Utd,Arsenal Stadium,Roberto Rosetti
+2008-2009,Semi-finals,Wed,2009-05-06,Chelsea,1-1,Barcelona,Stamford Bridge,Tom Henning Øvrebø
+2008-2009,Final,Wed,2009-05-27,Barcelona,2-0,Manchester Utd,Stadio Olimpico (Neutral Site),Massimo Busacca
+2007-2008,Round of 16,Tue,2008-02-19,Schalke 04,1-0,Porto,Arena AufSchalke,Laurent Duhamel
+2007-2008,Round of 16,Tue,2008-02-19,Liverpool,2-0,Inter,Anfield,Frank de Bleeckere
+2007-2008,Round of 16,Tue,2008-02-19,Roma,2-1,Real Madrid,Stadio Olimpico,Herbert Fandel
+2007-2008,Round of 16,Tue,2008-02-19,Olympiacos,0-0,Chelsea,Stadio Georgios Karaiskakis,Konrad Plautz
+2007-2008,Round of 16,Wed,2008-02-20,Arsenal,0-0,Milan,Arsenal Stadium,Claus Bo Larsen
+2007-2008,Round of 16,Wed,2008-02-20,Celtic,2-3,Barcelona,Celtic Park,Peter Fröjdfeldt
+2007-2008,Round of 16,Wed,2008-02-20,Fenerbahçe,3-2,Sevilla,Şükrü Saracoğlu,Florian Meyer
+2007-2008,Round of 16,Wed,2008-02-20,Lyon,1-1,Manchester Utd,Stade de Gerland,Medina Cantalejo
+2007-2008,Round of 16,Tue,2008-03-04,Manchester Utd,1-0,Lyon,Old Trafford,Roberto Rosetti
+2007-2008,Round of 16,Tue,2008-03-04,Sevilla,3-2,Fenerbahçe,Estadio Ramón Sánchez Pizjuán,Massimo Busacca
+2007-2008,Round of 16,Tue,2008-03-04,Milan,0-2,Arsenal,Stadio Giuseppe Meazza,Konrad Plautz
+2007-2008,Round of 16,Tue,2008-03-04,Barcelona,1-0,Celtic,Camp Nou,Pieter Vink
+2007-2008,Round of 16,Wed,2008-03-05,Porto,1-0,Schalke 04,Estádio do Dragão,Howard Webb
+2007-2008,Round of 16,Wed,2008-03-05,Chelsea,3-0,Olympiacos,Stamford Bridge,Mejuto González
+2007-2008,Round of 16,Wed,2008-03-05,Real Madrid,1-2,Roma,Estadio Santiago Bernabéu,Kyros Vassaras
+2007-2008,Round of 16,Tue,2008-03-11,Inter,0-1,Liverpool,Stadio Giuseppe Meazza,Tom Henning Øvrebø
+2007-2008,Quarter-finals,Tue,2008-04-01,Schalke 04,0-1,Barcelona,Arena AufSchalke,Kyros Vassaras
+2007-2008,Quarter-finals,Tue,2008-04-01,Roma,0-2,Manchester Utd,Stadio Olimpico,Frank de Bleeckere
+2007-2008,Quarter-finals,Wed,2008-04-02,Arsenal,1-1,Liverpool,Arsenal Stadium,Pieter Vink
+2007-2008,Quarter-finals,Wed,2008-04-02,Fenerbahçe,2-1,Chelsea,Şükrü Saracoğlu,Claus Bo Larsen
+2007-2008,Quarter-finals,Tue,2008-04-08,Chelsea,2-0,Fenerbahçe,Stamford Bridge,Herbert Fandel
+2007-2008,Quarter-finals,Tue,2008-04-08,Liverpool,4-2,Arsenal,Anfield,Peter Fröjdfeldt
+2007-2008,Quarter-finals,Wed,2008-04-09,Barcelona,1-0,Schalke 04,Camp Nou,Roberto Rosetti
+2007-2008,Quarter-finals,Wed,2008-04-09,Manchester Utd,1-0,Roma,Old Trafford,Tom Henning Øvrebø
+2007-2008,Semi-finals,Tue,2008-04-22,Liverpool,1-1,Chelsea,Anfield,Konrad Plautz
+2007-2008,Semi-finals,Wed,2008-04-23,Barcelona,0-0,Manchester Utd,Camp Nou,Massimo Busacca
+2007-2008,Semi-finals,Tue,2008-04-29,Manchester Utd,1-0,Barcelona,Old Trafford,Herbert Fandel
+2007-2008,Semi-finals,Wed,2008-04-30,Chelsea,3-2,Liverpool,Stamford Bridge,Roberto Rosetti
+2007-2008,Final,Wed,2008-05-21,Manchester Utd,1-1,Chelsea,Stadion Luzhniki (Neutral Site),Ľuboš Michel
+2006-2007,Round of 16,Tue,2007-02-20,Lille,0-1,Manchester Utd,Stade Félix,Eric Braamhaar
+2006-2007,Round of 16,Tue,2007-02-20,Real Madrid,3-2,Bayern Munich,Estadio Santiago Bernabéu,Frank de Bleeckere
+2006-2007,Round of 16,Tue,2007-02-20,Celtic,0-0,Milan,Celtic Park,Terje Hauge
+2006-2007,Round of 16,Tue,2007-02-20,PSV Eindhoven,1-0,Arsenal,PSV Stadion,Tom Henning Øvrebø
+2006-2007,Round of 16,Wed,2007-02-21,Porto,1-1,Chelsea,Estádio do Dragão,Massimo Busacca
+2006-2007,Round of 16,Wed,2007-02-21,Barcelona,1-2,Liverpool,Camp Nou,Kyros Vassaras
+2006-2007,Round of 16,Wed,2007-02-21,Roma,0-0,Lyon,Stadio Olimpico,Mike Riley
+2006-2007,Round of 16,Wed,2007-02-21,Inter,2-2,Valencia,Stadio Giuseppe Meazza,Martin Hansson
+2006-2007,Round of 16,Tue,2007-03-06,Chelsea,2-1,Porto,Stamford Bridge,Roberto Rosetti
+2006-2007,Round of 16,Tue,2007-03-06,Liverpool,0-1,Barcelona,Anfield,Herbert Fandel
+2006-2007,Round of 16,Tue,2007-03-06,Valencia,0-0,Inter,Estadi de Mestalla,Wolfgang Stark
+2006-2007,Round of 16,Tue,2007-03-06,Lyon,0-2,Roma,Stade de Gerland,Mejuto González
+2006-2007,Round of 16,Wed,2007-03-07,Manchester Utd,1-0,Lille,Old Trafford,Medina Cantalejo
+2006-2007,Round of 16,Wed,2007-03-07,Arsenal,1-1,PSV Eindhoven,Arsenal Stadium,Alain Hamer
+2006-2007,Round of 16,Wed,2007-03-07,Bayern Munich,2-1,Real Madrid,Fußball Arena München,Ľuboš Michel
+2006-2007,Round of 16,Wed,2007-03-07,Milan,1-0,Celtic,Stadio Giuseppe Meazza,Konrad Plautz
+2006-2007,Quarter-finals,Tue,2007-04-03,Milan,2-2,Bayern Munich,Stadio Giuseppe Meazza,Iouri Baskakov
+2006-2007,Quarter-finals,Tue,2007-04-03,PSV Eindhoven,0-3,Liverpool,PSV Stadion,Bertrand Layec
+2006-2007,Quarter-finals,Wed,2007-04-04,Chelsea,1-1,Valencia,Stamford Bridge,Frank de Bleeckere
+2006-2007,Quarter-finals,Wed,2007-04-04,Roma,2-1,Manchester Utd,Stadio Olimpico,Herbert Fandel
+2006-2007,Quarter-finals,Tue,2007-04-10,Manchester Utd,7-1,Roma,Old Trafford,Ľuboš Michel
+2006-2007,Quarter-finals,Tue,2007-04-10,Valencia,1-2,Chelsea,Estadi de Mestalla,Kyros Vassaras
+2006-2007,Quarter-finals,Wed,2007-04-11,Bayern Munich,0-2,Milan,Fußball Arena München,Mejuto González
+2006-2007,Quarter-finals,Wed,2007-04-11,Liverpool,1-0,PSV Eindhoven,Anfield,Roberto Rosetti
+2006-2007,Semi-finals,Tue,2007-04-24,Manchester Utd,3-2,Milan,Old Trafford,Kyros Vassaras
+2006-2007,Semi-finals,Wed,2007-04-25,Chelsea,1-0,Liverpool,Stamford Bridge,Markus Merk
+2006-2007,Semi-finals,Tue,2007-05-01,Liverpool,1-0,Chelsea,Anfield,Mejuto González
+2006-2007,Semi-finals,Wed,2007-05-02,Milan,3-0,Manchester Utd,Stadio Giuseppe Meazza,Frank de Bleeckere
+2006-2007,Final,Wed,2007-05-23,Milan,2-1,Liverpool,OAKA Spiros Louis (Neutral Site),Herbert Fandel
+2005-2006,Round of 16,Tue,2006-02-21,Benfica,1-0,Liverpool,Estádio do Sport Lisboa e Benfica,Konrad Plautz
+2005-2006,Round of 16,Tue,2006-02-21,Real Madrid,0-1,Arsenal,Estadio Santiago Bernabéu,Stefano Farina
+2005-2006,Round of 16,Tue,2006-02-21,Bayern Munich,1-1,Milan,Fußball Arena München,Frank de Bleeckere
+2005-2006,Round of 16,Tue,2006-02-21,PSV Eindhoven,0-1,Lyon,PSV Stadion,Kyros Vassaras
+2005-2006,Round of 16,Wed,2006-02-22,Ajax,2-2,Inter,Amsterdam ArenA,Wolfgang Stark
+2005-2006,Round of 16,Wed,2006-02-22,Rangers,2-2,Villarreal,Ibrox Stadium,Éric Poulat
+2005-2006,Round of 16,Wed,2006-02-22,Chelsea,1-2,Barcelona,Stamford Bridge,Terje Hauge
+2005-2006,Round of 16,Wed,2006-02-22,Werder Bremen,3-2,Juventus,Weserstadion,Mejuto González
+2005-2006,Round of 16,Tue,2006-03-07,Barcelona,1-1,Chelsea,Camp Nou,Markus Merk
+2005-2006,Round of 16,Tue,2006-03-07,Juventus,2-1,Werder Bremen,Delle Alpi,Graham Poll
+2005-2006,Round of 16,Tue,2006-03-07,Villarreal,1-1,Rangers,Estadio El Madrigal,Alain Hamer
+2005-2006,Round of 16,Wed,2006-03-08,Arsenal,0-0,Real Madrid,Highbury,Ľuboš Michel
+2005-2006,Round of 16,Wed,2006-03-08,Lyon,4-0,PSV Eindhoven,Stade de Gerland,Mike Riley
+2005-2006,Round of 16,Wed,2006-03-08,Milan,4-1,Bayern Munich,Stadio Giuseppe Meazza,Valentin Ivanov
+2005-2006,Round of 16,Wed,2006-03-08,Liverpool,0-2,Benfica,Anfield,Massimo De Santis
+2005-2006,Round of 16,Tue,2006-03-14,Inter,1-0,Ajax,Stadio Giuseppe Meazza,Peter Fröjdfeldt
+2005-2006,Quarter-finals,Tue,2006-03-28,Arsenal,2-0,Juventus,Highbury,Peter Fröjdfeldt
+2005-2006,Quarter-finals,Tue,2006-03-28,Benfica,0-0,Barcelona,Estádio do Sport Lisboa e Benfica,Stephen Bennett
+2005-2006,Quarter-finals,Wed,2006-03-29,Inter,2-1,Villarreal,Stadio Giuseppe Meazza,Alain Sars
+2005-2006,Quarter-finals,Wed,2006-03-29,Lyon,0-0,Milan,Stade de Gerland,Konrad Plautz
+2005-2006,Quarter-finals,Tue,2006-04-04,Villarreal,1-0,Inter,Estadio El Madrigal,Kyros Vassaras
+2005-2006,Quarter-finals,Tue,2006-04-04,Milan,3-1,Lyon,Stadio Giuseppe Meazza,Terje Hauge
+2005-2006,Quarter-finals,Wed,2006-04-05,Barcelona,2-0,Benfica,Camp Nou,Ľuboš Michel
+2005-2006,Quarter-finals,Wed,2006-04-05,Juventus,0-0,Arsenal,Delle Alpi,Herbert Fandel
+2005-2006,Semi-finals,Tue,2006-04-18,Milan,0-1,Barcelona,Stadio Giuseppe Meazza,Alain Sars
+2005-2006,Semi-finals,Wed,2006-04-19,Arsenal,1-0,Villarreal,Highbury,Konrad Plautz
+2005-2006,Semi-finals,Tue,2006-04-25,Villarreal,0-0,Arsenal,Estadio El Madrigal,Valentin Ivanov
+2005-2006,Semi-finals,Wed,2006-04-26,Barcelona,0-0,Milan,Camp Nou,Markus Merk
+2005-2006,Final,Wed,2006-05-17,Barcelona,2-1,Arsenal,Stade de France (Neutral Site),Terje Hauge
+2004-2005,Round of 16,Tue,2005-02-22,Liverpool,3-1,Leverkusen,Anfield,Kyros Vassaras
+2004-2005,Round of 16,Tue,2005-02-22,Real Madrid,1-0,Juventus,Estadio Santiago Bernabéu,Ľuboš Michel
+2004-2005,Round of 16,Tue,2005-02-22,PSV Eindhoven,1-0,Monaco,PSV Stadion,Medina Cantalejo
+2004-2005,Round of 16,Tue,2005-02-22,Bayern Munich,3-1,Arsenal,Olympiastadion,Kim Milton Nielsen
+2004-2005,Round of 16,Wed,2005-02-23,Porto,1-1,Inter,Estádio do Dragão,Graham Poll
+2004-2005,Round of 16,Wed,2005-02-23,Barcelona,2-1,Chelsea,Camp Nou,Anders Frisk
+2004-2005,Round of 16,Wed,2005-02-23,Manchester Utd,0-1,Milan,Old Trafford,Mejuto González
+2004-2005,Round of 16,Wed,2005-02-23,Werder Bremen,0-3,Lyon,Weserstadion,Frank de Bleeckere
+2004-2005,Round of 16,Tue,2005-03-08,Milan,1-0,Manchester Utd,Stadio Giuseppe Meazza,Herbert Fandel
+2004-2005,Round of 16,Tue,2005-03-08,Chelsea,4-2,Barcelona,Stamford Bridge,Pierluigi Collina
+2004-2005,Round of 16,Tue,2005-03-08,Lyon,7-2,Werder Bremen,Stade de Gerland,Valentin Ivanov
+2004-2005,Round of 16,Wed,2005-03-09,Arsenal,1-0,Bayern Munich,Highbury,Massimo De Santis
+2004-2005,Round of 16,Wed,2005-03-09,Juventus,2-0,Real Madrid,Delle Alpi,Markus Merk
+2004-2005,Round of 16,Wed,2005-03-09,Monaco,0-2,PSV Eindhoven,Stade Louis II,Stephen Bennett
+2004-2005,Round of 16,Wed,2005-03-09,Leverkusen,1-3,Liverpool,BayArena,Alain Sars
+2004-2005,Round of 16,Tue,2005-03-15,Inter,3-1,Porto,Stadio Giuseppe Meazza,Terje Hauge
+2004-2005,Quarter-finals,Tue,2005-04-05,Lyon,1-1,PSV Eindhoven,Stade de Gerland,Pierluigi Collina
+2004-2005,Quarter-finals,Tue,2005-04-05,Liverpool,2-1,Juventus,Anfield,Frank de Bleeckere
+2004-2005,Quarter-finals,Wed,2005-04-06,Milan,2-0,Inter,Stadio Giuseppe Meazza,Alain Sars
+2004-2005,Quarter-finals,Wed,2005-04-06,Chelsea,4-2,Bayern Munich,Stamford Bridge,René Temmink
+2004-2005,Quarter-finals,Tue,2005-04-12,Bayern Munich,3-2,Chelsea,Olympiastadion,Mejuto González
+2004-2005,Quarter-finals,Tue,2005-04-12,Inter,0-3,Milan,Stadio Giuseppe Meazza,Markus Merk
+2004-2005,Quarter-finals,Wed,2005-04-13,Juventus,0-0,Liverpool,Delle Alpi,Valentin Ivanov
+2004-2005,Quarter-finals,Wed,2005-04-13,PSV Eindhoven,1-1,Lyon,PSV Stadion,Kim Milton Nielsen
+2004-2005,Semi-finals,Tue,2005-04-26,Milan,2-0,PSV Eindhoven,Stadio Giuseppe Meazza,Kyros Vassaras
+2004-2005,Semi-finals,Wed,2005-04-27,Chelsea,0-0,Liverpool,Stamford Bridge,Alain Sars
+2004-2005,Semi-finals,Tue,2005-05-03,Liverpool,1-0,Chelsea,Anfield,Ľuboš Michel
+2004-2005,Semi-finals,Wed,2005-05-04,PSV Eindhoven,3-1,Milan,PSV Stadion,Terje Hauge
+2004-2005,Final,Wed,2005-05-25,Milan,3-3,Liverpool,Atatürk Olimpiyat Stadium (Neutral Site),Mejuto González
+2003-2004,Round of 16,Tue,2004-02-24,Celta Vigo,2-3,Arsenal,Balaídos,Anders Frisk
+2003-2004,Round of 16,Tue,2004-02-24,Bayern Munich,1-1,Real Madrid,Olympiastadion,Terje Hauge
+2003-2004,Round of 16,Tue,2004-02-24,Sparta Prague,0-0,Milan,Stadion Letná,Graham Poll
+2003-2004,Round of 16,Tue,2004-02-24,Loko Moscow,2-1,Monaco,Stadion Lokomotiv,Mejuto González
+2003-2004,Round of 16,Wed,2004-02-25,Porto,2-1,Manchester Utd,Estádio do Dragão,Herbert Fandel
+2003-2004,Round of 16,Wed,2004-02-25,Real Sociedad,0-1,Lyon,Anoeta,Massimo De Santis
+2003-2004,Round of 16,Wed,2004-02-25,Stuttgart,0-1,Chelsea,VfB Arena,Kyros Vassaras
+2003-2004,Round of 16,Wed,2004-02-25,La Coruña,1-0,Juventus,Estadio Municipal de Riazor,Gilles Veissière
+2003-2004,Round of 16,Tue,2004-03-09,Lyon,1-0,Real Sociedad,Stade de Gerland,Mike Riley
+2003-2004,Round of 16,Tue,2004-03-09,Manchester Utd,1-1,Porto,Old Trafford,Valentin Ivanov
+2003-2004,Round of 16,Tue,2004-03-09,Juventus,0-1,La Coruña,Delle Alpi,Ľuboš Michel
+2003-2004,Round of 16,Tue,2004-03-09,Chelsea,0-0,Stuttgart,Stamford Bridge,Kim Milton Nielsen
+2003-2004,Round of 16,Wed,2004-03-10,Arsenal,2-0,Celta Vigo,Highbury,Pierluigi Collina
+2003-2004,Round of 16,Wed,2004-03-10,Milan,4-1,Sparta Prague,Stadio Giuseppe Meazza,Markus Merk
+2003-2004,Round of 16,Wed,2004-03-10,Monaco,1-0,Loko Moscow,Stade Louis II,Lucílio Batista
+2003-2004,Round of 16,Wed,2004-03-10,Real Madrid,1-0,Bayern Munich,Estadio Santiago Bernabéu,Urs Meier
+2003-2004,Quarter-finals,Tue,2004-03-23,Porto,2-0,Lyon,Estádio do Dragão,Terje Hauge
+2003-2004,Quarter-finals,Tue,2004-03-23,Milan,4-1,La Coruña,Stadio Giuseppe Meazza,Valentin Ivanov
+2003-2004,Quarter-finals,Wed,2004-03-24,Chelsea,1-1,Arsenal,Stamford Bridge,Mejuto González
+2003-2004,Quarter-finals,Wed,2004-03-24,Real Madrid,4-2,Monaco,Estadio Santiago Bernabéu,Ľuboš Michel
+2003-2004,Quarter-finals,Tue,2004-04-06,Monaco,3-1,Real Madrid,Stade Louis II,Pierluigi Collina
+2003-2004,Quarter-finals,Tue,2004-04-06,Arsenal,1-2,Chelsea,Highbury,Markus Merk
+2003-2004,Quarter-finals,Wed,2004-04-07,Lyon,2-2,Porto,Stade de Gerland,Anders Frisk
+2003-2004,Quarter-finals,Wed,2004-04-07,La Coruña,4-0,Milan,Estadio Municipal de Riazor,Urs Meier
+2003-2004,Semi-finals,Tue,2004-04-20,Monaco,3-1,Chelsea,Stade Louis II,Urs Meier
+2003-2004,Semi-finals,Wed,2004-04-21,Porto,0-0,La Coruña,Estádio do Dragão,Markus Merk
+2003-2004,Semi-finals,Tue,2004-05-04,La Coruña,0-1,Porto,Estadio Municipal de Riazor,Pierluigi Collina
+2003-2004,Semi-finals,Wed,2004-05-05,Chelsea,2-2,Monaco,Stamford Bridge,Anders Frisk
+2003-2004,Final,Wed,2004-05-26,Monaco,0-3,Porto,Arena AufSchalke (Neutral Site),Kim Milton Nielsen
