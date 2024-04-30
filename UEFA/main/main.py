@@ -8,7 +8,7 @@ console = Console()
 
 def execute_notebook(notebook_path):
     # Asegurarse de cambiar al directorio donde está el proyecto completo
-    project_root = 'C:\\Users\\albab\\OneDrive\\Documentos\\GitHub\\UEFA_PREDICCION\\UEFA'  # Ajusta esto a tu ruta
+    project_root = 'UEFA'  # Ajusta esto a tu ruta
     os.chdir(project_root)  # Cambia el directorio de trabajo al raíz del proyecto
     
     with open(notebook_path, encoding="utf8") as fp:
