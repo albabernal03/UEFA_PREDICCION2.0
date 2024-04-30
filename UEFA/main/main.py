@@ -7,6 +7,10 @@ from rich.prompt import Prompt
 console = Console()
 
 def execute_notebook(notebook_path):
+    # Asegurarse de cambiar al directorio donde está el proyecto completo
+    project_root = 'C:\\Users\\albab\\OneDrive\\Documentos\\GitHub\\UEFA_PREDICCION\\UEFA'  # Ajusta esto a tu ruta
+    os.chdir(project_root)  # Cambia el directorio de trabajo al raíz del proyecto
+    
     with open(notebook_path, encoding="utf8") as fp:
         nb = load(fp)
     for cell in nb['cells']:
@@ -19,7 +23,7 @@ def execute_notebook(notebook_path):
             console.print(md)
 
 def main():
-    modelos_path = 'modelos'
+    modelos_path = os.path.abspath('modelos')  # Usa rutas absolutas para evitar errores
     categorias = os.listdir(modelos_path)
     console.print("Seleccione la categoría de modelo que desea ejecutar:")
     for i, categoria in enumerate(categorias, 1):
@@ -35,8 +39,6 @@ def main():
 
     modelo_elegido = Prompt.ask("Ingrese el número del modelo deseado")
     notebook_path = os.path.join(categoria_path, modelos[int(modelo_elegido) - 1])
-
-
 
     # Ejecutar el modelo elegido
     execute_notebook(notebook_path)
