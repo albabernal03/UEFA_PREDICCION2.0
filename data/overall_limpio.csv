@@ -1,0 +1,641 @@
+Season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Attendance,Top Team Scorer,Goalkeeper,Top Team Scorer Goals,Country
+2022-2023,W,Manchester City,13.0,8.0,5.0,0.0,32.0,5.0,27.0,29.0,63639.0,Erling Haaland,Ederson,12.0,England
+2022-2023,F,Inter,13.0,7.0,3.0,3.0,19.0,11.0,8.0,24.0,71415.0,Edin Džeko,André Onana,4.0,Italy
+2022-2023,SF,Real Madrid,12.0,8.0,2.0,2.0,26.0,13.0,13.0,26.0,58761.0,Vinicius Júnior,Thibaut Courtois,7.0,Spain
+2022-2023,SF,Milan,12.0,5.0,3.0,4.0,15.0,11.0,4.0,18.0,72546.0,Olivier Giroud,Mike Maignan,5.0,Italy
+2022-2023,QF,Bayern Munich,10.0,8.0,1.0,1.0,22.0,6.0,16.0,25.0,75000.0,"Leroy Sané,Eric Maxim Choupo-Moting",Yann Sommer,4.0,Germany
+2022-2023,QF,Napoli,10.0,7.0,1.0,2.0,26.0,8.0,18.0,22.0,49133.0,Victor Osimhen,Alex Meret,5.0,Italy
+2022-2023,QF,Benfica,10.0,6.0,3.0,1.0,26.0,13.0,13.0,21.0,60222.0,João Mário,Odisseas Vlachodimos,6.0,Portugal
+2022-2023,QF,Chelsea,10.0,5.0,1.0,4.0,12.0,9.0,3.0,16.0,39216.0,Raheem Sterling,Kepa Arrizabalaga,3.0,England
+2022-2023,R16,Liverpool,8.0,5.0,0.0,3.0,19.0,12.0,7.0,15.0,51578.0,Mohamed Salah,Alisson,8.0,England
+2022-2023,R16,Paris S-G,8.0,4.0,2.0,2.0,16.0,10.0,6.0,14.0,46680.0,Kylian Mbappé,Gianluigi Donnarumma,7.0,France
+2022-2023,R16,Porto,8.0,4.0,1.0,3.0,12.0,8.0,4.0,13.0,44296.0,Mehdi Taremi,Diogo Costa,5.0,Portugal
+2022-2023,R16,RB Leipzig,8.0,4.0,1.0,3.0,14.0,17.0,-3.0,13.0,44319.0,"André Silva,Christopher Nkunku",Janis Blaswich,3.0,Germany
+2022-2023,R16,Dortmund,8.0,3.0,3.0,2.0,11.0,7.0,4.0,12.0,78516.0,Jude Bellingham,Alexander Meyer,4.0,Germany
+2022-2023,R16,Tottenham,8.0,3.0,3.0,2.0,8.0,7.0,1.0,12.0,58434.0,"Son Heung-min,Richarlison",Hugo Lloris,2.0,England
+2022-2023,R16,Club Brugge,8.0,3.0,2.0,3.0,8.0,11.0,-3.0,11.0,24296.0,"Kamal Sowah,Jutglà",Simon Mignolet,2.0,Belgium
+2022-2023,R16,Eint Frankfurt,8.0,3.0,1.0,4.0,7.0,13.0,-6.0,10.0,49300.0,Daichi Kamada,Kevin Trapp,3.0,Germany
+2022-2023,GR,Barcelona,6.0,2.0,1.0,3.0,12.0,12.0,0.0,7.0,84576.0,Robert Lewandowski,Marc-André ter Stegen,5.0,Spain
+2022-2023,GR,Sporting CP,6.0,2.0,1.0,3.0,8.0,9.0,-1.0,7.0,39923.0,"Marcus Edwards,Arthur... ",Antonio Adán,2.0,Portugal
+2022-2023,GR,Marseille,6.0,2.0,0.0,4.0,8.0,8.0,0.0,6.0,37962.0,"Alexis Sánchez,Chancel Mbemba... ",Pau López,2.0,France
+2022-2023,GR,Shakhtar,6.0,1.0,3.0,2.0,8.0,10.0,-2.0,6.0,25257.0,Mykhailo Mudryk,Anatolii Trubin,3.0,Ukraine
+2022-2023,GR,RB Salzburg,6.0,1.0,3.0,2.0,5.0,9.0,-4.0,6.0,29301.0,Noah Okafor,Philipp Köhn,3.0,Austria
+2022-2023,GR,Ajax,6.0,2.0,0.0,4.0,11.0,16.0,-5.0,6.0,53028.0,Kudus Mohammed,Remko Pasveer,4.0,Netherlands
+2022-2023,GR,Atlético Madrid,6.0,1.0,2.0,3.0,5.0,9.0,-4.0,5.0,58797.0,"Antoine Griezmann,Yannick Carrasco... ",Jan Oblak,1.0,Spain
+2022-2023,GR,Leverkusen,6.0,1.0,2.0,3.0,4.0,8.0,-4.0,5.0,28748.0,Moussa Diaby,Lukáš Hrádecký,2.0,Germany
+2022-2023,GR,Sevilla,6.0,1.0,2.0,3.0,6.0,12.0,-6.0,5.0,34415.0,Youssef En-Nesyri,Yassine Bounou,2.0,Spain
+2022-2023,GR,Dinamo Zagreb,6.0,1.0,1.0,4.0,4.0,11.0,-7.0,4.0,20653.0,Mislav Oršić,Dominik Livaković,2.0,Croatia
+2022-2023,GR,Juventus,6.0,1.0,0.0,5.0,9.0,13.0,-4.0,3.0,34534.0,"Adrien Rabiot,Arkadiusz Milik... ",Wojciech Szczęsny,2.0,Italy
+2022-2023,GR,FC Copenhagen,6.0,0.0,3.0,3.0,1.0,12.0,-11.0,3.0,34086.0,Hákon Arnar Haraldsson,Kamil Grabara,1.0,Denmark
+2022-2023,GR,Maccabi Haifa,6.0,1.0,0.0,5.0,7.0,21.0,-14.0,3.0,30317.0,"Tjaronn Chery,Omer Atzili... ",Josh Cohen,2.0,Israel
+2022-2023,GR,Celtic,6.0,0.0,2.0,4.0,4.0,15.0,-11.0,2.0,57367.0,Jota,Joe Hart,2.0,Scotland
+2022-2023,GR,Viktoria Plzeň,6.0,0.0,0.0,6.0,5.0,24.0,-19.0,0.0,11279.0,Tomáš Chorý,Jindřich Staněk,2.0,Czech Republic
+2022-2023,GR,Rangers,6.0,0.0,0.0,6.0,2.0,22.0,-20.0,0.0,49253.0,"Scott Arfield,James Tavernier",Allan McGregor,1.0,Scotland
+2021-2022,W,Real Madrid,13.0,9.0,0.0,4.0,29.0,14.0,15.0,27.0,48111.0,Karim Benzema,Thibaut Courtois,15.0,Spain
+2021-2022,F,Liverpool,13.0,10.0,1.0,2.0,30.0,14.0,16.0,31.0,64118.0,Mohamed Salah,Alisson,8.0,England
+2021-2022,SF,Manchester City,12.0,7.0,2.0,3.0,29.0,16.0,13.0,23.0,49295.0,Riyad Mahrez,Ederson,7.0,England
+2021-2022,SF,Villarreal,12.0,5.0,3.0,4.0,20.0,16.0,4.0,18.0,18610.0,Arnaut Danjuma,Gerónimo Rulli,6.0,Spain
+2021-2022,QF,Bayern Munich,10.0,7.0,2.0,1.0,31.0,7.0,24.0,23.0,34000.0,Robert Lewandowski,Manuel Neuer,13.0,Germany
+2021-2022,QF,Chelsea,10.0,7.0,1.0,2.0,21.0,10.0,11.0,22.0,39076.0,Timo Werner,Edouard Mendy,4.0,England
+2021-2022,QF,Benfica,10.0,3.0,4.0,3.0,14.0,17.0,-3.0,13.0,47128.0,Darwin Núñez,Odisseas Vlachodimos,6.0,Portugal
+2021-2022,QF,Atlético Madrid,10.0,3.0,3.0,4.0,9.0,10.0,-1.0,12.0,58158.0,Antoine Griezmann,Jan Oblak,4.0,Spain
+2021-2022,R16,Ajax,8.0,6.0,1.0,1.0,22.0,8.0,14.0,19.0,40181.0,Sébastien Haller,Remko Pasveer,11.0,Netherlands
+2021-2022,R16,Juventus,8.0,5.0,1.0,2.0,11.0,10.0,1.0,16.0,21968.0,Paulo Dybala,Wojciech Szczęsny,3.0,Italy
+2021-2022,R16,Paris S-G,8.0,4.0,2.0,2.0,15.0,11.0,4.0,14.0,44911.0,Kylian Mbappé,Gianluigi Donnarumma,6.0,France
+2021-2022,R16,Inter,8.0,4.0,1.0,3.0,9.0,7.0,2.0,13.0,41133.0,Edin Džeko,Samir Handanović,3.0,Italy
+2021-2022,R16,Manchester Utd,8.0,3.0,3.0,2.0,12.0,10.0,2.0,12.0,72893.0,Cristiano Ronaldo,David de Gea,6.0,England
+2021-2022,R16,Lille,8.0,3.0,2.0,3.0,8.0,8.0,0.0,11.0,37824.0,"Jonathan David,Burak Yılmaz",Ivo Grbić,3.0,France
+2021-2022,R16,RB Salzburg,8.0,3.0,2.0,3.0,10.0,14.0,-4.0,11.0,20812.0,"Karim Adeyemi,Noah Okafor",Philipp Köhn,3.0,Austria
+2021-2022,R16,Sporting CP,8.0,3.0,1.0,4.0,14.0,17.0,-3.0,10.0,37672.0,Pedro Gonçalves,Antonio Adán,4.0,Portugal
+2021-2022,GR,Dortmund,6.0,3.0,0.0,3.0,10.0,11.0,-1.0,9.0,31607.0,"Marco Reus,Donyell Malen... ",Gregor Kobel,3.0,Germany
+2021-2022,GR,RB Leipzig,6.0,2.0,1.0,3.0,15.0,14.0,1.0,7.0,21098.0,Christopher Nkunku,Péter Gulácsi,7.0,Germany
+2021-2022,GR,Sheriff Tiraspol,6.0,2.0,1.0,3.0,7.0,11.0,-4.0,7.0,5689.0,"Adama Traoré,Sébastien Thill",Giorgos Athanasiadis,2.0,Moldova
+2021-2022,GR,Barcelona,6.0,2.0,1.0,3.0,2.0,9.0,-7.0,7.0,45092.0,"Gerard Piqué,Ansu Fati",Marc-André ter Stegen,1.0,Spain
+2021-2022,GR,Sevilla,6.0,1.0,3.0,2.0,5.0,5.0,0.0,6.0,25468.0,Ivan Rakitić,Yassine Bounou,2.0,Spain
+2021-2022,GR,Atalanta,6.0,1.0,3.0,2.0,12.0,13.0,-1.0,6.0,11556.0,Duván Zapata,Juan Musso,3.0,Italy
+2021-2022,GR,ruZen,6.0,1.0,2.0,3.0,10.0,10.0,0.0,5.0,21135.0,"Claudinho,Sardar Azmoun",Stanislav Kritsyuk,2.0,Italy
+2021-2022,GR,Young Boys,6.0,1.0,2.0,3.0,7.0,12.0,-5.0,5.0,29879.0,Jordan Pefok,"Guillaume Faivre,David von Ballmoos",2.0,Switzerland
+2021-2022,GR,Wolfsburg,6.0,1.0,2.0,3.0,5.0,10.0,-5.0,5.0,11463.0,"Lukas Nmecha,Renato Steffen",Koen Casteels,2.0,Germany
+2021-2022,GR,Porto,6.0,1.0,2.0,3.0,4.0,11.0,-7.0,5.0,31493.0,Luis Díaz,Diogo Costa,2.0,Portugal
+2021-2022,GR,Milan,6.0,1.0,1.0,4.0,6.0,9.0,-3.0,4.0,43762.0,"Rafael Leão,Junior Messias... ","Mike Maignan,Ciprian Tătărușanu",1.0,Italy
+2021-2022,GR,Club Brugge,6.0,1.0,1.0,4.0,6.0,20.0,-14.0,4.0,25511.0,Hans Vanaken,Simon Mignolet,3.0,Belgium
+2021-2022,GR,Shakhtar,6.0,0.0,2.0,4.0,2.0,12.0,-10.0,2.0,22349.0,Fernando,Anatolii Trubin,2.0,Ukraine
+2021-2022,GR,Dynamo Kyiv,6.0,0.0,1.0,5.0,1.0,11.0,-10.0,1.0,27256.0,Denys Harmash,Heorhiy Bushchan,1.0,Ukraine
+2021-2022,GR,Malmö,6.0,0.0,1.0,5.0,1.0,14.0,-13.0,1.0,13634.0,Søren Rieks,Johan Dahlin,1.0,Sweden
+2021-2022,GR,Beşiktaş,6.0,0.0,0.0,6.0,3.0,19.0,-16.0,0.0,19031.0,"Francisco Montero,Cyle Larin... ",Ersin Destanoğlu,1.0,Turkey
+2020-2021,W,Chelsea,13.0,9.0,3.0,1.0,23.0,4.0,19.0,30.0,333.0,Olivier Giroud,Edouard Mendy,6.0,England
+2020-2021,F,Manchester City,13.0,11.0,1.0,1.0,25.0,5.0,20.0,34.0,2016.0,"Riyad Mahrez,Ferrán Torres",Ederson,4.0,England
+2020-2021,SF,Real Madrid,12.0,6.0,3.0,3.0,19.0,14.0,5.0,21.0,0.0,Karim Benzema,Thibaut Courtois,6.0,Spain
+2020-2021,SF,Paris S-G,12.0,6.0,1.0,5.0,22.0,15.0,7.0,19.0,0.0,Kylian Mbappé,Keylor Navas,8.0,France
+2020-2021,QF,Bayern Munich,10.0,8.0,1.0,1.0,27.0,10.0,17.0,25.0,0.0,Robert Lewandowski,Manuel Neuer,5.0,Germany
+2020-2021,QF,Liverpool,10.0,6.0,2.0,2.0,15.0,6.0,9.0,20.0,0.0,Mohamed Salah,Alisson,6.0,England
+2020-2021,QF,Porto,10.0,6.0,1.0,3.0,15.0,9.0,6.0,19.0,490.0,Sérgio Oliveira,Agustín Marchesín,5.0,Portugal
+2020-2021,QF,Dortmund,10.0,5.0,2.0,3.0,19.0,13.0,6.0,17.0,0.0,Erling Haaland,Marwin Hitz,10.0,Germany
+2020-2021,R16,Juventus,8.0,6.0,0.0,2.0,18.0,8.0,10.0,18.0,0.0,Álvaro Morata,Wojciech Szczęsny,6.0,Italy
+2020-2021,R16,Barcelona,8.0,5.0,1.0,2.0,18.0,10.0,8.0,16.0,0.0,Lionel Messi,Marc-André ter Stegen,5.0,Spain
+2020-2021,R16,Sevilla,8.0,4.0,2.0,2.0,13.0,13.0,0.0,14.0,0.0,Youssef En-Nesyri,Yassine Bounou,6.0,Spain
+2020-2021,R16,RB Leipzig,8.0,4.0,0.0,4.0,11.0,16.0,-5.0,12.0,250.0,Angeliño,Péter Gulácsi,3.0,Germany
+2020-2021,R16,Atalanta,8.0,3.0,2.0,3.0,11.0,12.0,-1.0,11.0,0.0,"Luis Muriel,Duván Zapata",Marco Sportiello,3.0,Italy
+2020-2021,R16,Lazio,8.0,2.0,4.0,2.0,13.0,13.0,0.0,10.0,250.0,Ciro Immobile,Pepe Reina,5.0,Italy
+2020-2021,R16,Atlético Madrid,8.0,2.0,3.0,3.0,7.0,11.0,-4.0,9.0,0.0,João Félix,Jan Oblak,3.0,Spain
+2020-2021,R16,M'Gladbach,8.0,2.0,2.0,4.0,16.0,13.0,3.0,8.0,0.0,Alassane Pléa,Yann Sommer,5.0,Germany
+2020-2021,GR,Manchester Utd,6.0,3.0,0.0,3.0,15.0,10.0,5.0,9.0,374.0,Marcus Rashford,David de Gea,6.0,England
+2020-2021,GR,Club Brugge,6.0,2.0,2.0,2.0,8.0,10.0,-2.0,8.0,0.0,Hans Vanaken,Simon Mignolet,3.0,Belgium
+2020-2021,GR,Shakhtar,6.0,2.0,2.0,2.0,5.0,12.0,-7.0,8.0,3393.0,Manor Solomon,Anatolii Trubin,2.0,Ukraine
+2020-2021,GR,Ajax,6.0,2.0,1.0,3.0,7.0,7.0,0.0,7.0,0.0,Dušan Tadić,André Onana,2.0,Netherlands
+2020-2021,GR,Inter,6.0,1.0,3.0,2.0,7.0,9.0,-2.0,6.0,333.0,Romelu Lukaku,Samir Handanović,4.0,Italy
+2020-2021,GR,Krasnodar,6.0,1.0,2.0,3.0,6.0,11.0,-5.0,5.0,9948.0,Marcus Berg,Matvei Safonov,2.0,Russia
+2020-2021,GR,RB Salzburg,6.0,1.0,1.0,4.0,10.0,17.0,-7.0,4.0,1000.0,Mergim Berisha,Cican Stankovic,4.0,Austria
+2020-2021,GR,Dynamo Kyiv,6.0,1.0,1.0,4.0,4.0,13.0,-9.0,4.0,4950.0,Viktor Tsyhankov,Heorhiy Bushchan,2.0,Ukraine
+2020-2021,GR,Loko Moscow,6.0,0.0,3.0,3.0,5.0,10.0,-5.0,3.0,7701.0,Anton Miranchuk,Guilherme Marinato,3.0,Russia
+2020-2021,GR,Olympiacos,6.0,1.0,0.0,5.0,2.0,10.0,-8.0,3.0,0.0,"Koka,Mohamed Camara",José Sá,1.0,Greece
+2020-2021,GR,Başakşehir,6.0,1.0,0.0,5.0,7.0,18.0,-11.0,3.0,233.0,İrfan Kahveci,Mert Günok,3.0,Turkey
+2020-2021,GR,Marseille,6.0,1.0,0.0,5.0,2.0,13.0,-11.0,3.0,0.0,Dimitri Payet,Steve Mandanda,2.0,France
+2020-2021,GR,Midtjylland,6.0,0.0,2.0,4.0,4.0,13.0,-9.0,2.0,88.0,Alexander Scholz,Jesper Hansen,2.0,Denmark
+2020-2021,GR,frRenn,6.0,0.0,1.0,5.0,3.0,11.0,-8.0,1.0,1658.0,Serhou Guirassy,Alfred Gomis,2.0,Spain
+2020-2021,GR,ruZen,6.0,0.0,1.0,5.0,4.0,13.0,-9.0,1.0,14990.0,"Artem Dzyuba,Aleksandr Erokhin... ",Mikhail Kerzhakov,1.0,Italy
+2020-2021,GR,Ferencváros,6.0,0.0,1.0,5.0,5.0,17.0,-12.0,1.0,8234.0,Franck Boli,Dénes Dibusz,2.0,Hungary
+2019-2020,W,Bayern Munich,11.0,11.0,0.0,0.0,43.0,8.0,35.0,33.0,50000.0,Robert Lewandowski,Manuel Neuer,15.0,Germany
+2019-2020,F,Paris S-G,11.0,8.0,1.0,2.0,25.0,6.0,19.0,25.0,28058.0,"Mauro Icardi,Kylian Mbappé",Keylor Navas,5.0,France
+2019-2020,SF,RB Leipzig,10.0,6.0,2.0,2.0,16.0,12.0,4.0,20.0,32347.0,"Timo Werner,Marcel Sabitzer... ",Péter Gulácsi,4.0,Germany
+2019-2020,SF,Lyon,10.0,4.0,2.0,4.0,14.0,14.0,0.0,14.0,41780.0,Memphis,Anthony Lopes,6.0,France
+2019-2020,QF,Manchester City,9.0,6.0,2.0,1.0,21.0,9.0,12.0,20.0,37594.0,"Raheem Sterling,Gabriel Jesus",Ederson,6.0,England
+2019-2020,QF,Barcelona,9.0,5.0,3.0,1.0,15.0,14.0,1.0,18.0,60809.0,Luis Suárez,Marc-André ter Stegen,5.0,Spain
+2019-2020,QF,Atlético Madrid,9.0,5.0,1.0,3.0,13.0,9.0,4.0,16.0,62232.0,"Álvaro Morata,João Félix",Jan Oblak,3.0,Spain
+2019-2020,QF,Atalanta,9.0,4.0,1.0,4.0,17.0,18.0,-1.0,13.0,32770.0,Josip Iličić,Pierluigi Gollini,5.0,Italy
+2019-2020,R16,Juventus,8.0,6.0,1.0,1.0,14.0,6.0,8.0,19.0,28390.0,Cristiano Ronaldo,Wojciech Szczęsny,4.0,Italy
+2019-2020,R16,Napoli,8.0,3.0,4.0,1.0,13.0,8.0,5.0,13.0,34598.0,Dries Mertens,Alex Meret,6.0,Italy
+2019-2020,R16,Liverpool,8.0,4.0,1.0,3.0,15.0,12.0,3.0,13.0,52312.0,Mohamed Salah,Alisson,4.0,England
+2019-2020,R16,Dortmund,8.0,4.0,1.0,3.0,10.0,11.0,-1.0,13.0,65844.0,Achraf Hakimi,Roman Bürki,4.0,Germany
+2019-2020,R16,Real Madrid,8.0,3.0,2.0,3.0,16.0,12.0,4.0,11.0,70438.0,Karim Benzema,Thibaut Courtois,5.0,Spain
+2019-2020,R16,Valencia,8.0,3.0,2.0,3.0,13.0,15.0,-2.0,11.0,31599.0,"Rodrigo,Denis Cheryshev... ",Jasper Cillessen,2.0,Spain
+2019-2020,R16,Chelsea,8.0,3.0,2.0,3.0,12.0,16.0,-4.0,11.0,38845.0,Tammy Abraham,Kepa Arrizabalaga,3.0,England
+2019-2020,R16,Tottenham,8.0,3.0,1.0,4.0,18.0,18.0,0.0,10.0,57247.0,Harry Kane,"Hugo Lloris,Paulo Gazzaniga",6.0,England
+2019-2020,GR,Ajax,6.0,3.0,1.0,2.0,12.0,6.0,6.0,10.0,51951.0,Quincy Promes,André Onana,4.0,Netherlands
+2019-2020,GR,RB Salzburg,6.0,2.0,1.0,3.0,16.0,13.0,3.0,7.0,29520.0,Erling Haaland,Cican Stankovic,8.0,Austria
+2019-2020,GR,Inter,6.0,2.0,1.0,3.0,10.0,9.0,1.0,7.0,62540.0,Lautaro Martínez,Samir Handanović,5.0,Italy
+2019-2020,GR,Benfica,6.0,2.0,1.0,3.0,10.0,11.0,-1.0,7.0,46576.0,Pizzi,Odisseas Vlachodimos,3.0,Portugal
+2019-2020,GR,ruZen,6.0,2.0,1.0,3.0,7.0,9.0,-2.0,7.0,51106.0,"Sardar Azmoun,Artem Dzyuba",Mikhail Kerzhakov,2.0,Italy
+2019-2020,GR,Leverkusen,6.0,2.0,0.0,4.0,5.0,9.0,-4.0,6.0,28098.0,"Sven Bender,Kevin Volland",Lukáš Hrádecký,1.0,Germany
+2019-2020,GR,Shakhtar,6.0,1.0,3.0,2.0,8.0,13.0,-5.0,6.0,28246.0,"Júnior Moraes,Manor Solomon",Andriy Pyatov,2.0,Ukraine
+2019-2020,GR,Dinamo Zagreb,6.0,1.0,2.0,3.0,10.0,13.0,-3.0,5.0,28855.0,Mislav Oršić,Dominik Livaković,4.0,Croatia
+2019-2020,GR,Olympiacos,6.0,1.0,1.0,4.0,8.0,14.0,-6.0,4.0,31523.0,Youssef El-Arabi,José Sá,3.0,Greece
+2019-2020,GR,Loko Moscow,6.0,1.0,0.0,5.0,4.0,11.0,-7.0,3.0,26557.0,Aleksei Miranchuk,Guilherme Marinato,2.0,Russia
+2019-2020,GR,Club Brugge,6.0,0.0,3.0,3.0,4.0,12.0,-8.0,3.0,26957.0,Emmanuel Dennis,Simon Mignolet,2.0,Belgium
+2019-2020,GR,Red Star,6.0,1.0,0.0,5.0,3.0,20.0,-17.0,3.0,43263.0,"Richmond Boakye,Nemanja Milunović... ",Milan Borjan,1.0,Serbia
+2019-2020,GR,Slavia Prague,6.0,0.0,2.0,4.0,4.0,10.0,-6.0,2.0,19303.0,Tomáš Souček,Ondřej Kolář,2.0,Czech Republic
+2019-2020,GR,Galatasaray,6.0,0.0,2.0,4.0,1.0,14.0,-13.0,2.0,43306.0,Adem Büyük,Fernando Muslera,1.0,Turkey
+2019-2020,GR,Lille,6.0,0.0,1.0,5.0,4.0,14.0,-10.0,1.0,48208.0,Victor Osimhen,Mike Maignan,2.0,France
+2019-2020,GR,Genk,6.0,0.0,1.0,5.0,5.0,20.0,-15.0,1.0,18957.0,Mbwana Samatta,Gaëtan Coucke,3.0,Belgium
+2018-2019,W,Liverpool,13.0,8.0,1.0,4.0,24.0,12.0,12.0,25.0,52907.0,Mohamed Salah,Alisson,5.0,England
+2018-2019,F,Tottenham,13.0,6.0,2.0,5.0,20.0,19.0,1.0,20.0,62947.0,"Harry Kane,Lucas Moura",Hugo Lloris,5.0,England
+2018-2019,SF,Barcelona,12.0,8.0,3.0,1.0,26.0,10.0,16.0,27.0,86178.0,Lionel Messi,Marc-André ter Stegen,12.0,Spain
+2018-2019,SF,Ajax,12.0,6.0,4.0,2.0,22.0,13.0,9.0,22.0,52056.0,Dušan Tadić,André Onana,6.0,Netherlands
+2018-2019,QF,Manchester City,10.0,7.0,1.0,2.0,30.0,12.0,18.0,22.0,49535.0,Sergio Agüero,Ederson,6.0,England
+2018-2019,QF,Porto,10.0,6.0,1.0,3.0,20.0,15.0,5.0,19.0,43415.0,Moussa Marega,Iker Casillas,6.0,Portugal
+2018-2019,QF,Juventus,10.0,5.0,1.0,4.0,14.0,9.0,5.0,16.0,40766.0,Cristiano Ronaldo,Wojciech Szczęsny,6.0,Italy
+2018-2019,QF,Manchester Utd,10.0,4.0,1.0,5.0,10.0,11.0,-1.0,13.0,73708.0,"Romelu Lukaku,Paul Pogba... ",David de Gea,2.0,England
+2018-2019,R16,Atlético Madrid,8.0,5.0,1.0,2.0,11.0,9.0,2.0,16.0,60068.0,Antoine Griezmann,Jan Oblak,4.0,Spain
+2018-2019,R16,Bayern Munich,8.0,4.0,3.0,1.0,16.0,8.0,8.0,15.0,69536.0,Robert Lewandowski,Manuel Neuer,8.0,Germany
+2018-2019,R16,Real Madrid,8.0,5.0,0.0,3.0,15.0,10.0,5.0,15.0,66314.0,Karim Benzema,Thibaut Courtois,4.0,Spain
+2018-2019,R16,Paris S-G,8.0,4.0,2.0,2.0,20.0,12.0,8.0,14.0,45144.0,Neymar,Gianluigi Buffon,5.0,France
+2018-2019,R16,Dortmund,8.0,4.0,1.0,3.0,10.0,6.0,4.0,13.0,66099.0,Raphaël Guerreiro,Roman Bürki,4.0,Germany
+2018-2019,R16,Roma,8.0,4.0,0.0,4.0,14.0,12.0,2.0,12.0,49525.0,Edin Džeko,Robin Olsen,5.0,Italy
+2018-2019,R16,Schalke 04,8.0,3.0,2.0,3.0,8.0,14.0,-6.0,11.0,50949.0,Nabil Bentaleb,Ralf Fährmann,3.0,Germany
+2018-2019,R16,Lyon,8.0,1.0,6.0,1.0,13.0,16.0,-3.0,9.0,41945.0,"Nabil Fekir,Maxwel Cornet",Anthony Lopes,3.0,France
+2018-2019,GR,Napoli,6.0,2.0,3.0,1.0,7.0,5.0,2.0,9.0,45672.0,"Lorenzo Insigne,Dries Mertens",David Ospina,3.0,Italy
+2018-2019,GR,Valencia,6.0,2.0,2.0,2.0,6.0,6.0,0.0,8.0,39697.0,"Santi Mina,Carlos Soler",Neto,2.0,Spain
+2018-2019,GR,Inter,6.0,2.0,2.0,2.0,6.0,7.0,-1.0,8.0,65857.0,Mauro Icardi,Samir Handanović,4.0,Italy
+2018-2019,GR,CSKA Moscow,6.0,2.0,1.0,3.0,8.0,9.0,-1.0,7.0,63052.0,Nikola Vlašić,Igor Akinfeev,3.0,Russia
+2018-2019,GR,Benfica,6.0,2.0,1.0,3.0,6.0,11.0,-5.0,7.0,48412.0,Álex Grimaldo,Odisseas Vlachodimos,2.0,Portugal
+2018-2019,GR,Viktoria Plzeň,6.0,2.0,1.0,3.0,7.0,16.0,-9.0,7.0,11337.0,Michal Krmenčík,Aleš Hruška,2.0,Czech Republic
+2018-2019,GR,Club Brugge,6.0,1.0,3.0,2.0,6.0,5.0,1.0,6.0,24928.0,"Hans Vanaken,Wesley Moraes","Ethan Horvath,Karlo Letica",2.0,Belgium
+2018-2019,GR,Shakhtar,6.0,1.0,3.0,2.0,8.0,16.0,-8.0,6.0,34786.0,Júnior Moraes,Andriy Pyatov,3.0,Ukraine
+2018-2019,GR,Galatasaray,6.0,1.0,1.0,4.0,5.0,8.0,-3.0,4.0,41394.0,Eren Derdiyok,Fernando Muslera,2.0,Turkey
+2018-2019,GR,Young Boys,6.0,1.0,1.0,4.0,4.0,12.0,-8.0,4.0,30785.0,Guillaume Hoarau,David von Ballmoos,3.0,Switzerland
+2018-2019,GR,Red Star,6.0,1.0,1.0,4.0,5.0,17.0,-12.0,4.0,49596.0,Milan Pavkov,Milan Borjan,2.0,Serbia
+2018-2019,GR,Hoffenheim,6.0,0.0,3.0,3.0,11.0,14.0,-3.0,3.0,23972.0,Andrej Kramarić,Oliver Baumann,5.0,Germany
+2018-2019,GR,Loko Moscow,6.0,1.0,0.0,5.0,4.0,12.0,-8.0,3.0,17181.0,"Vladislav Ignatyev,Anton Miranchuk... ",Guilherme Marinato,1.0,Russia
+2018-2019,GR,PSV Eindhoven,6.0,0.0,2.0,4.0,6.0,13.0,-7.0,2.0,34783.0,Luuk de Jong,Jeroen Zoet,3.0,Netherlands
+2018-2019,GR,Monaco,6.0,0.0,1.0,5.0,2.0,14.0,-12.0,1.0,9218.0,"Samuel Grandsir,Moussa Sylla",Diego Benaglio,1.0,France
+2018-2019,GR,AEK Athens,6.0,0.0,0.0,6.0,2.0,13.0,-11.0,0.0,39377.0,Viktor Klonaridis,Vasilios Barkas,2.0,Greece
+2017-2018,W,Real Madrid,13.0,9.0,2.0,2.0,33.0,16.0,17.0,29.0,75398.0,Cristiano Ronaldo,Keylor Navas,15.0,Spain
+2017-2018,F,Liverpool,13.0,7.0,4.0,2.0,41.0,16.0,25.0,25.0,49960.0,"Roberto Firmino,Sadio Mané... ",Loris Karius,10.0,England
+2017-2018,SF,Bayern Munich,12.0,8.0,2.0,2.0,26.0,12.0,14.0,26.0,70000.0,Robert Lewandowski,Sven Ulreich,5.0,Germany
+2017-2018,SF,Roma,12.0,6.0,2.0,4.0,21.0,19.0,2.0,20.0,48587.0,Edin Džeko,Alisson,8.0,Italy
+2017-2018,QF,Barcelona,10.0,6.0,3.0,1.0,17.0,6.0,11.0,21.0,73861.0,Lionel Messi,Marc-André ter Stegen,6.0,Spain
+2017-2018,QF,Manchester City,10.0,6.0,0.0,4.0,20.0,12.0,8.0,18.0,48050.0,"Gabriel Jesus,Raheem Sterling... ",Ederson,4.0,England
+2017-2018,QF,Juventus,10.0,5.0,3.0,2.0,14.0,12.0,2.0,18.0,38541.0,Gonzalo Higuaín,Gianluigi Buffon,5.0,Italy
+2017-2018,QF,Sevilla,10.0,3.0,5.0,2.0,15.0,15.0,0.0,14.0,38512.0,Wissam Ben Yedder,Sergio Rico,8.0,Spain
+2017-2018,R16,Tottenham,8.0,5.0,2.0,1.0,18.0,8.0,10.0,17.0,69454.0,Harry Kane,Hugo Lloris,7.0,England
+2017-2018,R16,Manchester Utd,8.0,5.0,1.0,2.0,13.0,5.0,8.0,16.0,74467.0,Romelu Lukaku,David de Gea,5.0,England
+2017-2018,R16,Paris S-G,8.0,5.0,0.0,3.0,27.0,9.0,18.0,15.0,46382.0,Edinson Cavani,Alphonse Areola,7.0,France
+2017-2018,R16,Basel,8.0,5.0,0.0,3.0,13.0,10.0,3.0,15.0,34854.0,Dimitri Oberlin,Tomáš Vaclík,4.0,Switzerland
+2017-2018,R16,Shakhtar,8.0,5.0,0.0,3.0,11.0,11.0,0.0,15.0,33652.0,"Facundo Ferreyra,Bernard",Andriy Pyatov,3.0,Ukraine
+2017-2018,R16,Beşiktaş,8.0,4.0,2.0,2.0,12.0,13.0,-1.0,14.0,37448.0,"Talisca,Cenk Tosun",Fabricio,4.0,Turkey
+2017-2018,R16,Chelsea,8.0,3.0,3.0,2.0,17.0,12.0,5.0,12.0,40218.0,"Eden Hazard,Willian",Thibaut Courtois,3.0,England
+2017-2018,R16,Porto,8.0,3.0,2.0,3.0,15.0,15.0,0.0,11.0,43568.0,Vincent Aboubakar,José Sá,5.0,Portugal
+2017-2018,GR,CSKA Moscow,6.0,3.0,0.0,3.0,8.0,10.0,-2.0,9.0,28259.0,Vitinho,Igor Akinfeev,2.0,Russia
+2017-2018,GR,Atlético Madrid,6.0,1.0,4.0,1.0,5.0,4.0,1.0,7.0,57596.0,Antoine Griezmann,Jan Oblak,2.0,Spain
+2017-2018,GR,RB Leipzig,6.0,2.0,1.0,3.0,10.0,11.0,-1.0,7.0,41374.0,Timo Werner,Péter Gulácsi,3.0,Germany
+2017-2018,GR,Sporting CP,6.0,2.0,1.0,3.0,8.0,9.0,-1.0,7.0,46515.0,"Bas Dost,Bruno César",Rui Patrício,2.0,Portugal
+2017-2018,GR,Napoli,6.0,2.0,0.0,4.0,11.0,11.0,0.0,6.0,25878.0,Lorenzo Insigne,Pepe Reina,3.0,Italy
+2017-2018,GR,Spartak Moscow,6.0,1.0,3.0,2.0,9.0,13.0,-4.0,6.0,43534.0,"Quincy Promes,Zé Luís",Aleksandr Selikhov,2.0,Russia
+2017-2018,GR,Feyenoord,6.0,1.0,0.0,5.0,5.0,14.0,-9.0,3.0,41167.0,Nicolai Jørgensen,Brad Jones,2.0,Netherlands
+2017-2018,GR,Celtic,6.0,1.0,0.0,5.0,5.0,18.0,-13.0,3.0,57921.0,"Scott Sinclair,Callum McGregor... ",Craig Gordon,1.0,Scotland
+2017-2018,GR,NK Maribor,6.0,0.0,3.0,3.0,3.0,16.0,-13.0,3.0,12349.0,"Damjan Bohar,Marcos Tavares... ",Jasmin Handanović,1.0,Slovenia
+2017-2018,GR,Anderlecht,6.0,1.0,0.0,5.0,2.0,17.0,-15.0,3.0,19586.0,Sofiane Hanni,"Frank Boeckx,Matz Sels",1.0,Belgium
+2017-2018,GR,Dortmund,6.0,0.0,2.0,4.0,7.0,13.0,-6.0,2.0,65402.0,Pierre-Emerick Aubameyang,Roman Bürki,4.0,Germany
+2017-2018,GR,Monaco,6.0,0.0,2.0,4.0,6.0,16.0,-10.0,2.0,9378.0,Radamel Falcao,"Danijel Subašić,Diego Benaglio",3.0,France
+2017-2018,GR,Qarabağ FK,6.0,0.0,2.0,4.0,2.0,14.0,-12.0,2.0,60741.0,"Míchel,Pedro Henrique",Ibrahim Šehić,1.0,Azerbaijan
+2017-2018,GR,APOEL FC,6.0,0.0,2.0,4.0,2.0,17.0,-15.0,2.0,17211.0,Mickaël Poté,Nauzet Pérez,2.0,Cyprus
+2017-2018,GR,Olympiacos,6.0,0.0,1.0,5.0,4.0,13.0,-9.0,1.0,30445.0,Felipe Pardo,Silvio Proto,2.0,Greece
+2017-2018,GR,Benfica,6.0,0.0,0.0,6.0,1.0,14.0,-13.0,0.0,39492.0,Haris Seferović,Mile Svilar,1.0,Portugal
+2016-2017,W,Real Madrid,13.0,9.0,3.0,1.0,35.0,18.0,17.0,30.0,75547.0,Cristiano Ronaldo,Keylor Navas,12.0,Spain
+2016-2017,F,Juventus,13.0,9.0,3.0,1.0,22.0,6.0,16.0,30.0,33642.0,Gonzalo Higuaín,Gianluigi Buffon,5.0,Italy
+2016-2017,SF,Atlético Madrid,12.0,9.0,1.0,2.0,18.0,10.0,8.0,28.0,46751.0,Antoine Griezmann,Jan Oblak,6.0,Spain
+2016-2017,SF,Monaco,12.0,5.0,3.0,4.0,19.0,19.0,0.0,18.0,13471.0,Kylian Mbappé,Danijel Subašić,6.0,France
+2016-2017,QF,Barcelona,10.0,6.0,1.0,3.0,26.0,12.0,14.0,19.0,85863.0,Lionel Messi,Marc-André ter Stegen,11.0,Spain
+2016-2017,QF,Bayern Munich,10.0,6.0,0.0,4.0,27.0,14.0,13.0,18.0,70000.0,Robert Lewandowski,Manuel Neuer,8.0,Germany
+2016-2017,QF,Dortmund,10.0,5.0,2.0,3.0,28.0,16.0,12.0,17.0,63698.0,Pierre-Emerick Aubameyang,Roman Bürki,7.0,Germany
+2016-2017,QF,Leicester City,10.0,5.0,2.0,3.0,11.0,10.0,1.0,17.0,31471.0,Riyad Mahrez,Kasper Schmeichel,4.0,England
+2016-2017,R16,Paris S-G,8.0,4.0,3.0,1.0,18.0,13.0,5.0,15.0,45516.0,Edinson Cavani,Alphonse Areola,8.0,France
+2016-2017,R16,Arsenal,8.0,4.0,2.0,2.0,20.0,16.0,4.0,14.0,59869.0,"Mesut Özil,Theo Walcott",David Ospina,4.0,England
+2016-2017,R16,Sevilla,8.0,4.0,2.0,2.0,9.0,6.0,3.0,14.0,37433.0,Wissam Ben Yedder,Sergio Rico,2.0,Spain
+2016-2017,R16,Manchester City,8.0,3.0,4.0,1.0,17.0,13.0,4.0,13.0,47065.0,Sergio Agüero,Willy Caballero,5.0,England
+2016-2017,R16,Porto,8.0,3.0,2.0,3.0,9.0,6.0,3.0,11.0,38794.0,André Silva,Iker Casillas,4.0,Portugal
+2016-2017,R16,Napoli,8.0,3.0,2.0,3.0,13.0,14.0,-1.0,11.0,40054.0,Dries Mertens,Pepe Reina,5.0,Italy
+2016-2017,R16,Benfica,8.0,3.0,2.0,3.0,11.0,14.0,-3.0,11.0,51131.0,Eduardo Salvio,Ederson,3.0,Portugal
+2016-2017,R16,Leverkusen,8.0,2.0,4.0,2.0,11.0,11.0,0.0,10.0,25894.0,"Kevin Kampl,Kevin Volland... ",Bernd Leno,1.0,Germany
+2016-2017,GR,FC Copenhagen,6.0,2.0,3.0,1.0,7.0,2.0,5.0,9.0,30596.0,Mathias Jørgensen,Robin Olsen,2.0,Denmark
+2016-2017,GR,Lyon,6.0,2.0,2.0,2.0,5.0,3.0,2.0,8.0,50028.0,Corentin Tolisso,Anthony Lopes,2.0,France
+2016-2017,GR,Tottenham,6.0,2.0,1.0,3.0,6.0,6.0,0.0,7.0,77519.0,Harry Kane,Hugo Lloris,2.0,England
+2016-2017,GR,Beşiktaş,6.0,1.0,4.0,1.0,9.0,14.0,-5.0,7.0,35184.0,"Vincent Aboubakar,Ricardo Quaresma",Tolga Zengin,3.0,Turkey
+2016-2017,GR,Dynamo Kyiv,6.0,1.0,2.0,3.0,8.0,6.0,2.0,5.0,25055.0,"Derlis González,Vitaliy Buyalskyi... ",Artur Rudko,1.0,Ukraine
+2016-2017,GR,Rostov,6.0,1.0,2.0,3.0,6.0,12.0,-6.0,5.0,14419.0,Dmitry Poloz,Soslan Dzhanayev,3.0,Russia
+2016-2017,GR,M'Gladbach,6.0,1.0,2.0,3.0,5.0,12.0,-7.0,5.0,46162.0,Lars Stindl,Yann Sommer,2.0,Germany
+2016-2017,GR,Legia Warsaw,6.0,1.0,1.0,4.0,9.0,24.0,-15.0,4.0,18512.0,"Aleksandar Prijović,Miroslav Radović",Arkadiusz Malarz,2.0,Poland
+2016-2017,GR,Sporting CP,6.0,1.0,0.0,5.0,5.0,8.0,-3.0,3.0,45583.0,Bruno César,Rui Patrício,2.0,Portugal
+2016-2017,GR,CSKA Moscow,6.0,0.0,3.0,3.0,5.0,11.0,-6.0,3.0,23147.0,Alan Dzagoev,Igor Akinfeev,2.0,Russia
+2016-2017,GR,Ludogorets,6.0,0.0,3.0,3.0,6.0,15.0,-9.0,3.0,22946.0,Jonathan Cafu,Vladislav Stoyanov,2.0,Bulgaria
+2016-2017,GR,Celtic,6.0,0.0,3.0,3.0,5.0,16.0,-11.0,3.0,57781.0,Moussa Dembélé,Craig Gordon,3.0,Scotland
+2016-2017,GR,PSV Eindhoven,6.0,0.0,2.0,4.0,4.0,11.0,-7.0,2.0,34130.0,"Davy Pröpper,Luuk de Jong... ",Jeroen Zoet,1.0,Netherlands
+2016-2017,GR,Basel,6.0,0.0,2.0,4.0,3.0,12.0,-9.0,2.0,33830.0,"Seydou Doumbia,Renato Steffen... ",Tomáš Vaclík,1.0,Switzerland
+2016-2017,GR,Club Brugge,6.0,0.0,0.0,6.0,2.0,14.0,-12.0,0.0,21092.0,"Jelle Vossen,José Izquierdo",Ludovic Butelle,1.0,Belgium
+2016-2017,GR,Dinamo Zagreb,6.0,0.0,0.0,6.0,0.0,15.0,-15.0,0.0,12577.0,,Dominik Livaković,,Croatia
+2015-2016,W,Real Madrid,13.0,9.0,3.0,1.0,28.0,6.0,22.0,30.0,72831.0,Cristiano Ronaldo,Keylor Navas,16.0,Spain
+2015-2016,F,Atlético Madrid,13.0,6.0,4.0,3.0,17.0,8.0,9.0,22.0,44276.0,Antoine Griezmann,Jan Oblak,7.0,Spain
+2015-2016,SF,Bayern Munich,12.0,8.0,2.0,2.0,30.0,11.0,19.0,26.0,70000.0,Robert Lewandowski,Manuel Neuer,9.0,Germany
+2015-2016,SF,Manchester City,12.0,6.0,3.0,3.0,18.0,12.0,6.0,21.0,47779.0,"Kevin De Bruyne,Raheem Sterling",Joe Hart,3.0,England
+2015-2016,QF,Barcelona,10.0,7.0,2.0,1.0,22.0,8.0,14.0,23.0,74651.0,Luis Suárez,Marc-André ter Stegen,8.0,Spain
+2015-2016,QF,Wolfsburg,10.0,7.0,0.0,3.0,15.0,11.0,4.0,21.0,23951.0,Julian Draxler,Diego Benaglio,3.0,Germany
+2015-2016,QF,Paris S-G,10.0,6.0,2.0,2.0,18.0,6.0,12.0,20.0,46322.0,Zlatan Ibrahimović,Kevin Trapp,5.0,France
+2015-2016,QF,Benfica,10.0,5.0,2.0,3.0,15.0,12.0,3.0,17.0,45581.0,Nicolás Gaitán,Júlio César,4.0,Portugal
+2015-2016,R16,ruZen,8.0,5.0,0.0,3.0,14.0,9.0,5.0,15.0,17575.0,Artem Dzyuba,Yuri Lodygin,6.0,Italy
+2015-2016,R16,Chelsea,8.0,4.0,1.0,3.0,15.0,7.0,8.0,13.0,40153.0,Willian,Asmir Begović,5.0,England
+2015-2016,R16,Dynamo Kyiv,8.0,3.0,3.0,2.0,9.0,7.0,2.0,12.0,41706.0,"Andriy Yarmolenko,Vitaliy Buyalskyi",Oleksandr Shovkovskiy,2.0,Ukraine
+2015-2016,R16,Juventus,8.0,3.0,3.0,2.0,10.0,9.0,1.0,12.0,39241.0,"Álvaro Morata,Mario Mandžukić",Gianluigi Buffon,2.0,Italy
+2015-2016,R16,PSV Eindhoven,8.0,3.0,3.0,2.0,8.0,7.0,1.0,12.0,34810.0,"Luuk de Jong,Maxime Lestienne",Jeroen Zoet,2.0,Netherlands
+2015-2016,R16,Gent,8.0,3.0,1.0,4.0,10.0,11.0,-1.0,10.0,19752.0,Danijel Milićević,Matz Sels,3.0,Belgium
+2015-2016,R16,Arsenal,8.0,3.0,0.0,5.0,13.0,15.0,-2.0,9.0,57029.0,Olivier Giroud,Petr Čech,5.0,England
+2015-2016,R16,Roma,8.0,1.0,3.0,4.0,11.0,20.0,-9.0,6.0,45324.0,"Miralem Pjanić,Edin Džeko... ",Wojciech Szczęsny,2.0,Italy
+2015-2016,GR,BATE Borisov,12.0,4.0,4.0,4.0,11.0,16.0,-5.0,16.0,12814.0,Filip Mladenović,Sergei Chernik,2.0,Belarus
+2015-2016,GR,FC Astana,12.0,3.0,6.0,3.0,14.0,17.0,-3.0,15.0,23861.0,Patrick Twumasi,Nenad Erić,2.0,Kazakhstan
+2015-2016,GR,Dinamo Zagreb,12.0,4.0,3.0,5.0,17.0,21.0,-4.0,15.0,17066.0,"Junior Fernándes,Josip Pivarić... ",Eduardo Carvalho,1.0,Croatia
+2015-2016,GR,Manchester Utd,8.0,4.0,2.0,2.0,14.0,8.0,6.0,14.0,75099.0,Anthony Martial,David de Gea,2.0,England
+2015-2016,GR,Malmö,12.0,4.0,1.0,7.0,9.0,26.0,-17.0,13.0,20500.0,Markus Rosenberg,Johan Wiland,1.0,Sweden
+2015-2016,GR,CSKA Moscow,10.0,3.0,2.0,5.0,14.0,16.0,-2.0,11.0,17019.0,Seydou Doumbia,Igor Akinfeev,3.0,Russia
+2015-2016,GR,Shakhtar,10.0,3.0,2.0,5.0,13.0,16.0,-3.0,11.0,30144.0,Alex Teixeira,Andriy Pyatov,3.0,Ukraine
+2015-2016,GR,Porto,6.0,3.0,1.0,2.0,9.0,8.0,1.0,10.0,37516.0,Vincent Aboubakar,Iker Casillas,3.0,Portugal
+2015-2016,GR,Leverkusen,8.0,2.0,3.0,3.0,16.0,13.0,3.0,9.0,27701.0,Javier Hernández,Bernd Leno,5.0,Germany
+2015-2016,GR,Valencia,8.0,3.0,0.0,5.0,9.0,12.0,-3.0,9.0,32902.0,"João Cancelo,Sofiane Feghouli... ",Jaume Doménech,1.0,Spain
+2015-2016,GR,Olympiacos,6.0,3.0,0.0,3.0,6.0,13.0,-7.0,9.0,31516.0,Felipe Pardo,Roberto,3.0,Greece
+2015-2016,GR,Maccabi Tel Aviv,12.0,2.0,2.0,8.0,13.0,24.0,-11.0,8.0,27622.0,Eran Zahavi,Predrag Rajković,1.0,Israel
+2015-2016,GR,Sevilla,6.0,2.0,0.0,4.0,8.0,11.0,-3.0,6.0,37267.0,"Yevhen Konoplyanka,Éver Banega",Sergio Rico,2.0,Spain
+2015-2016,GR,M'Gladbach,6.0,1.0,2.0,3.0,8.0,12.0,-4.0,5.0,45870.0,Lars Stindl,Yann Sommer,3.0,Germany
+2015-2016,GR,Galatasaray,6.0,1.0,2.0,3.0,6.0,10.0,-4.0,5.0,31182.0,"Lukas Podolski,Selçuk İnan",Fernando Muslera,2.0,Turkey
+2015-2016,GR,Lyon,6.0,1.0,1.0,4.0,5.0,9.0,-4.0,4.0,31304.0,Alexandre Lacazette,Anthony Lopes,2.0,France
+2014-2015,W,Barcelona,13.0,11.0,0.0,2.0,31.0,11.0,20.0,33.0,89813.0,"Lionel Messi,Neymar",Marc-André ter Stegen,10.0,Spain
+2014-2015,F,Juventus,13.0,7.0,3.0,3.0,17.0,10.0,7.0,24.0,35985.0,Carlos Tevez,Gianluigi Buffon,7.0,Italy
+2014-2015,SF,Real Madrid,12.0,8.0,2.0,2.0,24.0,9.0,15.0,26.0,71579.0,Cristiano Ronaldo,Iker Casillas,10.0,Spain
+2014-2015,SF,Bayern Munich,12.0,8.0,1.0,3.0,33.0,13.0,20.0,25.0,69000.0,Thomas Müller,Manuel Neuer,7.0,Germany
+2014-2015,QF,Porto,12.0,8.0,3.0,1.0,28.0,12.0,16.0,27.0,35865.0,Jackson Martínez,Fabiano,7.0,Portugal
+2014-2015,QF,Atlético Madrid,10.0,5.0,2.0,3.0,15.0,5.0,10.0,17.0,43954.0,Mario Mandžukić,Miguel Ángel Moyá,5.0,Spain
+2014-2015,QF,Monaco,10.0,4.0,3.0,3.0,7.0,5.0,2.0,15.0,13275.0,"Aymen Abdennour,Dimitar Berbatov... ",Danijel Subašić,1.0,France
+2014-2015,QF,Paris S-G,10.0,4.0,3.0,3.0,14.0,15.0,-1.0,15.0,46077.0,Edinson Cavani,Salvatore Sirigu,6.0,France
+2014-2015,R16,Arsenal,10.0,6.0,2.0,2.0,19.0,11.0,8.0,20.0,59861.0,"Danny Welbeck,Alexis Sánchez... ",Wojciech Szczęsny,3.0,England
+2014-2015,R16,Leverkusen,10.0,6.0,1.0,3.0,15.0,7.0,8.0,19.0,26941.0,Son Heung-min,Bernd Leno,3.0,Germany
+2014-2015,R16,Chelsea,8.0,4.0,4.0,0.0,20.0,6.0,14.0,16.0,39851.0,Eden Hazard,Thibaut Courtois,3.0,England
+2014-2015,R16,Dortmund,8.0,4.0,1.0,3.0,15.0,9.0,6.0,13.0,65851.0,Ciro Immobile,Roman Weidenfeller,4.0,Germany
+2014-2015,R16,Schalke 04,8.0,3.0,2.0,3.0,13.0,19.0,-6.0,11.0,51706.0,Klaas-Jan Huntelaar,Ralf Fährmann,5.0,Germany
+2014-2015,R16,Shakhtar,8.0,2.0,4.0,2.0,15.0,11.0,4.0,10.0,32516.0,Luiz Adriano,Andriy Pyatov,9.0,Ukraine
+2014-2015,R16,Manchester City,8.0,2.0,2.0,4.0,10.0,11.0,-1.0,8.0,43060.0,Sergio Agüero,Joe Hart,6.0,England
+2014-2015,R16,Basel,8.0,2.0,2.0,4.0,8.0,13.0,-5.0,8.0,35434.0,Derlis González,Tomáš Vaclík,3.0,Switzerland
+2014-2015,GR,ruZen,10.0,5.0,1.0,4.0,11.0,7.0,4.0,16.0,14983.0,"Danny,Hulk... ",Yuri Lodygin,1.0,Italy
+2014-2015,GR,NK Maribor,12.0,3.0,6.0,3.0,11.0,16.0,-5.0,15.0,12554.0,"Damjan Bohar,Agim Ibraimi... ",Jasmin Handanović,1.0,Slovenia
+2014-2015,GR,Ludogorets,12.0,3.0,4.0,5.0,13.0,18.0,-5.0,13.0,35925.0,Dani Abalo,Vladislav Stoyanov,2.0,Bulgaria
+2014-2015,GR,Malmö,12.0,4.0,1.0,7.0,13.0,21.0,-8.0,13.0,20500.0,Markus Rosenberg,Robin Olsen,3.0,Sweden
+2014-2015,GR,BATE Borisov,12.0,3.0,3.0,6.0,10.0,28.0,-18.0,12.0,11382.0,"Alyaksandr Karnitsky,Dzyanis Palyakow",Sergei Chernik,1.0,Belarus
+2014-2015,GR,Athletic Club,8.0,3.0,2.0,3.0,9.0,8.0,1.0,11.0,46031.0,Mikel San José,Gorka Iraizoz,2.0,Spain
+2014-2015,GR,Olympiacos,6.0,3.0,0.0,3.0,10.0,13.0,-3.0,9.0,30306.0,"Ibrahim Afellay,Kostas Mitroglou",Roberto,2.0,Greece
+2014-2015,GR,APOEL FC,10.0,2.0,3.0,5.0,10.0,15.0,-5.0,9.0,18825.0,Gustavo Manduca,Urko Pardo,1.0,Cyprus
+2014-2015,GR,Sporting CP,6.0,2.0,1.0,3.0,12.0,12.0,0.0,7.0,36315.0,Nani,Rui Patrício,4.0,Portugal
+2014-2015,GR,Anderlecht,6.0,1.0,3.0,2.0,8.0,10.0,-2.0,6.0,19462.0,"Aleksandar Mitrović,Chancel Mbemba... ",Silvio Proto,2.0,Belgium
+2014-2015,GR,Ajax,6.0,1.0,2.0,3.0,8.0,10.0,-2.0,5.0,51447.0,Lasse Schöne,Jasper Cillessen,3.0,Netherlands
+2014-2015,GR,Liverpool,6.0,1.0,2.0,3.0,5.0,9.0,-4.0,5.0,43372.0,Steven Gerrard,Simon Mignolet,2.0,England
+2014-2015,GR,Benfica,6.0,1.0,2.0,3.0,2.0,6.0,-4.0,5.0,28474.0,"Eduardo Salvio,Talisca",Júlio César,1.0,Portugal
+2014-2015,GR,Roma,6.0,1.0,2.0,3.0,8.0,14.0,-6.0,5.0,55183.0,Gervinho,Morgan De Sanctis,3.0,Italy
+2014-2015,GR,CSKA Moscow,6.0,1.0,2.0,3.0,6.0,13.0,-7.0,5.0,28500.0,Seydou Doumbia,Igor Akinfeev,3.0,Russia
+2014-2015,GR,Galatasaray,6.0,0.0,1.0,5.0,4.0,19.0,-15.0,1.0,28489.0,Burak Yılmaz,Fernando Muslera,2.0,Turkey
+2013-2014,W,Real Madrid,13.0,10.0,2.0,1.0,41.0,10.0,31.0,32.0,78426.0,Cristiano Ronaldo,Iker Casillas,17.0,Spain
+2013-2014,F,Atlético Madrid,13.0,7.0,5.0,1.0,26.0,10.0,16.0,26.0,43994.0,Diego Costa,Thibaut Courtois,8.0,Spain
+2013-2014,SF,Bayern Munich,12.0,6.0,4.0,2.0,24.0,13.0,11.0,22.0,67883.0,Thomas Müller,Manuel Neuer,5.0,Germany
+2013-2014,SF,Chelsea,12.0,4.0,5.0,3.0,19.0,10.0,9.0,17.0,39531.0,Fernando Torres,Petr Čech,4.0,England
+2013-2014,QF,Paris S-G,10.0,6.0,2.0,2.0,25.0,9.0,16.0,20.0,44680.0,Zlatan Ibrahimović,Salvatore Sirigu,10.0,France
+2013-2014,QF,Barcelona,10.0,5.0,3.0,2.0,21.0,8.0,13.0,18.0,76033.0,Lionel Messi,Víctor Valdés,8.0,Spain
+2013-2014,QF,Manchester Utd,10.0,5.0,3.0,2.0,17.0,9.0,8.0,18.0,74594.0,Robin van Persie,David de Gea,4.0,England
+2013-2014,QF,Dortmund,10.0,5.0,2.0,3.0,18.0,13.0,5.0,17.0,65829.0,Robert Lewandowski,Roman Weidenfeller,6.0,Germany
+2013-2014,R16,ruZen,12.0,4.0,5.0,3.0,23.0,17.0,6.0,17.0,17542.0,Hulk,Yuri Lodygin,4.0,Italy
+2013-2014,R16,Arsenal,10.0,5.0,2.0,3.0,14.0,8.0,6.0,17.0,59864.0,"Olivier Giroud,Jack Wilshere... ",Wojciech Szczęsny,2.0,England
+2013-2014,R16,Manchester City,8.0,5.0,0.0,3.0,19.0,14.0,5.0,15.0,43372.0,Sergio Agüero,Joe Hart,6.0,England
+2013-2014,R16,Schalke 04,10.0,4.0,2.0,4.0,12.0,18.0,-6.0,14.0,53973.0,Julian Draxler,"Ralf Fährmann,Timo Hildebrand",3.0,Germany
+2013-2014,R16,Olympiacos,8.0,4.0,1.0,3.0,12.0,11.0,1.0,13.0,30632.0,"Kostas Mitroglou,Chori Domínguez",Roberto,3.0,Greece
+2013-2014,R16,Milan,10.0,2.0,5.0,3.0,13.0,11.0,2.0,11.0,64186.0,"Kaká,Mario Balotelli",Christian Abbiati,2.0,Italy
+2013-2014,R16,Leverkusen,8.0,3.0,1.0,4.0,10.0,16.0,-6.0,10.0,27867.0,Simon Rolfes,Bernd Leno,3.0,Germany
+2013-2014,R16,Galatasaray,8.0,2.0,2.0,4.0,9.0,17.0,-8.0,8.0,44710.0,Umut Bulut,Fernando Muslera,3.0,Turkey
+2013-2014,GR,Viktoria Plzeň,12.0,6.0,1.0,5.0,26.0,24.0,2.0,19.0,10880.0,"Daniel Kolář,Marek Bakoš... ",Matúš Kozáčik,1.0,Czech Republic
+2013-2014,GR,Basel,10.0,4.0,4.0,2.0,15.0,11.0,4.0,16.0,33054.0,Mohamed Salah,Yann Sommer,2.0,Switzerland
+2013-2014,GR,Steaua,12.0,3.0,6.0,3.0,13.0,15.0,-2.0,15.0,37081.0,"Federico Piovaccari,Leandro Tatu",Ciprian Tătărușanu,1.0,Romania
+2013-2014,GR,Austria Wien,10.0,3.0,4.0,3.0,10.0,13.0,-3.0,13.0,40225.0,"Roman Kienast,Philipp Hosiner",Heinz Lindner,2.0,Austria
+2013-2014,GR,Napoli,6.0,4.0,0.0,2.0,10.0,9.0,1.0,12.0,42980.0,Gonzalo Higuaín,Pepe Reina,4.0,Italy
+2013-2014,GR,Celtic,12.0,3.0,3.0,6.0,12.0,16.0,-4.0,12.0,58488.0,"Beram Kayal,James Forrest... ",Fraser Forster,1.0,Scotland
+2013-2014,GR,Benfica,6.0,3.0,1.0,2.0,8.0,8.0,0.0,10.0,30847.0,"Filip Đuričić,Nicolás Gaitán... ",Artur Moraes,1.0,Portugal
+2013-2014,GR,Shakhtar,6.0,2.0,2.0,2.0,7.0,6.0,1.0,8.0,48672.0,Alex Teixeira,Andriy Pyatov,3.0,Ukraine
+2013-2014,GR,Ajax,6.0,2.0,2.0,2.0,5.0,8.0,-3.0,8.0,54866.0,Lasse Schöne,Jasper Cillessen,2.0,Netherlands
+2013-2014,GR,Juventus,6.0,1.0,3.0,2.0,9.0,9.0,0.0,6.0,36469.0,Arturo Vidal,Gianluigi Buffon,5.0,Italy
+2013-2014,GR,Porto,6.0,1.0,2.0,3.0,4.0,7.0,-3.0,5.0,29969.0,"Lucho González,Jackson Martínez",Helton Arruda,2.0,Portugal
+2013-2014,GR,Real Sociedad,8.0,1.0,2.0,5.0,5.0,10.0,-5.0,5.0,28300.0,Carlos Vela,Claudio Bravo,1.0,Spain
+2013-2014,GR,FC Copenhagen,6.0,1.0,1.0,4.0,4.0,13.0,-9.0,4.0,36656.0,"Nicolai Jørgensen,Daniel Braaten... ",Johan Wiland,1.0,Denmark
+2013-2014,GR,CSKA Moscow,6.0,1.0,0.0,5.0,8.0,17.0,-9.0,3.0,11333.0,"Keisuke Honda,Seydou Doumbia... ",Igor Akinfeev,2.0,Russia
+2013-2014,GR,Anderlecht,6.0,0.0,1.0,5.0,4.0,17.0,-13.0,1.0,17054.0,"Massimo Bruno,Sacha Kljestan... ","Thomas Kaminski,Silvio Proto",1.0,Belgium
+2013-2014,GR,Marseille,6.0,0.0,0.0,6.0,5.0,14.0,-9.0,0.0,38275.0,André Ayew,Steve Mandanda,2.0,France
+2012-2013,W,Bayern Munich,13.0,10.0,2.0,1.0,31.0,11.0,20.0,32.0,73667.0,Thomas Müller,Manuel Neuer,8.0,Germany
+2012-2013,F,Dortmund,13.0,5.0,6.0,2.0,24.0,14.0,10.0,21.0,71239.0,Robert Lewandowski,Roman Weidenfeller,10.0,Germany
+2012-2013,SF,Real Madrid,12.0,5.0,4.0,3.0,26.0,18.0,8.0,19.0,71313.0,Cristiano Ronaldo,Diego López,12.0,Spain
+2012-2013,SF,Barcelona,12.0,4.0,5.0,3.0,18.0,17.0,1.0,17.0,81477.0,Lionel Messi,Víctor Valdés,8.0,Spain
+2012-2013,QF,Paris S-G,10.0,6.0,3.0,1.0,20.0,8.0,12.0,21.0,43868.0,Ezequiel Lavezzi,Salvatore Sirigu,5.0,France
+2012-2013,QF,Málaga,12.0,4.0,6.0,2.0,18.0,9.0,9.0,18.0,25824.0,Eliseu,Willy Caballero,4.0,Spain
+2012-2013,QF,Juventus,10.0,4.0,5.0,1.0,17.0,8.0,9.0,17.0,36047.0,Fabio Quagliarella,Gianluigi Buffon,4.0,Italy
+2012-2013,QF,Galatasaray,10.0,4.0,3.0,3.0,14.0,14.0,0.0,15.0,47397.0,Burak Yılmaz,Fernando Muslera,8.0,Turkey
+2012-2013,R16,Celtic,12.0,6.0,2.0,4.0,17.0,14.0,3.0,20.0,58211.0,Georgios Samaras,Fraser Forster,3.0,Scotland
+2012-2013,R16,Porto,8.0,5.0,1.0,2.0,11.0,6.0,5.0,16.0,33909.0,Jackson Martínez,Helton Arruda,3.0,Portugal
+2012-2013,R16,Valencia,8.0,4.0,2.0,2.0,14.0,8.0,6.0,14.0,30679.0,Jonas,Vicente Guaita,5.0,Spain
+2012-2013,R16,Schalke 04,8.0,3.0,5.0,0.0,13.0,10.0,3.0,14.0,52635.0,Klaas-Jan Huntelaar,Lars Unnerstall,4.0,Germany
+2012-2013,R16,Manchester Utd,8.0,4.0,2.0,2.0,11.0,9.0,2.0,14.0,73582.0,"Javier Hernández,Robin van Persie",David de Gea,3.0,England
+2012-2013,R16,Arsenal,8.0,4.0,1.0,3.0,13.0,11.0,2.0,13.0,59954.0,Lukas Podolski,Vito Mannone,4.0,England
+2012-2013,R16,Shakhtar,8.0,3.0,2.0,3.0,14.0,13.0,1.0,11.0,49101.0,Willian,Andriy Pyatov,4.0,Ukraine
+2012-2013,R16,Milan,8.0,3.0,2.0,3.0,9.0,10.0,-1.0,11.0,40981.0,"Stephan El Shaarawy,Alexandre Pato",Christian Abbiati,2.0,Italy
+2012-2013,GR,CFR Cluj,10.0,6.0,2.0,2.0,15.0,9.0,6.0,20.0,15708.0,Rui Pedro,Mário Felgueiras,3.0,Romania
+2012-2013,GR,BATE Borisov,12.0,5.0,3.0,4.0,18.0,19.0,-1.0,18.0,25542.0,"Vitali Rodionov,Renan Bardini Bressan",Andrey Harbunow,2.0,Belarus
+2012-2013,GR,Dynamo Kyiv,10.0,4.0,3.0,3.0,13.0,14.0,-1.0,15.0,39634.0,Oleh Husyev,Maksym Koval,2.0,Ukraine
+2012-2013,GR,Dinamo Zagreb,12.0,3.0,4.0,5.0,13.0,18.0,-5.0,13.0,5890.0,Ivan Krstanović,Ivan Kelava,1.0,Croatia
+2012-2013,GR,Anderlecht,10.0,3.0,3.0,4.0,18.0,11.0,7.0,12.0,17317.0,Dieumerci Mbokani,Silvio Proto,2.0,Belgium
+2012-2013,GR,Chelsea,6.0,3.0,1.0,2.0,16.0,10.0,6.0,10.0,40689.0,Oscar,Petr Čech,5.0,England
+2012-2013,GR,Olympiacos,6.0,3.0,0.0,3.0,9.0,9.0,0.0,9.0,29089.0,Kostas Mitroglou,Roy Carroll,4.0,Greece
+2012-2013,GR,Benfica,6.0,2.0,2.0,2.0,5.0,5.0,0.0,8.0,49120.0,Óscar Cardozo,Artur Moraes,2.0,Portugal
+2012-2013,GR,ruZen,6.0,2.0,1.0,3.0,6.0,9.0,-3.0,7.0,19361.0,Danny,Vyacheslav Malafeev,2.0,Italy
+2012-2013,GR,Spartak Moscow,8.0,2.0,1.0,5.0,10.0,16.0,-6.0,7.0,50637.0,Emmanuel Emenike,"Andriy Dykan,Sergei Pesyakov...",2.0,Russia
+2012-2013,GR,Braga,8.0,1.0,2.0,5.0,9.0,15.0,-6.0,5.0,11758.0,Alan,Beto,5.0,Portugal
+2012-2013,GR,Ajax,6.0,1.0,1.0,4.0,8.0,16.0,-8.0,4.0,47578.0,Siem de Jong,Kenneth Vermeer,3.0,Netherlands
+2012-2013,GR,Lille,8.0,1.0,1.0,6.0,6.0,14.0,-8.0,4.0,41139.0,"Salomon Kalou,Gianni Bruno... ",Mickaël Landreau,1.0,France
+2012-2013,GR,Manchester City,6.0,0.0,3.0,3.0,7.0,11.0,-4.0,3.0,43206.0,Sergio Agüero,Joe Hart,2.0,England
+2012-2013,GR,Montpellier,6.0,0.0,2.0,4.0,6.0,12.0,-6.0,2.0,24499.0,Younès Belhanda,Geoffrey Jourdren,2.0,France
+2012-2013,GR,Nordsjælland,6.0,0.0,1.0,5.0,4.0,22.0,-18.0,1.0,21526.0,"Joshua John,Mikkel Beckmann... ",Jesper Hansen,1.0,Denmark
+2011-2012,W,Chelsea,13.0,5.0,6.0,2.0,25.0,12.0,13.0,21.0,40902.0,Didier Drogba,Petr Čech,6.0,England
+2011-2012,F,Bayern Munich,15.0,8.0,4.0,3.0,29.0,11.0,18.0,28.0,71500.0,Mario Gómez,Manuel Neuer,12.0,Germany
+2011-2012,SF,Real Madrid,12.0,7.0,4.0,1.0,35.0,9.0,26.0,25.0,67644.0,Cristiano Ronaldo,Iker Casillas,10.0,Spain
+2011-2012,SF,Barcelona,12.0,6.0,5.0,1.0,35.0,10.0,25.0,23.0,77953.0,Lionel Messi,Víctor Valdés,14.0,Spain
+2011-2012,QF,Benfica,14.0,4.0,7.0,3.0,21.0,14.0,7.0,19.0,49431.0,Óscar Cardozo,Artur Moraes,4.0,Portugal
+2011-2012,QF,APOEL FC,16.0,4.0,7.0,5.0,20.0,17.0,3.0,19.0,22262.0,Gustavo Manduca,Dionisis Chiotis,4.0,Cyprus
+2011-2012,QF,Milan,10.0,3.0,4.0,3.0,16.0,14.0,2.0,13.0,70491.0,Zlatan Ibrahimović,Christian Abbiati,5.0,Italy
+2011-2012,QF,Marseille,10.0,4.0,1.0,5.0,9.0,10.0,-1.0,13.0,30824.0,André Ayew,Steve Mandanda,4.0,France
+2011-2012,R16,Arsenal,10.0,5.0,3.0,2.0,13.0,11.0,2.0,18.0,59785.0,Robin van Persie,Wojciech Szczęsny,4.0,England
+2011-2012,R16,Lyon,10.0,4.0,3.0,3.0,14.0,10.0,4.0,15.0,35403.0,Bafétimbi Gomis,Hugo Lloris,5.0,France
+2011-2012,R16,Napoli,8.0,4.0,2.0,2.0,14.0,11.0,3.0,14.0,54223.0,Edinson Cavani,Morgan De Sanctis,5.0,Italy
+2011-2012,R16,Basel,8.0,4.0,2.0,2.0,12.0,17.0,-5.0,14.0,34489.0,Alexander Frei,Yann Sommer,5.0,Switzerland
+2011-2012,R16,ruZen,8.0,3.0,3.0,2.0,10.0,9.0,1.0,12.0,20628.0,Roman Shirokov,Vyacheslav Malafeev,5.0,Italy
+2011-2012,R16,Inter,8.0,3.0,2.0,3.0,10.0,9.0,1.0,11.0,33668.0,Giampaolo Pazzini,Júlio César,3.0,Italy
+2011-2012,R16,Leverkusen,8.0,3.0,1.0,4.0,10.0,18.0,-8.0,10.0,27555.0,Eren Derdiyok,Bernd Leno,2.0,Germany
+2011-2012,R16,CSKA Moscow,8.0,2.0,3.0,3.0,11.0,13.0,-2.0,9.0,35525.0,Seydou Doumbia,Vladimir Gabulov,5.0,Russia
+2011-2012,GR,Viktoria Plzeň,12.0,4.0,5.0,3.0,22.0,16.0,6.0,17.0,19847.0,Marek Bakoš,Marek Čech,2.0,Czech Republic
+2011-2012,GR,Dinamo Zagreb,12.0,3.0,2.0,7.0,13.0,26.0,-13.0,11.0,23075.0,"Fatos Bećiraj,Mateo Kovačić... ",Ivan Kelava,1.0,Croatia
+2011-2012,GR,Manchester City,6.0,3.0,1.0,2.0,9.0,6.0,3.0,10.0,44451.0,Yaya Touré,Joe Hart,3.0,England
+2011-2012,GR,BATE Borisov,12.0,1.0,7.0,4.0,11.0,17.0,-6.0,10.0,28392.0,Renan Bardini Bressan,Alyaksandr Hutar,2.0,Belarus
+2011-2012,GR,Manchester Utd,6.0,2.0,3.0,1.0,11.0,8.0,3.0,9.0,74278.0,"Wayne Rooney,Danny Welbeck",David de Gea,2.0,England
+2011-2012,GR,Olympiacos,6.0,3.0,0.0,3.0,8.0,6.0,2.0,9.0,30165.0,"David Fuster,François Modesto... ","Franco Costanzo,Balázs Megyeri",2.0,Greece
+2011-2012,GR,Valencia,6.0,2.0,2.0,2.0,12.0,7.0,5.0,8.0,35308.0,Roberto Soldado,Diego Alves,5.0,Spain
+2011-2012,GR,Porto,6.0,2.0,2.0,2.0,7.0,7.0,0.0,8.0,38545.0,Hulk,Helton Arruda,4.0,Portugal
+2011-2012,GR,Ajax,6.0,2.0,2.0,2.0,6.0,6.0,0.0,8.0,50256.0,"Christian Eriksen,Derk Boerrigter... ",Kenneth Vermeer,1.0,Netherlands
+2011-2012,GR,Trabzonspor,8.0,1.0,5.0,2.0,4.0,8.0,-4.0,8.0,18653.0,"Halil Altıntop,Ondřej Čelůstka... ",Tolga Zengin,1.0,Turkey
+2011-2012,GR,Genk,10.0,1.0,5.0,4.0,8.0,21.0,-13.0,8.0,21340.0,Jelle Vossen,László Köteles,2.0,Belgium
+2011-2012,GR,Lille,6.0,1.0,3.0,2.0,6.0,6.0,0.0,6.0,16215.0,Moussa Sow,Mickaël Landreau,3.0,France
+2011-2012,GR,Shakhtar,6.0,1.0,2.0,3.0,6.0,8.0,-2.0,5.0,46719.0,Luiz Adriano,Oleksandr Rybka,3.0,Ukraine
+2011-2012,GR,Dortmund,6.0,1.0,1.0,4.0,6.0,12.0,-6.0,4.0,65590.0,"Jakub Błaszczykowski,Shinji Kagawa... ",Roman Weidenfeller,1.0,Germany
+2011-2012,GR,Villarreal,8.0,0.0,1.0,7.0,5.0,15.0,-10.0,1.0,17959.0,"Cani,Jonathan de Guzmán",Diego López,1.0,Spain
+2011-2012,GR,Oțelul Galați,6.0,0.0,0.0,6.0,3.0,11.0,-8.0,0.0,13533.0,"Liviu Antal,Gabriel Giurgiu... ",Branko Grahovac,1.0,Romania
+2010-2011,W,Barcelona,13.0,8.0,4.0,1.0,30.0,9.0,21.0,28.0,85535.0,Lionel Messi,Víctor Valdés,12.0,Spain
+2010-2011,F,Manchester Utd,13.0,6.0,6.0,1.0,19.0,7.0,12.0,24.0,80325.0,"Javier Hernández,Wayne Rooney",Edwin van der Sar,4.0,England
+2010-2011,SF,Real Madrid,12.0,7.0,4.0,1.0,25.0,6.0,19.0,25.0,71583.0,"Karim Benzema,Cristiano Ronaldo",Iker Casillas,6.0,Spain
+2010-2011,SF,Schalke 04,12.0,5.0,4.0,3.0,22.0,14.0,8.0,19.0,52378.0,Raúl,Manuel Neuer,5.0,Germany
+2010-2011,QF,Shakhtar,10.0,6.0,2.0,2.0,19.0,14.0,5.0,20.0,49083.0,"Eduardo da Silva,Luiz Adriano",Andriy Pyatov,4.0,Ukraine
+2010-2011,QF,Chelsea,10.0,6.0,1.0,3.0,17.0,7.0,10.0,19.0,39157.0,Nicolas Anelka,Petr Čech,7.0,England
+2010-2011,QF,Tottenham,12.0,4.0,5.0,3.0,25.0,19.0,6.0,17.0,34986.0,"Gareth Bale,Peter Crouch",Heurelho Gomes,4.0,England
+2010-2011,QF,Inter,10.0,4.0,1.0,5.0,18.0,21.0,-3.0,13.0,60720.0,Samuel Eto'o,Júlio César,8.0,Italy
+2010-2011,R16,Bayern Munich,8.0,6.0,1.0,1.0,19.0,9.0,10.0,19.0,65750.0,Mario Gómez,"Hans-Jörg Butt,Thomas Kraft",8.0,Germany
+2010-2011,R16,Arsenal,8.0,5.0,0.0,3.0,21.0,11.0,10.0,15.0,59633.0,"Cesc Fàbregas,Andrey Arshavin... ",Łukasz Fabiański,3.0,England
+2010-2011,R16,FC Copenhagen,12.0,3.0,5.0,4.0,12.0,11.0,1.0,14.0,35102.0,"Dame N'Doye,Martin Vingaard",Johan Wiland,2.0,Denmark
+2010-2011,R16,Marseille,8.0,4.0,1.0,3.0,13.0,5.0,8.0,13.0,52922.0,André-Pierre Gignac,Steve Mandanda,3.0,France
+2010-2011,R16,Valencia,8.0,3.0,3.0,2.0,17.0,8.0,9.0,12.0,32412.0,Roberto Soldado,César Sánchez,6.0,Spain
+2010-2011,R16,Lyon,8.0,3.0,2.0,3.0,12.0,14.0,-2.0,11.0,36881.0,Michel Bastos,Hugo Lloris,3.0,France
+2010-2011,R16,Roma,8.0,3.0,1.0,4.0,12.0,17.0,-5.0,10.0,34666.0,Marco Borriello,Júlio Sérgio,4.0,Italy
+2010-2011,R16,Milan,8.0,2.0,3.0,3.0,7.0,8.0,-1.0,9.0,60110.0,Zlatan Ibrahimović,Christian Abbiati,4.0,Italy
+2010-2011,GR,Braga,10.0,6.0,0.0,4.0,14.0,16.0,-2.0,18.0,13754.0,Matheus Leite Nascimento,Felipe,3.0,Portugal
+2010-2011,GR,Hapoel Tel Aviv,12.0,4.0,4.0,4.0,20.0,15.0,5.0,16.0,12711.0,Eran Zahavi,Vincent Enyeama,3.0,Israel
+2010-2011,GR,Basel,10.0,5.0,1.0,4.0,17.0,12.0,5.0,16.0,36746.0,Alexander Frei,Franco Costanzo,3.0,Switzerland
+2010-2011,GR,Partizan,12.0,4.0,2.0,6.0,15.0,19.0,-4.0,14.0,24595.0,Cléo,Vladimir Stojković,2.0,Serbia
+2010-2011,GR,Ajax,10.0,2.0,5.0,3.0,13.0,16.0,-3.0,11.0,47581.0,"Toby Alderweireld,Demy de Zeeuw",Maarten Stekelenburg,2.0,Netherlands
+2010-2011,GR,Spartak Moscow,6.0,3.0,0.0,3.0,7.0,10.0,-3.0,9.0,51739.0,"Ari,Ibson",Andriy Dykan,2.0,Russia
+2010-2011,GR,Werr Bremen,8.0,2.0,2.0,4.0,11.0,16.0,-5.0,8.0,30315.0,Marko Arnautović,Tim Wiese,2.0,Germany
+2010-2011,GR,MŠK Žilina,12.0,1.0,4.0,7.0,13.0,22.0,-9.0,7.0,9594.0,"Bello Babatounde,Tomáš Majtán... ",Martin Dúbravka,1.0,Slovakia
+2010-2011,GR,Twente,6.0,1.0,3.0,2.0,9.0,11.0,-2.0,6.0,23933.0,Nacer Chadli,Nikolay Mihaylov,3.0,Netherlands
+2010-2011,GR,Rubin Kazan,6.0,1.0,3.0,2.0,2.0,4.0,-2.0,6.0,19557.0,Christian Noboa,Sergey Ryzhikov,2.0,Russia
+2010-2011,GR,Rangers,6.0,1.0,3.0,2.0,3.0,6.0,-3.0,6.0,45686.0,"Maurice Edu,Kenny Miller... ",Allan McGregor,1.0,Scotland
+2010-2011,GR,Benfica,6.0,2.0,0.0,4.0,7.0,12.0,-5.0,6.0,28620.0,"Fábio Coentrão,Luisão",Roberto,2.0,Portugal
+2010-2011,GR,CFR Cluj,6.0,1.0,1.0,4.0,6.0,12.0,-6.0,4.0,10600.0,"Ionuț Rada,Lacina Traoré","Nuno Claro,Eduard Stăncioiu",2.0,Romania
+2010-2011,GR,Auxerre,8.0,1.0,1.0,6.0,5.0,13.0,-8.0,4.0,19990.0,"Valter Birsa,Steeven Langil... ",Olivier Sorin,1.0,France
+2010-2011,GR,Panathinaikos,6.0,0.0,2.0,4.0,2.0,13.0,-11.0,2.0,49452.0,"Cédric Kanté,Sidney Govou",Alexandros Tzorvas,1.0,Greece
+2010-2011,GR,Bursaspor,6.0,0.0,1.0,5.0,2.0,16.0,-14.0,1.0,17908.0,"Pablo Batalla,Sercan Yıldırım",Dimitar Ivankov,1.0,Turkey
+2009-2010,W,Inter,13.0,8.0,3.0,2.0,17.0,9.0,8.0,27.0,72347.0,Diego Milito,Júlio César,6.0,Italy
+2009-2010,F,Bayern Munich,13.0,7.0,1.0,5.0,21.0,15.0,6.0,22.0,70850.0,Ivica Olić,Hans-Jörg Butt,7.0,Germany
+2009-2010,SF,Lyon,14.0,8.0,3.0,3.0,25.0,12.0,13.0,27.0,39509.0,Miralem Pjanić,Hugo Lloris,4.0,France
+2009-2010,SF,Barcelona,12.0,3.0,7.0,2.0,20.0,10.0,10.0,16.0,82627.0,Lionel Messi,Víctor Valdés,8.0,Spain
+2009-2010,QF,Bordeaux,10.0,6.0,3.0,1.0,14.0,6.0,8.0,21.0,32540.0,Marouane Chamakh,Cédric Carrasso,5.0,France
+2009-2010,QF,Arsenal,12.0,5.0,4.0,3.0,26.0,14.0,12.0,19.0,59905.0,Nicklas Bendtner,Manuel Almunia,5.0,England
+2009-2010,QF,Manchester Utd,10.0,5.0,3.0,2.0,21.0,12.0,9.0,18.0,73296.0,Wayne Rooney,Edwin van der Sar,5.0,England
+2009-2010,QF,CSKA Moscow,10.0,4.0,3.0,3.0,13.0,14.0,-1.0,15.0,35000.0,Miloš Krasić,Igor Akinfeev,4.0,Russia
+2009-2010,R16,Fiorentina,10.0,5.0,3.0,2.0,21.0,14.0,7.0,18.0,34547.0,Stevan Jovetić,Sébastien Frey,4.0,Italy
+2009-2010,R16,Olympiacos,12.0,5.0,3.0,4.0,12.0,8.0,4.0,18.0,30355.0,Kostas Mitroglou,Antonios Nikopolidis,2.0,Greece
+2009-2010,R16,Sevilla,8.0,4.0,3.0,1.0,13.0,7.0,6.0,15.0,39375.0,"Luís Fabiano,Frédéric Kanouté... ",Andrés Palop,2.0,Spain
+2009-2010,R16,Chelsea,8.0,4.0,3.0,1.0,12.0,7.0,5.0,15.0,39614.0,"Salomon Kalou,Nicolas Anelka... ",Petr Čech,3.0,England
+2009-2010,R16,Porto,8.0,5.0,0.0,3.0,10.0,9.0,1.0,15.0,36987.0,Radamel Falcao,Helton Arruda,4.0,Portugal
+2009-2010,R16,Real Madrid,8.0,4.0,2.0,2.0,16.0,9.0,7.0,14.0,75800.0,Cristiano Ronaldo,Iker Casillas,7.0,Spain
+2009-2010,R16,Stuttgart,10.0,3.0,5.0,2.0,12.0,12.0,0.0,14.0,35500.0,"Zdravko Kuzmanović,Pavel Pogrebnyak",Jens Lehmann,2.0,Germany
+2009-2010,R16,Milan,8.0,2.0,3.0,3.0,10.0,14.0,-4.0,9.0,58349.0,Ronaldinho,Dida,3.0,Italy
+2009-2010,GR,Maccabi Haifa,12.0,3.0,3.0,6.0,19.0,12.0,7.0,12.0,18500.0,,Nir Davidovich,,Israel
+2009-2010,GR,APOEL FC,12.0,2.0,5.0,5.0,14.0,10.0,4.0,11.0,20589.0,Nenad Mirosavljević,Dionisis Chiotis,2.0,Cyprus
+2009-2010,GR,Züri,10.0,3.0,2.0,5.0,15.0,18.0,-3.0,11.0,23608.0,"Silvan Aegerter,Alexandre Alphonse... ",Johnny Leoni,1.0,Switzerland
+2009-2010,GR,Debrecen,12.0,3.0,2.0,7.0,14.0,23.0,-9.0,11.0,16500.0,"Adamo Coulibaly,Gergely Rudolf",Vukašin Poleksić,2.0,Hungary
+2009-2010,GR,Unirea Urziceni,6.0,2.0,2.0,2.0,8.0,8.0,0.0,8.0,16500.0,"Marius Bilașco,Pablo Brandán... ",Giedrius Arlauskis,1.0,Romania
+2009-2010,GR,Juventus,6.0,2.0,2.0,2.0,4.0,7.0,-3.0,8.0,21519.0,"Mauro Camoranesi,Giorgio Chiellini... ",Gianluigi Buffon,1.0,Italy
+2009-2010,GR,Wolfsburg,6.0,2.0,1.0,3.0,9.0,8.0,1.0,7.0,25986.0,Edin Džeko,Diego Benaglio,4.0,Germany
+2009-2010,GR,Marseille,6.0,2.0,1.0,3.0,10.0,10.0,0.0,7.0,57249.0,"Lucho González,Gabriel Heinze",Steve Mandanda,2.0,France
+2009-2010,GR,Liverpool,6.0,2.0,1.0,3.0,5.0,7.0,-2.0,7.0,41339.0,Yossi Benayoun,Pepe Reina,2.0,England
+2009-2010,GR,Atlético Madrid,8.0,1.0,4.0,3.0,8.0,14.0,-6.0,7.0,33543.0,Sergio Agüero,Sergio Asenjo,2.0,Spain
+2009-2010,GR,Rubin Kazan,6.0,1.0,3.0,2.0,4.0,7.0,-3.0,6.0,26122.0,"Gökdeniz Karadeniz,Aleksandr Ryazantsev",Sergey Ryzhikov,1.0,Russia
+2009-2010,GR,Dynamo Kyiv,6.0,1.0,2.0,3.0,7.0,9.0,-2.0,5.0,16873.0,"Taras Mykhalyk,Artem Milevskiy... ",Oleksandr Shovkovskiy,1.0,Ukraine
+2009-2010,GR,Standard Liège,6.0,1.0,2.0,3.0,7.0,9.0,-2.0,5.0,24056.0,Milan Jovanović,Sinan Bolat,2.0,Belgium
+2009-2010,GR,AZ Alkmaar,6.0,0.0,4.0,2.0,4.0,8.0,-4.0,4.0,16417.0,Jeremain Lens,Sergio Romero,2.0,Netherlands
+2009-2010,GR,Beşiktaş,6.0,1.0,1.0,4.0,3.0,8.0,-5.0,4.0,23500.0,"Bobô,Ekrem Dağ... ",Rüştü Reçber,1.0,Turkey
+2009-2010,GR,Rangers,6.0,0.0,2.0,4.0,4.0,13.0,-9.0,2.0,41323.0,"Madjid Bougherra,Nacho Novo... ",Allan McGregor,1.0,Scotland
+2008-2009,W,Barcelona,15.0,8.0,6.0,2.0,36.0,14.0,22.0,30.0,72869.0,Lionel Messi,Víctor Valdés,9.0,Spain
+2008-2009,F,Manchester Utd,13.0,6.0,7.0,1.0,18.0,8.0,10.0,25.0,80888.0,"Dimitar Berbatov,Cristiano Ronaldo... ",Edwin van der Sar,4.0,England
+2008-2009,SF,Arsenal,14.0,7.0,3.0,4.0,23.0,11.0,12.0,24.0,59469.0,"Emmanuel Adebayor,Robin van Persie",Manuel Almunia,5.0,England
+2008-2009,SF,Chelsea,12.0,5.0,6.0,1.0,20.0,13.0,7.0,21.0,39612.0,Didier Drogba,Petr Čech,5.0,England
+2008-2009,QF,Liverpool,12.0,7.0,4.0,1.0,22.0,12.0,10.0,25.0,42018.0,Steven Gerrard,Pepe Reina,7.0,England
+2008-2009,QF,Bayern Munich,10.0,6.0,3.0,1.0,25.0,10.0,15.0,21.0,65200.0,Miroslav Klose,Michael Rensing,7.0,Germany
+2008-2009,QF,Porto,10.0,4.0,3.0,3.0,13.0,13.0,0.0,15.0,43420.0,Lisandro López,Helton Arruda,6.0,Portugal
+2008-2009,QF,Villarreal,10.0,3.0,5.0,2.0,13.0,13.0,0.0,14.0,24700.0,Joseba Llorente,Diego López,4.0,Spain
+2008-2009,R16,Panathinaikos,12.0,6.0,3.0,3.0,16.0,11.0,5.0,21.0,62230.0,Vangelis Mantzios,Mario Galinović,4.0,Greece
+2008-2009,R16,Atlético Madrid,10.0,4.0,5.0,1.0,15.0,7.0,8.0,17.0,49197.0,"Sergio Agüero,Maxi Rodríguez",Leo Franco,3.0,Spain
+2008-2009,R16,Juventus,10.0,4.0,5.0,1.0,14.0,7.0,7.0,17.0,22283.0,Alessandro Del Piero,Alex Manninger,5.0,Italy
+2008-2009,R16,Roma,8.0,5.0,0.0,3.0,13.0,7.0,6.0,15.0,41106.0,"Matteo Brighi,Mirko Vučinić",Doni,3.0,Italy
+2008-2009,R16,Lyon,8.0,3.0,3.0,2.0,17.0,16.0,1.0,12.0,37898.0,Karim Benzema,Hugo Lloris,5.0,France
+2008-2009,R16,Real Madrid,8.0,4.0,0.0,4.0,9.0,10.0,-1.0,12.0,68750.0,"Raúl,Ruud van Nistelrooy",Iker Casillas,3.0,Spain
+2008-2009,R16,Sporting CP,8.0,4.0,0.0,4.0,9.0,20.0,-11.0,12.0,35933.0,"Liédson,Derlei",Rui Patrício,2.0,Portugal
+2008-2009,R16,Inter,8.0,2.0,3.0,3.0,8.0,9.0,-1.0,9.0,45250.0,"Adriano,Mario Balotelli... ",Júlio César,1.0,Italy
+2008-2009,GR,Dynamo Kyiv,10.0,5.0,3.0,2.0,16.0,9.0,7.0,18.0,13125.0,"Roman Eremenko,Oleksandr Aliyev... ",Stanislav Bohush,1.0,Ukraine
+2008-2009,GR,Anorthosis,12.0,5.0,3.0,4.0,18.0,12.0,6.0,18.0,17480.0,"Nikolaos Frousos,Cédric Bardon... ",Arjan Beqaj,1.0,Cyprus
+2008-2009,GR,Aalborg,10.0,5.0,3.0,2.0,20.0,15.0,5.0,18.0,9700.0,Jeppe Curth,Karim Zaza,2.0,Denmark
+2008-2009,GR,BATE Borisov,12.0,4.0,5.0,3.0,12.0,12.0,0.0,17.0,14100.0,"Sergey Krivets,Pavel Nyakhaychyk... ",Syarhey Vyeramko,1.0,Belarus
+2008-2009,GR,Shakhtar,8.0,5.0,0.0,3.0,16.0,8.0,8.0,15.0,21750.0,Jádson,Andriy Pyatov,4.0,Ukraine
+2008-2009,GR,Fenerbahçe,10.0,3.0,3.0,4.0,15.0,14.0,1.0,12.0,39130.0,Dani Güiza,Volkan Demirel,2.0,Turkey
+2008-2009,GR,Marseille,8.0,3.0,1.0,4.0,8.0,8.0,0.0,10.0,49250.0,Mamadou Niang,Steve Mandanda,3.0,France
+2008-2009,GR,Fiorentina,8.0,2.0,4.0,2.0,7.0,8.0,-1.0,10.0,33140.0,Alberto Gilardino,Sébastien Frey,4.0,Italy
+2008-2009,GR,Basel,10.0,2.0,3.0,5.0,9.0,20.0,-11.0,9.0,26455.0,"David Abraham,Eren Derdiyok",Franco Costanzo,1.0,Switzerland
+2008-2009,GR,Werr Bremen,6.0,1.0,4.0,1.0,7.0,9.0,-2.0,7.0,39322.0,"Hugo Almeida,Claudio Pizarro",Tim Wiese,2.0,Germany
+2008-2009,GR,Bordeaux,6.0,2.0,1.0,3.0,5.0,11.0,-6.0,7.0,28435.0,Yoann Gourcuff,"Ulrich Ramé,Mathieu Valverde",2.0,France
+2008-2009,GR,Celtic,6.0,1.0,2.0,3.0,4.0,7.0,-3.0,5.0,58146.0,"Shaun Maloney,Scott McDonald... ",Artur Boruc,1.0,Scotland
+2008-2009,GR,ruZen,6.0,1.0,2.0,3.0,4.0,7.0,-3.0,5.0,20333.0,Danny,Vyacheslav Malafeev,2.0,Italy
+2008-2009,GR,Steaua,8.0,1.0,2.0,5.0,6.0,14.0,-8.0,5.0,19262.0,"Arthuro,Dorin Goian... ",Róbinson Zapata,1.0,Romania
+2008-2009,GR,CFR Cluj,6.0,1.0,1.0,4.0,5.0,9.0,-4.0,4.0,20833.0,"Yssouf Koné,Emmanuel Culio",Eduard Stăncioiu,2.0,Romania
+2008-2009,GR,PSV Eindhoven,6.0,1.0,0.0,5.0,5.0,14.0,-9.0,3.0,31000.0,Danny Koevermans,Andreas Isaksson,4.0,Netherlands
+2007-2008,W,Manchester Utd,13.0,9.0,5.0,0.0,20.0,6.0,14.0,32.0,80699.0,Cristiano Ronaldo,Edwin van der Sar,8.0,England
+2007-2008,F,Chelsea,13.0,6.0,7.0,1.0,20.0,8.0,12.0,25.0,43401.0,Didier Drogba,Petr Čech,6.0,England
+2007-2008,SF,Liverpool,14.0,8.0,3.0,3.0,34.0,12.0,22.0,27.0,41626.0,"Steven Gerrard,Fernando Torres",Pepe Reina,6.0,England
+2007-2008,SF,Barcelona,12.0,8.0,3.0,1.0,18.0,6.0,12.0,27.0,78218.0,Lionel Messi,Víctor Valdés,6.0,Spain
+2007-2008,QF,Arsenal,12.0,7.0,3.0,2.0,24.0,9.0,15.0,24.0,59926.0,Cesc Fàbregas,Manuel Almunia,4.0,England
+2007-2008,QF,Fenerbahçe,12.0,7.0,2.0,3.0,18.0,14.0,4.0,23.0,47542.0,Deivid,Volkan Demirel,5.0,Turkey
+2007-2008,QF,Roma,10.0,5.0,2.0,3.0,15.0,11.0,4.0,17.0,43110.0,Mirko Vučinić,Doni,4.0,Italy
+2007-2008,QF,Schalke 04,10.0,3.0,2.0,5.0,6.0,7.0,-1.0,11.0,53951.0,Kevin Kurányi,Manuel Neuer,3.0,Germany
+2007-2008,R16,Sevilla,10.0,8.0,0.0,2.0,25.0,13.0,12.0,24.0,38188.0,Frédéric Kanouté,Andrés Palop,5.0,Spain
+2007-2008,R16,Inter,8.0,5.0,0.0,3.0,12.0,7.0,5.0,15.0,40176.0,Zlatan Ibrahimović,Júlio César,5.0,Italy
+2007-2008,R16,Milan,8.0,4.0,2.0,2.0,12.0,7.0,5.0,14.0,48874.0,Filippo Inzaghi,Zeljko Kalac,4.0,Italy
+2007-2008,R16,Porto,8.0,4.0,2.0,2.0,9.0,8.0,1.0,14.0,44285.0,Lisandro López,Helton Arruda,3.0,Portugal
+2007-2008,R16,Olympiacos,8.0,3.0,3.0,2.0,11.0,10.0,1.0,12.0,23775.0,"Darko Kovačević,Luciano Galletti... ",Antonios Nikopolidis,3.0,Greece
+2007-2008,R16,Real Madrid,8.0,3.0,2.0,3.0,15.0,13.0,2.0,11.0,75532.0,Raúl,Iker Casillas,5.0,Spain
+2007-2008,R16,Lyon,8.0,3.0,2.0,3.0,12.0,12.0,0.0,11.0,38308.0,Karim Benzema,Rémy Vercoutre,4.0,France
+2007-2008,R16,Celtic,10.0,3.0,2.0,5.0,9.0,12.0,-3.0,11.0,58757.0,"Jiří Jarošík,Scott McDonald... ",Artur Boruc,1.0,Scotland
+2007-2008,GR,Rosenborg,10.0,6.0,1.0,3.0,21.0,12.0,9.0,19.0,18787.0,"Yssouf Koné,Steffen Iversen",Lars Hirschfeld,2.0,Norway
+2007-2008,GR,Rangers,10.0,5.0,2.0,3.0,11.0,9.0,2.0,17.0,50061.0,Charlie Adam,Allan McGregor,2.0,Scotland
+2007-2008,GR,Beşiktaş,10.0,5.0,1.0,4.0,11.0,16.0,-5.0,16.0,25649.0,Bobô,Hakan Arıkan,2.0,Turkey
+2007-2008,GR,Shakhtar,10.0,5.0,0.0,5.0,13.0,14.0,-1.0,15.0,26667.0,Cristiano Lucarelli,Andriy Pyatov,3.0,Ukraine
+2007-2008,GR,Benfica,8.0,4.0,1.0,3.0,8.0,7.0,1.0,13.0,42101.0,Óscar Cardozo,Quim,3.0,Portugal
+2007-2008,GR,Slavia Prague,10.0,3.0,4.0,3.0,8.0,17.0,-9.0,13.0,17333.0,Zdeněk Šenkeřík,Martin Vaniak,2.0,Czech Republic
+2007-2008,GR,Werr Bremen,8.0,4.0,0.0,4.0,13.0,16.0,-3.0,12.0,36812.0,Boubacar Sanogo,Tim Wiese,3.0,Germany
+2007-2008,GR,Valencia,8.0,3.0,2.0,3.0,7.0,7.0,0.0,11.0,36500.0,David Villa,Santiago Cañizares,2.0,Spain
+2007-2008,GR,Steaua,10.0,3.0,2.0,5.0,11.0,13.0,-2.0,11.0,20333.0,"Valentin Badea,Dorin Goian... ",Róbinson Zapata,1.0,Romania
+2007-2008,GR,Lazio,8.0,2.0,3.0,3.0,12.0,13.0,-1.0,9.0,45567.0,Goran Pandev,Marco Ballotta,4.0,Italy
+2007-2008,GR,Sporting CP,6.0,2.0,1.0,3.0,9.0,8.0,1.0,7.0,31305.0,Liédson,"Rui Patrício,Vladimir Stojković...",4.0,Portugal
+2007-2008,GR,Marseille,6.0,2.0,1.0,3.0,6.0,9.0,-3.0,7.0,53032.0,Mamadou Niang,Steve Mandanda,2.0,France
+2007-2008,GR,PSV Eindhoven,6.0,2.0,1.0,3.0,3.0,6.0,-3.0,7.0,34333.0,"Jefferson Farfán,Danko Lazović... ",Heurelho Gomes,1.0,Netherlands
+2007-2008,GR,Dynamo Kyiv,8.0,2.0,0.0,6.0,8.0,19.0,-11.0,6.0,32667.0,Ismaël Bangoura,Oleksandr Shovkovskiy,2.0,Ukraine
+2007-2008,GR,Stuttgart,6.0,1.0,0.0,5.0,7.0,15.0,-8.0,3.0,51300.0,Mario Gómez,Raphael Schäfer,3.0,Germany
+2007-2008,GR,CSKA Moscow,6.0,0.0,1.0,5.0,7.0,14.0,-7.0,1.0,24667.0,Vágner Love,"Igor Akinfeev,Veniamin Mandrykin",3.0,Russia
+2006-2007,W,Milan,15.0,9.0,4.0,3.0,23.0,11.0,12.0,31.0,55496.0,Kaká,Dida,10.0,Italy
+2006-2007,F,Liverpool,15.0,9.0,3.0,4.0,22.0,12.0,10.0,30.0,50527.0,Peter Crouch,Pepe Reina,6.0,England
+2006-2007,SF,Manchester Utd,12.0,8.0,0.0,4.0,23.0,13.0,10.0,24.0,74081.0,Wayne Rooney,Edwin van der Sar,4.0,England
+2006-2007,SF,Chelsea,12.0,7.0,3.0,2.0,17.0,9.0,8.0,24.0,37114.0,Didier Drogba,Petr Čech,6.0,England
+2006-2007,QF,Valencia,12.0,5.0,4.0,3.0,19.0,12.0,7.0,19.0,41708.0,Fernando Morientes,Santiago Cañizares,6.0,Spain
+2006-2007,QF,Roma,10.0,5.0,2.0,3.0,13.0,12.0,1.0,17.0,48032.0,Francesco Totti,Doni,4.0,Italy
+2006-2007,QF,Bayern Munich,10.0,4.0,4.0,2.0,16.0,11.0,5.0,16.0,65400.0,Claudio Pizarro,Oliver Kahn,4.0,Germany
+2006-2007,QF,PSV Eindhoven,10.0,4.0,2.0,4.0,8.0,11.0,-3.0,14.0,33340.0,"Alex,Arouna Koné",Heurelho Gomes,2.0,Netherlands
+2006-2007,R16,Arsenal,10.0,5.0,3.0,2.0,13.0,6.0,7.0,18.0,59975.0,"Emmanuel Eboué,Júlio Baptista... ",Jens Lehmann,1.0,England
+2006-2007,R16,Lyon,8.0,4.0,3.0,1.0,12.0,5.0,7.0,15.0,39786.0,"Karim Benzema,Fred... ",Grégory Coupet,2.0,France
+2006-2007,R16,Lille,10.0,4.0,3.0,3.0,12.0,7.0,5.0,15.0,36512.0,"Nicolas Fauvergue,Peter Odemwingie",Tony Sylva,2.0,France
+2006-2007,R16,Barcelona,8.0,4.0,2.0,2.0,14.0,6.0,8.0,14.0,85626.0,Eiður Guðjohnsen,Víctor Valdés,3.0,Spain
+2006-2007,R16,Real Madrid,8.0,4.0,2.0,2.0,18.0,12.0,6.0,14.0,71854.0,Ruud van Nistelrooy,Iker Casillas,6.0,Spain
+2006-2007,R16,Porto,8.0,3.0,3.0,2.0,11.0,7.0,4.0,12.0,41014.0,"Lucho González,Lisandro López",Helton Arruda,3.0,Portugal
+2006-2007,R16,Inter,8.0,3.0,3.0,2.0,7.0,7.0,0.0,12.0,29487.0,Julio Ricardo Cruz,Júlio César,3.0,Italy
+2006-2007,R16,Celtic,8.0,3.0,1.0,4.0,8.0,10.0,-2.0,10.0,58832.0,Kenny Miller,Artur Boruc,3.0,Scotland
+2006-2007,GR,Steaua,10.0,4.0,3.0,3.0,16.0,14.0,2.0,15.0,24155.0,Nicolae Dică,"Carlos Fernandes,Cornel Cernea",4.0,Romania
+2006-2007,GR,CSKA Moscow,8.0,4.0,2.0,2.0,9.0,5.0,4.0,14.0,24551.0,"Daniel Carvalho,Ivica Olić... ",Igor Akinfeev,1.0,Russia
+2006-2007,GR,AEK Athens,8.0,4.0,2.0,2.0,11.0,10.0,1.0,14.0,40990.0,Júlio César,Stefano Sorrentino,2.0,Greece
+2006-2007,GR,FC Copenhagen,10.0,4.0,2.0,4.0,12.0,12.0,0.0,14.0,39680.0,Marcus Allbäck,Jesper Christiansen,3.0,Denmark
+2006-2007,GR,Dynamo Kyiv,10.0,3.0,3.0,4.0,18.0,20.0,-2.0,12.0,36667.0,Maksim Shatskikh,Oleksandr Shovkovskiy,2.0,Ukraine
+2006-2007,GR,Shakhtar,8.0,3.0,3.0,2.0,10.0,13.0,-3.0,12.0,25400.0,"Ciprian Marica,Matuzalém",Bohdan Shust,2.0,Ukraine
+2006-2007,GR,Benfica,8.0,3.0,2.0,3.0,11.0,9.0,2.0,11.0,45918.0,Fabrizio Miccoli,Quim,2.0,Portugal
+2006-2007,GR,Spartak Moscow,10.0,2.0,5.0,3.0,10.0,13.0,-3.0,11.0,35333.0,"Maksym Kalynychenko,Denis Boyarintsev... ",Wojciech Kowalewski,2.0,Russia
+2006-2007,GR,Werr Bremen,6.0,3.0,1.0,2.0,7.0,5.0,2.0,10.0,36885.0,"Torsten Frings,Frank Baumann... ",Tim Wiese,1.0,Germany
+2006-2007,GR,Levski Sofia,10.0,3.0,1.0,6.0,9.0,19.0,-10.0,10.0,36504.0,Mariyan Ognyanov,Georgi Petkov,1.0,Bulgaria
+2006-2007,GR,Galatasaray,8.0,2.0,2.0,4.0,13.0,15.0,-2.0,8.0,48018.0,"Saša Ilić,Ümit Karan",Faryd Mondragón,2.0,Turkey
+2006-2007,GR,Bordeaux,6.0,2.0,1.0,3.0,6.0,7.0,-1.0,7.0,25964.0,Julien Faubert,Ulrich Ramé,2.0,France
+2006-2007,GR,Sporting CP,6.0,1.0,2.0,3.0,3.0,6.0,-3.0,5.0,29239.0,"Carlos Bueno,Marco Caneira... ",Ricardo,1.0,Portugal
+2006-2007,GR,Hamburger SV,8.0,1.0,2.0,5.0,8.0,16.0,-8.0,5.0,48999.0,Rafael van der Vaart,Stefan Wächter,3.0,Germany
+2006-2007,GR,Anderlecht,6.0,0.0,4.0,2.0,7.0,11.0,-4.0,4.0,21027.0,"Nicolás Frutos,Mbo Mpenza",Daniel Zítka,2.0,Belgium
+2006-2007,GR,Olympiacos,6.0,0.0,3.0,3.0,6.0,11.0,-5.0,3.0,31101.0,Nery Castillo,Antonios Nikopolidis,3.0,Greece
+2005-2006,W,Barcelona,13.0,9.0,5.0,0.0,24.0,5.0,19.0,32.0,88420.0,Ronaldinho,Víctor Valdés,7.0,Spain
+2005-2006,F,Arsenal,13.0,8.0,5.0,1.0,15.0,4.0,11.0,29.0,45212.0,Thierry Henry,Jens Lehmann,5.0,England
+2005-2006,SF,Villarreal,14.0,5.0,7.0,2.0,12.0,9.0,3.0,22.0,22917.0,Diego Forlán,Sebastián Viera,3.0,Spain
+2005-2006,SF,Milan,12.0,5.0,5.0,2.0,20.0,10.0,10.0,20.0,59211.0,Andriy Shevchenko,Dida,9.0,Italy
+2005-2006,QF,Inter,12.0,7.0,3.0,2.0,17.0,9.0,8.0,24.0,23000.0,Adriano,"Júlio César,Francesco Toldo",5.0,Italy
+2005-2006,QF,Lyon,10.0,7.0,2.0,1.0,19.0,7.0,12.0,23.0,39437.0,"Juninho Pernambucano,John Carew",Grégory Coupet,3.0,France
+2005-2006,QF,Juventus,10.0,6.0,1.0,3.0,16.0,11.0,5.0,19.0,25416.0,David Trezeguet,Christian Abbiati,6.0,Italy
+2005-2006,QF,Benfica,10.0,4.0,3.0,3.0,8.0,7.0,1.0,15.0,54237.0,"Fabrizio Miccoli,Simão Sabrosa",Marcelo Moretto,2.0,Portugal
+2005-2006,R16,Liverpool,14.0,8.0,3.0,3.0,20.0,7.0,13.0,27.0,42543.0,"Luis García,Djibril Cissé",Pepe Reina,2.0,England
+2005-2006,R16,Ajax,10.0,4.0,4.0,2.0,17.0,12.0,5.0,16.0,46631.0,"Yannis Anastasiou,Nigel de Jong",Maarten Stekelenburg,3.0,Netherlands
+2005-2006,R16,Rangers,10.0,3.0,6.0,1.0,14.0,11.0,3.0,15.0,49040.0,Peter Løvenkrands,Ronald Waterreus,4.0,Scotland
+2005-2006,R16,Bayern Munich,8.0,4.0,2.0,2.0,12.0,9.0,3.0,14.0,65882.0,Sebastian Deisler,Oliver Kahn,3.0,Germany
+2005-2006,R16,Werr Bremen,10.0,4.0,1.0,5.0,20.0,18.0,2.0,13.0,37919.0,Johan Micoud,Andreas Reinke,4.0,Germany
+2005-2006,R16,Chelsea,8.0,3.0,3.0,2.0,9.0,4.0,5.0,12.0,36788.0,"Ricardo Carvalho,Frank Lampard... ",Petr Čech,2.0,England
+2005-2006,R16,Real Madrid,8.0,3.0,2.0,3.0,10.0,9.0,1.0,11.0,69796.0,"Iván Helguera,Raúl",Iker Casillas,2.0,Spain
+2005-2006,R16,PSV Eindhoven,8.0,3.0,1.0,4.0,4.0,11.0,-7.0,10.0,33250.0,Jefferson Farfán,Heurelho Gomes,2.0,Netherlands
+2005-2006,GR,Thun,10.0,4.0,2.0,4.0,11.0,11.0,0.0,14.0,31011.0,"Adriano Pimenta,Nelson Ferreira... ",Eldin Jakupović,1.0,Switzerland
+2005-2006,GR,Artmedia,12.0,3.0,5.0,4.0,14.0,16.0,-2.0,14.0,14356.0,"Balázs Borbély,Ján Kozák",Juraj Čobej,2.0,Slovakia
+2005-2006,GR,Udinese,8.0,4.0,1.0,3.0,14.0,14.0,0.0,13.0,28133.0,Vincenzo Iaquinta,Morgan De Sanctis,4.0,Italy
+2005-2006,GR,Manchester Utd,8.0,3.0,3.0,2.0,9.0,4.0,5.0,12.0,64736.0,"Ryan Giggs,Paul Scholes... ",Edwin van der Sar,1.0,England
+2005-2006,GR,Anderlecht,10.0,4.0,0.0,6.0,10.0,10.0,0.0,12.0,21649.0,Vincent Kompany,Silvio Proto,1.0,Belgium
+2005-2006,GR,Betis,8.0,3.0,2.0,3.0,6.0,9.0,-3.0,11.0,37333.0,"Arzu,Daniel Martín... ",Toni Doblas,1.0,Spain
+2005-2006,GR,Club Brugge,8.0,3.0,1.0,4.0,7.0,8.0,-1.0,10.0,27753.0,"Boško Balaban,Javier Portillo",Tomislav Butina,2.0,Belgium
+2005-2006,GR,Rapid Wien,10.0,3.0,1.0,6.0,14.0,19.0,-5.0,10.0,44600.0,Marek Kincl,Helge Payer,2.0,Austria
+2005-2006,GR,Schalke 04,6.0,2.0,2.0,2.0,12.0,9.0,3.0,8.0,53804.0,Levan Kobiashvili,Frank Rost,3.0,Germany
+2005-2006,GR,Rosenborg,8.0,2.0,2.0,4.0,10.0,14.0,-4.0,8.0,21053.0,"Daniel Braaten,Thorstein Helstad... ",Espen Johnsen,1.0,Norway
+2005-2006,GR,Panathinaikos,8.0,2.0,1.0,5.0,9.0,20.0,-11.0,7.0,45000.0,"Constantinos Charalambides,Ezequiel González... ",Mario Galinović,1.0,Greece
+2005-2006,GR,Lille,6.0,1.0,3.0,2.0,1.0,2.0,-1.0,6.0,59269.0,Milenko Ačimovič,Tony Sylva,1.0,France
+2005-2006,GR,Porto,6.0,1.0,2.0,3.0,8.0,9.0,-1.0,5.0,38855.0,Pepe,Vítor Baía,2.0,Portugal
+2005-2006,GR,Olympiacos,6.0,1.0,1.0,4.0,7.0,13.0,-6.0,4.0,30337.0,"Pantelis Kafes,Rivaldo",Antonios Nikopolidis,2.0,Greece
+2005-2006,GR,Fenerbahçe,6.0,1.0,1.0,4.0,7.0,14.0,-7.0,4.0,44298.0,Alex,Volkan Demirel,3.0,Turkey
+2005-2006,GR,Sparta Prague,6.0,0.0,2.0,4.0,2.0,9.0,-7.0,2.0,12382.0,"Miroslav Matušovič,Martin Petráš",Jaromír Blažek,1.0,Czech Republic
+2004-2005,W,Liverpool,15.0,8.0,5.0,3.0,20.0,10.0,10.0,29.0,48916.0,Luis García,Jerzy Dudek,5.0,England
+2004-2005,F,Milan,13.0,9.0,3.0,2.0,23.0,9.0,14.0,30.0,78489.0,Hernán Crespo,Dida,6.0,Italy
+2004-2005,SF,PSV Eindhoven,14.0,7.0,3.0,4.0,21.0,15.0,6.0,24.0,31758.0,"DaMarcus Beasley,Phillip Cocu",Heurelho Gomes,3.0,Netherlands
+2004-2005,SF,Chelsea,12.0,6.0,2.0,4.0,21.0,13.0,8.0,20.0,39254.0,Didier Drogba,Petr Čech,5.0,England
+2004-2005,QF,Juventus,12.0,7.0,3.0,2.0,15.0,7.0,8.0,24.0,29334.0,"Pavel Nedvěd,Alessandro Del Piero... ",Gianluigi Buffon,2.0,Italy
+2004-2005,QF,Inter,12.0,6.0,4.0,2.0,23.0,12.0,11.0,22.0,46356.0,Adriano,Francesco Toldo,7.0,Italy
+2004-2005,QF,Lyon,10.0,6.0,3.0,1.0,29.0,12.0,17.0,21.0,39416.0,Sylvain Wiltord,Grégory Coupet,6.0,France
+2004-2005,QF,Bayern Munich,10.0,5.0,1.0,4.0,20.0,13.0,7.0,16.0,54400.0,Roy Makaay,Oliver Kahn,7.0,Germany
+2004-2005,R16,Real Madrid,10.0,6.0,2.0,2.0,17.0,11.0,6.0,20.0,67193.0,"Luís Figo,Raúl",Iker Casillas,4.0,Spain
+2004-2005,R16,Monaco,10.0,6.0,0.0,4.0,19.0,7.0,12.0,18.0,15581.0,Javier Saviola,Flavio Roma,4.0,France
+2004-2005,R16,Manchester Utd,10.0,5.0,2.0,3.0,19.0,12.0,7.0,17.0,66849.0,Ruud van Nistelrooy,Roy Carroll,8.0,England
+2004-2005,R16,Leverkusen,10.0,4.0,2.0,4.0,21.0,15.0,6.0,14.0,22500.0,"Dimitar Berbatov,França... ",Hans-Jörg Butt,3.0,Germany
+2004-2005,R16,Arsenal,8.0,3.0,4.0,1.0,13.0,9.0,4.0,13.0,35022.0,Thierry Henry,Jens Lehmann,5.0,England
+2004-2005,R16,Barcelona,8.0,4.0,1.0,3.0,13.0,11.0,2.0,13.0,67579.0,"Samuel Eto'o,Ronaldinho",Víctor Valdés,4.0,Spain
+2004-2005,R16,Werr Bremen,8.0,4.0,1.0,3.0,14.0,16.0,-2.0,13.0,36761.0,Ivan Klasnić,Andreas Reinke,5.0,Germany
+2004-2005,R16,Porto,8.0,2.0,3.0,3.0,6.0,10.0,-4.0,9.0,50005.0,Benni McCarthy,Vítor Baía,3.0,Portugal
+2004-2005,GR,Shakhtar,10.0,5.0,1.0,4.0,15.0,13.0,2.0,16.0,24780.0,"Julius Aghahowa,Matuzalém",Jan Laštůvka,2.0,Ukraine
+2004-2005,GR,CSKA Moscow,10.0,4.0,3.0,3.0,10.0,7.0,3.0,15.0,23432.0,Sergei Semak,Igor Akinfeev,4.0,Russia
+2004-2005,GR,Rosenborg,10.0,4.0,2.0,4.0,15.0,17.0,-2.0,14.0,20912.0,Thorstein Helstad,Espen Johnsen,2.0,Norway
+2004-2005,GR,Maccabi Tel Aviv,10.0,4.0,2.0,4.0,9.0,12.0,-3.0,14.0,20340.0,Baruch Dego,Liran Strauber,4.0,Israel
+2004-2005,GR,Dynamo Kyiv,8.0,4.0,1.0,3.0,14.0,10.0,4.0,13.0,78333.0,"Florin Cernat,Diogo Rincón",Oleksandr Shovkovskiy,2.0,Ukraine
+2004-2005,GR,Olympiacos,6.0,3.0,1.0,2.0,5.0,5.0,0.0,10.0,32782.0,"Predrag Đorđević,Ioannis Okkas... ",Antonios Nikopolidis,1.0,Greece
+2004-2005,GR,Panathinaikos,6.0,2.0,3.0,1.0,11.0,8.0,3.0,9.0,11959.0,Ezequiel González,Kostas Chalkias,3.0,Greece
+2004-2005,GR,Fenerbahçe,6.0,3.0,0.0,3.0,10.0,13.0,-3.0,9.0,36701.0,Tuncay Şanlı,Rüştü Reçber,5.0,Turkey
+2004-2005,GR,Sparta Prague,10.0,2.0,2.0,6.0,8.0,17.0,-9.0,8.0,14711.0,"Tomáš Jun,Lukáš Zelenka",Jaromír Blažek,1.0,Czech Republic
+2004-2005,GR,Valencia,6.0,2.0,1.0,3.0,6.0,10.0,-4.0,7.0,35945.0,Vicente Rodríguez,Santiago Cañizares,2.0,Spain
+2004-2005,GR,La Coruña,8.0,1.0,3.0,4.0,3.0,9.0,-6.0,6.0,17473.0,,José Molina,,Spain
+2004-2005,GR,Paris S-G,6.0,1.0,2.0,3.0,3.0,8.0,-5.0,5.0,40629.0,"Charles-Édouard Coridon,Fabrice Pancrate... ",Lionel Letizi,1.0,France
+2004-2005,GR,Celtic,6.0,1.0,2.0,3.0,4.0,10.0,-6.0,5.0,58740.0,"John Hartson,Stanislav Varga... ",David Marshall,1.0,Scotland
+2004-2005,GR,Ajax,6.0,1.0,1.0,4.0,6.0,10.0,-4.0,4.0,49185.0,"Tomáš Galásek,Nicolae Mitea... ","Bogdan Lobonț,Hans Vonk...",1.0,Netherlands
+2004-2005,GR,Anderlecht,8.0,1.0,0.0,7.0,7.0,18.0,-11.0,3.0,21519.0,Christian Wilhelmsson,Daniel Zítka,2.0,Belgium
+2004-2005,GR,Roma,6.0,0.0,1.0,5.0,4.0,16.0,-12.0,1.0,19027.0,"Antonio Cassano,Vincenzo Montella... ",Ivan Pelizzoli,1.0,Italy
+2003-2004,W,Porto,13.0,7.0,6.0,1.0,20.0,12.0,8.0,27.0,45283.0,Benni McCarthy,Vítor Baía,4.0,Portugal
+2003-2004,F,Monaco,13.0,6.0,4.0,4.0,27.0,19.0,8.0,22.0,22558.0,Fernando Morientes,Flavio Roma,9.0,France
+2003-2004,SF,Chelsea,14.0,8.0,4.0,2.0,21.0,10.0,11.0,28.0,38013.0,Frank Lampard,Carlo Cudicini,4.0,England
+2003-2004,SF,La Coruña,14.0,7.0,3.0,4.0,20.0,17.0,3.0,24.0,26079.0,Albert Luque,José Molina,4.0,Spain
+2003-2004,QF,Real Madrid,10.0,6.0,3.0,1.0,18.0,11.0,7.0,21.0,59429.0,Ronaldo,Iker Casillas,4.0,Spain
+2003-2004,QF,Arsenal,10.0,5.0,2.0,3.0,16.0,11.0,5.0,17.0,35009.0,Thierry Henry,Jens Lehmann,5.0,England
+2003-2004,QF,Milan,10.0,5.0,2.0,3.0,12.0,9.0,3.0,17.0,47132.0,"Kaká,Andriy Shevchenko",Dida,4.0,Italy
+2003-2004,QF,Lyon,10.0,5.0,2.0,3.0,11.0,11.0,0.0,17.0,38740.0,Juninho Pernambucano,Grégory Coupet,5.0,France
+2003-2004,R16,Manchester Utd,8.0,5.0,1.0,2.0,15.0,5.0,10.0,16.0,66849.0,Ruud van Nistelrooy,Tim Howard,4.0,England
+2003-2004,R16,Loko Moscow,10.0,4.0,2.0,4.0,12.0,11.0,1.0,14.0,26750.0,Dmitri Loskov,Sergei Ovchinnikov,2.0,Russia
+2003-2004,R16,Juventus,8.0,4.0,1.0,3.0,15.0,8.0,7.0,13.0,17231.0,David Trezeguet,Gianluigi Buffon,4.0,Italy
+2003-2004,R16,Stuttgart,8.0,4.0,1.0,3.0,9.0,7.0,2.0,13.0,46919.0,Kevin Kurányi,Timo Hildebrand,3.0,Germany
+2003-2004,R16,Sparta Prague,10.0,3.0,4.0,3.0,11.0,13.0,-2.0,13.0,17994.0,Karel Poborský,Jaromír Blažek,2.0,Czech Republic
+2003-2004,R16,Celta Vigo,10.0,3.0,3.0,4.0,12.0,13.0,-1.0,12.0,20803.0,José Ignacio,José Manuel Pinto,2.0,Spain
+2003-2004,R16,Bayern Munich,8.0,2.0,4.0,2.0,7.0,7.0,0.0,10.0,54500.0,Roy Makaay,Oliver Kahn,5.0,Germany
+2003-2004,R16,Real Sociedad,8.0,2.0,3.0,3.0,8.0,10.0,-2.0,9.0,29148.0,Darko Kovačević,Sander Westerveld,2.0,Spain
+2003-2004,GR,Celtic,10.0,6.0,1.0,3.0,18.0,7.0,11.0,19.0,58941.0,Chris Sutton,Magnus Hedman,3.0,Scotland
+2003-2004,GR,Anderlecht,10.0,5.0,2.0,3.0,11.0,9.0,2.0,17.0,22053.0,Aruna Dindane,Daniel Zítka,2.0,Belgium
+2003-2004,GR,Dynamo Kyiv,8.0,4.0,1.0,3.0,13.0,9.0,4.0,13.0,79250.0,Diogo Rincón,Oleksandr Shovkovskiy,3.0,Ukraine
+2003-2004,GR,Galatasaray,8.0,4.0,1.0,3.0,12.0,8.0,4.0,13.0,47929.0,Hakan Şükür,Faryd Mondragón,5.0,Turkey
+2003-2004,GR,Lazio,8.0,3.0,2.0,3.0,10.0,11.0,-1.0,11.0,32670.0,Simone Inzaghi,Angelo Peruzzi,3.0,Italy
+2003-2004,GR,Club Brugge,8.0,3.0,2.0,3.0,8.0,9.0,-1.0,11.0,27505.0,Rune Lange,Dany Verlinden,2.0,Belgium
+2003-2004,GR,PSV Eindhoven,6.0,3.0,1.0,2.0,8.0,7.0,1.0,10.0,28167.0,"Wilfred Bouma,John de Jong... ",Ronald Waterreus,2.0,Netherlands
+2003-2004,GR,Ajax,8.0,3.0,1.0,4.0,9.0,9.0,0.0,10.0,49365.0,Wesley Sonck,Bogdan Lobonț,4.0,Netherlands
+2003-2004,GR,Marseille,8.0,2.0,2.0,4.0,10.0,11.0,-1.0,8.0,54935.0,Didier Drogba,Vedran Runje,5.0,France
+2003-2004,GR,Inter,6.0,2.0,2.0,2.0,8.0,11.0,-3.0,8.0,34033.0,"Daniele Adani,Christian Vieri",Francesco Toldo,2.0,Italy
+2003-2004,GR,Partizan,10.0,1.0,5.0,4.0,7.0,12.0,-5.0,8.0,31441.0,Andrija Delibašić,Đorđe Pantić,3.0,Serbia
+2003-2004,GR,Rangers,8.0,2.0,2.0,4.0,7.0,12.0,-5.0,8.0,48425.0,"Emerson,Michael Mols... ",Stefan Klos,1.0,Scotland
+2003-2004,GR,Beşiktaş,6.0,2.0,1.0,3.0,5.0,7.0,-2.0,7.0,31379.0,"Daniel Pancu,Sergen Yalçın",Óscar Córdoba,2.0,Turkey
+2003-2004,GR,AEK Athens,8.0,1.0,2.0,5.0,4.0,13.0,-9.0,5.0,10238.0,Vasilios Tsiartas,Chrisostomos Michailidis,1.0,Greece
+2003-2004,GR,Olympiacos,6.0,1.0,1.0,4.0,6.0,13.0,-7.0,4.0,13005.0,"Nery Castillo,Ieroklis Stoltidis",Fanis Katergiannakis,2.0,Greece
+2003-2004,GR,Panathinaikos,6.0,1.0,1.0,4.0,5.0,13.0,-8.0,4.0,9469.0,Michalis Konstantinou,Antonios Nikopolidis,2.0,Greece
