@@ -3,3 +3,6 @@ UEFA/venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd
 
 # Ignorar archivos grandes de Clang
 UEFA/venv/Lib/site-packages/clang/native/libclang.dll
+
+venv/
+
