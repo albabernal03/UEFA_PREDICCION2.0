@@ -6,9 +6,9 @@ from nbformat import read
 
 # Diccionario para asociar modelos con índices de celda específicos
 modelos_indices_celda = {
-    '../modelos/Aprendizaje por refuerzo/cadenas_markov.ipynb': 8,
-    "../modelos/modelo2.ipynb": 1,
-    "../modelos/modelo3.ipynb": 2,
+    os.path.abspath('../modelos/Aprendizaje por refuerzo/cadenas_markov.ipynb'): 8,
+    os.path.abspath("../modelos/modelo2.ipynb"): 1,
+    os.path.abspath("../modelos/modelo3.ipynb"): 2,
     # Agrega más modelos y sus índices de celda aquí
 }
 
@@ -68,7 +68,7 @@ if opcion.isdigit() and 1 <= int(opcion) <= len(notebooks_encontrados):
     notebook_seleccionado = notebooks_encontrados[notebook_index]
     
     # Obtener el índice de celda asociado al modelo seleccionado
-    indice_celda = modelos_indices_celda.get(notebook_seleccionado)
+    indice_celda = modelos_indices_celda.get(os.path.abspath(notebook_seleccionado))
     
     if indice_celda is not None:
         ejecutar_notebook(notebook_seleccionado, indice_celda)
