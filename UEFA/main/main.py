@@ -118,3 +118,5 @@ if opcion.isdigit() and 1 <= int(opcion) <= len(notebooks_encontrados):
         print("No se ha especificado un índice de celda para este modelo.")
 else:
     print("Opción inválida.")
+
+#TODO: Terminar de implementar rutas de archivos y modelos
