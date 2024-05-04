@@ -41,7 +41,7 @@ rutas_datos = {
     "partidos_2023-2024": "../../data/partidos_2023-2024.csv",
     "equipos": "../../data/equipos.csv",
     "jugadores": "../../data/jugadores.csv",
-    "imagenes":"../../imagenes",
+    "imagenes":"../../images",
     "imagenes_prueba":"../../imagenes_prueba",
     # Agrega más rutas de archivos según sea necesario
 }
@@ -83,6 +83,7 @@ def ejecutar_notebook(notebook, indice_celda):
         
         # Devolver el resultado
         return output_resultado
+    
     except Exception as e:
         print(f"Error al ejecutar el notebook {notebook}: {str(e)}")
         return None
@@ -129,31 +130,39 @@ if opcion == "1":
     else:
         print("Opción inválida.")
 
+
 elif opcion == "2":
     print("Seleccione el tipo de modelo de imágenes:")
     print("1. Convolutional Neural Network (CNN)")
     print("2. Transfer Learning (TL)")
 
+    # Diccionario para asociar modelos de imágenes con índices de celda específicos
+    modelos_indices_celda_imagenes = {
+        os.path.abspath('../modelos/Aprendizaje profundo/CNN.ipynb'): 5,
+        os.path.abspath("../modelos/Aprendizaje profundo/TL.ipynb"): 2,
+        # Agrega más modelos y sus índices de celda aquí
+    }
+
     opcion_modelo_imagenes = input("Ingrese el número del modelo de imágenes que desea utilizar: ")
 
     if opcion_modelo_imagenes == "1":
-        # Ejecutar el notebook de DNN
-        notebook_dnn = os.path.abspath("../modelos/Aprendizaje profundo/DNN.ipynb")
-        indice_celda_dnn = modelos_indices_celda.get(notebook_dnn)
-        if indice_celda_dnn is not None:
-            output_resultado = ejecutar_notebook(notebook_dnn, indice_celda_dnn)
+        # Ejecutar el notebook de CNN
+        notebook_cnn = os.path.abspath("../modelos/Aprendizaje profundo/CNN.ipynb")
+        indice_celda_cnn = modelos_indices_celda_imagenes.get(notebook_cnn)
+        if indice_celda_cnn is not None:
+            output_resultado = ejecutar_notebook(notebook_cnn, indice_celda_cnn)
             if output_resultado:
                 print("Resultado de la ejecución:")
                 print(output_resultado)
             else:
                 print("No se encontró ningún resultado de ejecución para la celda de salida.")
         else:
-            print("No se ha especificado un índice de celda para el modelo DNN.")
-            
+            print("No se ha especificado un índice de celda para el modelo CNN.")
+
     elif opcion_modelo_imagenes == "2":
         # Ejecutar el notebook de TL
         notebook_tl = os.path.abspath("../modelos/Aprendizaje profundo/TL.ipynb")
-        indice_celda_tl = modelos_indices_celda.get(notebook_tl)
+        indice_celda_tl = modelos_indices_celda_imagenes.get(notebook_tl)
         if indice_celda_tl is not None:
             output_resultado = ejecutar_notebook(notebook_tl, indice_celda_tl)
             if output_resultado:
@@ -189,3 +198,4 @@ elif opcion == "4":
     print("Saliendo del programa...")
 else:
     print("Opción inválida.")
+
