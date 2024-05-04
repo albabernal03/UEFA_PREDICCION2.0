@@ -7,6 +7,7 @@ from nbformat import read
 # Definir las rutas de los archivos de datos
 rutas_datos = {
     "partidos": "../../data/partidos_limpio.csv",
+    "partidos_2023-2024": "../../data/partidos_2023-2024.csv",
     "equipos": "../../data/equipos.csv",
     "jugadores": "../../data/jugadores.csv",
     # Agrega más rutas de archivos según sea necesario
