@@ -1,6 +1,27 @@
+
 import os
 import papermill as pm
-from nbformat import read
+import nbformat
+import pandas as pd
+
+# Función para actualizar la ruta en un notebook
+def actualizar_ruta_en_notebook(notebook_path, old_path, new_path):
+    try:
+        # Cargar el notebook
+        with open(notebook_path, 'r', encoding='utf-8') as f:
+            notebook = nbformat.read(f, as_version=4)
+        
+        # Actualizar la celda que contiene la ruta del archivo
+        for cell in notebook['cells']:
+            if old_path in cell['source']:
+                cell['source'] = cell['source'].replace(old_path, new_path)
+        
+        # Guardar el notebook modificado
+        with open(notebook_path, 'w', encoding='utf-8') as f:
+            nbformat.write(notebook, f)
+
+    except Exception as e:
+        print(f"Error al actualizar la ruta en el notebook {notebook_path}: {str(e)}")
 
 # Función para ejecutar automáticamente los notebooks de web scraping y limpieza de datos
 def ejecutar_scraping_limpieza():
@@ -35,6 +56,27 @@ def ejecutar_scraping_limpieza():
 # Ejecutar automáticamente el web scraping y la limpieza de datos al inicio del programa
 ejecutar_scraping_limpieza()
 
+# Definir las rutas de los archivos a actualizar
+rutas_a_actualizar = {
+    "../../data/partidos_limpio.csv": "../data/partidos_limpio.csv",
+    "../../data/partidos_2023-2024_limpio.csv": "../data/partidos_2023-2024_limpio.csv",
+    "../../data/equipos.csv": "../data/equipos.csv",
+    "../../data/jugadores.csv": "../data/jugadores.csv",
+    "../../images": "../images",
+    "../../imagenes_prueba": "../imagenes_prueba",
+
+    # Agrega más rutas a actualizar aquí si es necesario
+}
+
+
+# Actualizar las rutas en todos los notebooks
+for root, dirs, files in os.walk("../modelos"):
+    for file in files:
+        if file.endswith(".ipynb"):
+            notebook_path = os.path.join(root, file)
+            for old_path, new_path in rutas_a_actualizar.items():
+                actualizar_ruta_en_notebook(notebook_path, old_path, new_path)
+
 # Definir las rutas de los archivos de datos
 rutas_datos = {
     "partidos": "../data/partidos_limpio.csv",
@@ -48,10 +90,8 @@ rutas_datos = {
 # Diccionario para asociar modelos con índices de celda específicos
 modelos_indices_celda = {
     os.path.abspath('../modelos/Aprendizaje por refuerzo/cadenas_markov.ipynb'): 21,
-    os.path.abspath("../modelos/modelo2.ipynb"): 1,
+    os.path.abspath("../modelos/Aprendizaje profundo/DNN.ipynb"): 2,
     os.path.abspath("../modelos/modelo3.ipynb"): 2,
-    os.path.abspath("../modelos/Aprendizaje profundo/CNN.ipynb"): 6,  # Ajusta el índice de celda según la ubicación del resultado en el notebook
-    os.path.abspath("../modelos/Aprendizaje profundo/TL.ipynb"): 0,   # Ajusta el índice de celda según la ubicación del resultado en el notebook
     # Agrega más modelos y sus índices de celda aquí
 }
 
@@ -84,7 +124,7 @@ def listar_notebooks(carpeta_raiz):
     notebooks = []
     for ruta, _, archivos in os.walk(carpeta_raiz):
         for archivo in archivos:
-            if archivo.lower() in ["cnn.ipynb", "tl.ipynb"]:
+            if archivo.endswith(".ipynb"):
                 notebooks.append(os.path.join(ruta, archivo))
     return notebooks
 
@@ -120,3 +160,5 @@ if opcion.isdigit() and 1 <= int(opcion) <= len(notebooks_encontrados):
         print("No se ha especificado un índice de celda para este modelo.")
 else:
     print("Opción inválida.")
+
+# TODO: Terminar de implementar rutas de archivos y modelos

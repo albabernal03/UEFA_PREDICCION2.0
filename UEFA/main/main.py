@@ -40,7 +40,7 @@ ejecutar_scraping_limpieza()
 # Definir las rutas de los archivos de datos
 rutas_datos = {
     "partidos": "../data/partidos_limpio.csv",
-    "partidos_2023-2024": "../data/partidos_2023-2024.csv",
+    "partidos_2023-2024": "../data/partidos_2023-2024_limpio.csv",
     "equipos": "../data/equipos.csv",
     "jugadores": "../data/jugadores.csv",
     "imagenes":"../images",
@@ -50,7 +50,7 @@ rutas_datos = {
 # Diccionario para asociar modelos con índices de celda específicos
 modelos_indices_celda = {
     os.path.abspath('../modelos/Aprendizaje por refuerzo/cadenas_markov.ipynb'): 21,
-    os.path.abspath("../modelos/Aprendizaje profundo/CNN.ipynb"): 0,
+    os.path.abspath("../modelos/Aprendizaje profundo/DNN.ipynb"): 6,
     os.path.abspath("../modelos/modelo3.ipynb"): 2,
     # Agrega más modelos y sus índices de celda aquí
 }
