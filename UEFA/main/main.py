@@ -50,7 +50,7 @@ rutas_datos = {
 # Diccionario para asociar modelos con índices de celda específicos
 modelos_indices_celda = {
     os.path.abspath('../modelos/Aprendizaje por refuerzo/cadenas_markov.ipynb'): 21,
-    os.path.abspath("../modelos/modelo2.ipynb"): 1,
+    os.path.abspath("../modelos/Aprendizaje profundo/CNN.ipynb"): 0,
     os.path.abspath("../modelos/modelo3.ipynb"): 2,
     # Agrega más modelos y sus índices de celda aquí
 }
