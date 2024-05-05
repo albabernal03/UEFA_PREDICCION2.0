@@ -39,11 +39,12 @@ ejecutar_scraping_limpieza()
 
 # Definir las rutas de los archivos de datos
 rutas_datos = {
-    "partidos": "../../data/partidos_limpio.csv",
-    "partidos_2023-2024": "../../data/partidos_2023-2024.csv",
-    "equipos": "../../data/equipos.csv",
-    "jugadores": "../../data/jugadores.csv",
-    # Agrega más rutas de archivos según sea necesario
+    "partidos": "../data/partidos_limpio.csv",
+    "partidos_2023-2024": "../data/partidos_2023-2024.csv",
+    "equipos": "../data/equipos.csv",
+    "jugadores": "../data/jugadores.csv",
+    "imagenes":"../images",
+    "imagenes_prueba":"../imagenes_prueba",
 }
 
 # Diccionario para asociar modelos con índices de celda específicos
@@ -70,6 +71,7 @@ def ejecutar_notebook(notebook, indice_celda):
         
         # Devolver el resultado
         return output_resultado
+    
     except Exception as e:
         print(f"Error al ejecutar el notebook {notebook}: {str(e)}")
         return None
