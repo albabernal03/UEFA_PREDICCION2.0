@@ -17,19 +17,25 @@ def ejecutar_notebook(notebook_path, output_path):
     return output_notebook
 
 def mostrar_celda(output_notebook, cell_index):
-    # Abrir el notebook de salida y mostrar la celda específica
-    with open(output_notebook) as f:
+    # Abrir el notebook de salida y mostrar solo los resultados de la celda específica
+    with open(output_notebook, 'r', encoding='utf-8') as f:  # Especificar codificación utf-8
         nb = nbformat.read(f, as_version=4)
-        cell = nb.cells[cell_index]
-        print(f"Contenido de la celda {cell_index} en {output_notebook}:")
-        print(cell['source'])
+        if 'outputs' in nb.cells[cell_index]:
+            print(f"Resultados de la celda {cell_index} en {output_notebook}:")
+            for output in nb.cells[cell_index]['outputs']:
+                if 'text' in output:
+                    print(output['text'])
+                elif 'data' in output:
+                    for key, value in output['data'].items():
+                        if key.startswith('text/plain'):
+                            print(value)
 
 def elegir_modelo():
     modelos = [
-        ("Aprendizaje no supervisado", "clustering.ipynb", 10),  # índice de la celda para clustering
-        ("Aprendizaje por refuerzo", "cadenas_markov.ipynb", 21),   # índice de la celda para cadenas de markov
-        ("Aprendizaje profundo", "CNN.ipynb", 15),                # índice de la celda para CNN
-        ("Aprendizaje supervisado", "clasificacion.ipynb", 36)  # índice de la celda para clasificación mejorada
+        ("Aprendizaje no supervisado", "clustering.ipynb", 10),
+        ("Aprendizaje por refuerzo", "cadenas_markov.ipynb", 20),
+        ("Aprendizaje profundo", "DNN.ipynb", 5),
+        ("Aprendizaje supervisado", "clasificacion_mejorado.ipynb", 36)
     ]
     print("Elige un modelo para predecir los resultados de la Champions League:")
     for i, (categoria, modelo, _) in enumerate(modelos, 1):
@@ -49,6 +55,7 @@ if __name__ == "__main__":
     if not os.path.exists(full_output_path):
         os.makedirs(full_output_path)
 
-    # Ejecutar el modelo seleccionado y mostrar la celda específica
+    # Ejecutar el modelo seleccionado y mostrar solo los resultados de la celda especificada
     output_notebook = ejecutar_notebook(notebook_path, output_path)
-    mostrar_celda(output_notebook, celda_index)  # Usa el índice de celda específico para el modelo seleccionado
+    mostrar_celda(output_notebook, celda_index)
+
