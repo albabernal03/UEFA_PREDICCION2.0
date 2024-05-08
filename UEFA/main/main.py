@@ -50,8 +50,8 @@ rutas_datos = {
 # Diccionario para asociar modelos con índices de celda específicos
 modelos_indices_celda = {
     os.path.abspath('../modelos/Aprendizaje por refuerzo/cadenas_markov.ipynb'): 21,
-    os.path.abspath("../modelos/Aprendizaje profundo/DNN.ipynb"): 6,
-    os.path.abspath("../modelos/modelo3.ipynb"): 2,
+    os.path.abspath("../modelos/Aprendizaje profundo/DNN.ipynb"): 5,
+    os.path.abspath("../modelos/Aprendizaje supervisado/clasificacion.ipynb"): 39,
     # Agrega más modelos y sus índices de celda aquí
 }
 
@@ -65,16 +65,24 @@ def ejecutar_notebook(notebook, indice_celda):
             parameters={"rutas_datos": rutas_datos},  # Pasar el diccionario de rutas de archivos como parámetro
             kernel_name='python'
         )
-
-        # Obtener el resultado de la ejecución de la celda de salida
-        output_resultado = output_nb.cells[indice_celda].outputs[0].data['text/plain']
         
-        # Devolver el resultado
-        return output_resultado
-    
+        # Verificar si la celda indicada existe y tiene outputs
+        if indice_celda < len(output_nb.cells):
+            if output_nb.cells[indice_celda].outputs:
+                output_data = output_nb.cells[indice_celda].outputs[0].data
+                if 'text/plain' in output_data:
+                    return output_data['text/plain']
+                else:
+                    return "No text output in cell"
+            else:
+                return "La celda no tiene outputs."
+        else:
+            return "Índice de celda fuera de rango."
+
     except Exception as e:
         print(f"Error al ejecutar el notebook {notebook}: {str(e)}")
         return None
+
 
 # Carpeta raíz donde se encuentran los modelos
 carpeta_raiz = "../modelos"
