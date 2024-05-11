@@ -1,132 +1,65 @@
-# script_menu_prediccion.py
+#Aqui estuvimos probando el uso de papermill para ejecutar notebooks desde un script de python
+#El objetivo era ejecutar un notebook de jupyter y mostrar solo los resultados de una celda específica
+#Esto se ha conseguido pero al final no se ha usado en el proyecto final
 
 import os
 import papermill as pm
-from nbformat import read
+import nbformat
 
-# Función para ejecutar automáticamente los notebooks de web scraping y limpieza de datos
-def ejecutar_scraping_limpieza():
-    try:
-        # Obtener la lista de archivos en la carpeta de web scraping
-        carpeta_scraping = "../webscraping"
-        archivos_scraping = [os.path.join(carpeta_scraping, archivo) for archivo in os.listdir(carpeta_scraping) if archivo.endswith(".ipynb")]
+def ejecutar_notebook(notebook_path, output_path):
+    # Construir la ruta absoluta del notebook original y de salida
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    input_path = os.path.join(base_dir, notebook_path)
+    output_notebook = os.path.join(base_dir, output_path, f"output_{os.path.basename(notebook_path)}")
 
-        # Ejecutar cada archivo de web scraping
-        for archivo_scraping in archivos_scraping:
-            try:
-                pm.execute_notebook(
-                    archivo_scraping,
-                    None,  # No se guarda la salida en ningún archivo
-                    parameters={},  # No se necesitan parámetros adicionales para el web scraping
-                    kernel_name='python'
-                )
-                print(f"Ejecución de {archivo_scraping} completada correctamente.")
-            except Exception as e:
-                print(f"Error al ejecutar {archivo_scraping}: {str(e)}")
+    # Ejecutar el notebook y guardar la salida
+    pm.execute_notebook(
+        input_path=input_path,
+        output_path=output_notebook,
+        parameters={}
+    )
+    return output_notebook
 
-        # Ejecutar el notebook de limpieza de datos
-        pm.execute_notebook(
-            os.path.abspath('../analisis/limpieza.ipynb'),
-            None,  # No se guarda la salida en ningún archivo
-            parameters={},  # No se necesitan parámetros adicionales para la limpieza de datos
-            kernel_name='python'
-        )
-    except Exception as e:
-        print(f"Error al ejecutar el web scraping y la limpieza de datos: {str(e)}")
+def mostrar_celda(output_notebook, cell_index):
+    # Abrir el notebook de salida y mostrar solo los resultados de la celda específica
+    with open(output_notebook, 'r', encoding='utf-8') as f:  # Especificar codificación utf-8
+        nb = nbformat.read(f, as_version=4)
+        if 'outputs' in nb.cells[cell_index]:
+            print(f"Resultados de la celda {cell_index} en {output_notebook}:")
+            for output in nb.cells[cell_index]['outputs']:
+                if 'text' in output:
+                    print(output['text'])
+                elif 'data' in output:
+                    for key, value in output['data'].items():
+                        if key.startswith('text/plain'):
+                            print(value)
 
-# Ejecutar automáticamente el web scraping y la limpieza de datos al inicio del programa
-ejecutar_scraping_limpieza()
+def elegir_modelo():
+    modelos = [
+        ("Aprendizaje no supervisado", "clustering.ipynb", 10),
+        ("Aprendizaje por refuerzo", "cadenas_markov.ipynb", 20),
+        ("Aprendizaje profundo", "DNN.ipynb", 5),
+        ("Aprendizaje supervisado", "clasificacion_mejorado.ipynb", 36)
+    ]
+    print("Elige un modelo para predecir los resultados de la Champions League:")
+    for i, (categoria, modelo, _) in enumerate(modelos, 1):
+        print(f"{i}. {categoria} - {modelo}")
+    seleccion = int(input("Introduce el número del modelo: ")) - 1
+    return modelos[seleccion]
 
-# Definir las rutas de los archivos de datos
-rutas_datos = {
-    "partidos": "../data/partidos_limpio.csv",
-    "partidos_2023-2024": "../data/partidos_2023-2024_limpio.csv",
-    "equipos": "../data/equipos.csv",
-    "jugadores": "../data/jugadores.csv",
-    "imagenes":"../images",
-    "imagenes_prueba":"../imagenes_prueba",
-}
+if __name__ == "__main__":
+    modelo_seleccionado = elegir_modelo()
+    path, notebook, celda_index = modelo_seleccionado
+    notebook_path = f"../modelos/{path}/{notebook}"
+    output_path = "outputs"
 
-# Diccionario para asociar modelos con índices de celda específicos
-modelos_indices_celda = {
-    os.path.abspath('../modelos/Aprendizaje por refuerzo/cadenas_markov.ipynb'): 21,
-    os.path.abspath("../modelos/Aprendizaje profundo/DNN.ipynb"): 5,
-    os.path.abspath("../modelos/Aprendizaje supervisado/clasificacion.ipynb"): 39,
-    # Agrega más modelos y sus índices de celda aquí
-}
+    # Asegúrate de que el directorio de salida existe
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    full_output_path = os.path.join(base_dir, output_path)
+    if not os.path.exists(full_output_path):
+        os.makedirs(full_output_path)
 
-# Función para ejecutar un notebook y devolver el resultado
-def ejecutar_notebook(notebook, indice_celda):
-    try:
-        # Ejecutar el notebook sin guardar la salida en un archivo temporal
-        output_nb = pm.execute_notebook(
-            notebook,
-            None,  # No se guarda la salida en ningún archivo
-            parameters={"rutas_datos": rutas_datos},  # Pasar el diccionario de rutas de archivos como parámetro
-            kernel_name='python'
-        )
-        
-        # Verificar si la celda indicada existe y tiene outputs
-        if indice_celda < len(output_nb.cells):
-            if output_nb.cells[indice_celda].outputs:
-                output_data = output_nb.cells[indice_celda].outputs[0].data
-                if 'text/plain' in output_data:
-                    return output_data['text/plain']
-                else:
-                    return "No text output in cell"
-            else:
-                return "La celda no tiene outputs."
-        else:
-            return "Índice de celda fuera de rango."
+    # Ejecutar el modelo seleccionado y mostrar solo los resultados de la celda especificada
+    output_notebook = ejecutar_notebook(notebook_path, output_path)
+    mostrar_celda(output_notebook, celda_index)
 
-    except Exception as e:
-        print(f"Error al ejecutar el notebook {notebook}: {str(e)}")
-        return None
-
-
-# Carpeta raíz donde se encuentran los modelos
-carpeta_raiz = "../modelos"
-
-# Función para listar todos los notebooks en una carpeta y sus subcarpetas
-def listar_notebooks(carpeta_raiz):
-    notebooks = []
-    for ruta, _, archivos in os.walk(carpeta_raiz):
-        for archivo in archivos:
-            if archivo.endswith(".ipynb"):
-                notebooks.append(os.path.join(ruta, archivo))
-    return notebooks
-
-# Lista todos los notebooks en la carpeta raíz y subcarpetas
-notebooks_encontrados = listar_notebooks(carpeta_raiz)
-
-# Mostrar los notebooks encontrados
-print("Bienvenido al predictor de ganador de la Champions League!")
-print("Por favor, seleccione un modelo para predecir el ganador:")
-
-for i, notebook in enumerate(notebooks_encontrados, start=1):
-    print(f"{i}. {os.path.relpath(notebook, carpeta_raiz)}")
-
-opcion = input("Ingrese el número del modelo que desea utilizar: ")
-
-# Validar la opción ingresada por el usuario
-if opcion.isdigit() and 1 <= int(opcion) <= len(notebooks_encontrados):
-    notebook_index = int(opcion) - 1
-    notebook_seleccionado = notebooks_encontrados[notebook_index]
-    
-    # Obtener el índice de celda asociado al modelo seleccionado
-    indice_celda = modelos_indices_celda.get(os.path.abspath(notebook_seleccionado))
-    
-    if indice_celda is not None:
-        # Ejecutar el notebook y obtener el resultado
-        output_resultado = ejecutar_notebook(notebook_seleccionado, indice_celda)
-        if output_resultado:
-            print("Resultado de la ejecución:")
-            print(output_resultado)
-        else:
-            print("No se encontró ningún resultado de ejecución para la celda de salida.")
-    else:
-        print("No se ha especificado un índice de celda para este modelo.")
-else:
-    print("Opción inválida.")
-
-#TODO: Terminar de implementar rutas de archivos y modelos
