@@ -57,7 +57,7 @@ for year in years:
             datos_totales.append(datos_fila)
 
 # Escribimos los datos en un archivo CSV
-ruta_csv = 'data/partidos_2023-2024.csv'
+ruta_csv = '../data/partidos_2023-2024.csv'
 with open(ruta_csv, 'w', newline='', encoding='utf-8') as archivo_csv:
     escritor_csv = csv.writer(archivo_csv)
     for fila in datos_totales:

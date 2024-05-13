@@ -47,7 +47,7 @@ for year in years:
 # Cambiamos el encabezado de la primera columna
 datos_totales[0][0] = 'Season'
 # Escribimos los datos en un archivo CSV
-csv_file = 'data/datos_champions.csv'
+csv_file = '../data/datos_champions.csv'
 with open(csv_file, 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     for row in datos_totales:
